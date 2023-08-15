@@ -1,0 +1,1 @@
+# LEI Nº 6.704 / 2023 "INSTITUI NO ÂMBITO DA CÂMARA MUNICIPAL DE MURIAÉ A COMENDA DO MÉRITO DO PROFISSIONAL DE SAÚDE, DR. MAURÍCIO DRUMMOND ALVES" O Prefeito Municipal de Muriaé Faço saber que a Câmara Municipal aprovou, e eu sanciono a seguinte lei:
