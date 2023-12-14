@@ -1,0 +1,2 @@
+# LEI Nº 6.870 /2023 "Dispõe sobre a proteção de consciência e de crença nas instituições religiosas e dá outras providências. Garante a templos, escolas confessionais e instituições mantidas por entidades religiosas a atribuição do uso de seus banheiros de acordo com a definição biológica de sexo."
+O Prefeito Municipal de Muriaé Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
