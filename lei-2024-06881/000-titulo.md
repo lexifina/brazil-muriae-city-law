@@ -1,0 +1,2 @@
+# LEI Nº 6.881/ 2024 "Autoriza o Chefe do Poder Executivo Municipal a efetivar abertura de Crédito Adicional Especial na LOA − Lei Orçamentária nº 6.869, de 19 de dezembro de 2023 e criar subunidade na Secretaria Municipal de Saúde, visando adequar as dotações orçamentárias à sua gestão plena dos prestadores" O Prefeito Municipal de Muriaé:
+Faço saber que a Câmara Municipal aprovou, e eu, em seu nome sanciono a seguinte lei:
