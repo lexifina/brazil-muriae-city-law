@@ -1,0 +1,1 @@
+# LEI Nº 7.019 / 2024 "Dispõe sobre a instituição do PROGRAMA MUNICIPAL TODOS CONTRA A DENGUE, a adoção de medidas de vigilância em saúde para controle do mosquito Aedes aegypti, e estabelece outras providências".
