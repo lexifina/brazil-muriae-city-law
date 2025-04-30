@@ -1,0 +1,2 @@
+# LEI Nº 7.245/2025 "Altera a Lei nº 5.953/2020, Dispõe sobre a proibição da venda, queima, soltura, manuseio, transporte e o uso de fogos de artifício e artefatos pirotécnicos acima de 70 decibéis, tecnicamente classificados como fogos de tiro, no município de Muriaé e dá outras providências."
+O Prefeito Municipal de Muriaé, Faço saber que a Câmara Municipal aprovou, e eu sanciono a seguinte Lei:
