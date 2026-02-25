@@ -1,0 +1,1 @@
+# LEI Nº 7.546 /2026 Dispõe sobre a implantação e regulamentação da Política Municipal de Incentivo aos Atletas/paratletas denominada programa bolsa atleta/paratleta no âmbito do município de Muriaé, estabelecendo critérios de elegibilidade, gestão, fiscalização e dá outras providências.
