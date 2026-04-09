@@ -1,0 +1,2 @@
+# LEI Nº 7.598 / 2026 "Acrescenta o parágrafo § 4° ao art. 30 da Lei Municipal nº 5.934, de 06 de dezembro de 2019, para assegurar, no âmbito do Município de Muriaé, o direito da pessoa com Transtorno do Espectro Autista - TEA de ingressar e permanecer em estabelecimentos públicos e privados de uso coletivo portando alimentos para consumo próprio e utensílios de alimentação, e dá outras providências" O Prefeito Municipal de Muriaé:
+Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:
