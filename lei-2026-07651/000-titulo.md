@@ -1,0 +1,3 @@
+# LEI Nº. 7.651 /2026 INSTITUI A POLÍTICA MUNICIPAL DE AQUISIÇÃO DE ALIMENTOS DA AGRICULTURA FAMILIAR - PAA FAMILIAR, NO MUNICÍPIO DE MURIAÉ E DÁ OUTRAS PROVIDÊNCIAS. O PREFEITO MUNICIPAL DE MURIAÉ:
+O Prefeito Municipal de Muriaé:
+Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:
