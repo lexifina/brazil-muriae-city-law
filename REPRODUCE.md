@@ -11,6 +11,9 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -213,20 +216,154 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2025-07534` | Lei nº 7.534, de 30 de dezembro de 2025 | 1 | 2025-12-31 to 2025-12-31 |
 | `lei-2025-07533` | Lei nº 7.533, de 30 de dezembro de 2025 | 1 | 2025-12-31 to 2025-12-31 |
 | `lei-2025-07539` | Lei nº 7.539, de 24 de dezembro de 2025 | 1 | 2025-12-24 to 2025-12-24 |
+| `lei-2025-07538` | Lei nº 7.538, de 22 de dezembro de 2025 | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-2025-07537` | Lei nº 7.537, de 22 de dezembro de 2025 | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-2025-07532` | Lei nº 7.532, de 10 de dezembro de 2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `lei-2025-07531` | Lei nº 7.531, de 10 de dezembro de 2025 | 1 | 2025-12-10 to 2025-12-10 |
+| `lei-2025-07530` | Lei nº 7.530, de 10 de dezembro de 2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `lei-2025-07529` | Lei nº 7.529, de 10 de dezembro de 2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `lei-2025-07528` | Lei nº 7.528, de 10 de dezembro de 2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `lei-2025-07526` | Lei nº 7.526, de 10 de dezembro de 2025 | 1 | 2025-12-11 to 2025-12-11 |
+| `lei-2025-07527` | Lei nº 7.527, de 9 de dezembro de 2025 | 1 | 2025-12-10 to 2025-12-10 |
+| `lei-2025-07522` | Lei nº 7.522, de 3 de dezembro de 2025 | 1 | 2025-12-04 to 2025-12-04 |
+| `lei-2025-07520` | Lei nº 7.520, de 3 de dezembro de 2025 | 1 | 2025-12-04 to 2025-12-04 |
+| `lei-2025-07524` | Lei nº 7.524, de 2 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-07523` | Lei nº 7.523, de 2 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-07521` | Lei nº 7.521, de 2 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-07519` | Lei nº 7.519, de 2 de dezembro de 2025 | 1 | 2025-12-03 to 2025-12-03 |
+| `lei-2025-07516` | Lei nº 7.516, de 25 de novembro de 2025 | 1 | 2025-11-26 to 2025-11-26 |
+| `lei-2025-07515` | Lei nº 7.515, de 25 de novembro de 2025 | 1 | 2025-11-26 to 2025-11-26 |
+| `lei-2025-07514` | Lei nº 7.514, de 25 de novembro de 2025 | 1 | 2025-11-26 to 2025-11-26 |
+| `lei-2025-07513` | Lei nº 7.513, de 25 de novembro de 2025 | 1 | 2025-11-26 to 2025-11-26 |
+| `lei-2025-07511` | Lei nº 7.511, de 19 de novembro de 2025 | 1 | 2025-11-21 to 2025-11-21 |
+| `lei-2025-07501` | Lei nº 7.501, de 19 de novembro de 2025 | 1 | 2025-11-21 to 2025-11-21 |
+| `lei-2025-07512` | Lei nº 7.512, de 18 de novembro de 2025 | 1 | 2025-11-19 to 2025-11-19 |
+| `lei-2025-07508` | Lei nº 7.508, de 18 de novembro de 2025 | 1 | 2025-11-19 to 2025-11-19 |
+| `lei-2025-07507` | Lei nº 7.507, de 18 de novembro de 2025 | 1 | 2025-11-19 to 2025-11-19 |
+| `lei-2025-07500` | Lei nº 7.500, de 17 de novembro de 2025 | 1 | 2025-11-18 to 2025-11-18 |
+| `lei-2025-07505` | Lei nº 7.505, de 14 de novembro de 2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `lei-2025-07503` | Lei nº 7.503, de 14 de novembro de 2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `lei-2025-07499` | Lei nº 7.499, de 14 de novembro de 2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `lei-2025-07498` | Lei nº 7.498, de 14 de novembro de 2025 | 1 | 2025-11-17 to 2025-11-17 |
+| `lei-2025-07504` | Lei nº 7.504, de 11 de novembro de 2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `lei-2025-07502` | Lei nº 7.502, de 11 de novembro de 2025 | 1 | 2025-11-12 to 2025-11-12 |
+| `lei-2025-07493` | Lei nº 7.493, de 6 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-07492` | Lei nº 7.492, de 6 de novembro de 2025 | 1 | 2025-11-07 to 2025-11-07 |
+| `lei-2025-07489` | Lei nº 7.489, de 6 de novembro de 2025 | 1 | 2025-11-07 to 2025-11-07 |
+| `lei-2025-07486` | Lei nº 7.486, de 6 de novembro de 2025 | 1 | 2025-11-07 to 2025-11-07 |
+| `lei-2025-07485` | Lei nº 7.485, de 5 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-07497` | Lei nº 7.497, de 4 de novembro de 2025 | 1 | 2025-11-05 to 2025-11-05 |
+| `lei-2025-07496` | Lei nº 7.496, de 4 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-07494` | Lei nº 7.494, de 4 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-07491` | Lei nº 7.491, de 4 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-07490` | Lei nº 7.490, de 4 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-07487` | Lei nº 7.487, de 4 de novembro de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-07470` | Lei nº 7.470, de 4 de novembro de 2025 | 1 | 2025-11-05 to 2025-11-05 |
+| `lei-2025-07473` | Lei nº 7.473, de 29 de outubro de 2025 | 1 | 2025-10-30 to 2025-10-30 |
+| `lei-2025-07478` | Lei nº 7.478, de 28 de outubro de 2025 | 1 | 2025-10-29 to 2025-10-29 |
+| `lei-2025-07480` | Lei nº 7.480, de 24 de outubro de 2025 | 1 | 2025-10-27 to 2025-10-27 |
+| `lei-2025-07479` | Lei nº 7.479, de 24 de outubro de 2025 | 1 | 2025-10-27 to 2025-10-27 |
+| `lei-2025-07484` | Lei nº 7.484, de 22 de outubro de 2025 | 1 | 2025-10-23 to 2025-10-23 |
+| `lei-2025-07482` | Lei nº 7.482, de 22 de outubro de 2025 | 1 | 2025-10-23 to 2025-10-23 |
+| `lei-2025-07481` | Lei nº 7.481, de 22 de outubro de 2025 | 1 | 2025-10-23 to 2025-10-23 |
+| `lei-2025-07449` | Lei nº 7.449, de 16 de outubro de 2025 | 1 | 2025-10-17 to 2025-10-17 |
+| `lei-2025-07477` | Lei nº 7.477, de 15 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-07476` | Lei nº 7.476, de 15 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-07475` | Lei nº 7.475, de 15 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-07474` | Lei nº 7.474, de 15 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-07472` | Lei nº 7.472, de 15 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-07471` | Lei nº 7.471, de 15 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-07466` | Lei nº 7.466, de 14 de outubro de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-07469` | Lei nº 7.469, de 8 de outubro de 2025 | 1 | 2025-10-09 to 2025-10-09 |
+| `lei-2025-07468` | Lei nº 7.468, de 8 de outubro de 2025 | 1 | 2025-10-09 to 2025-10-09 |
+| `lei-2025-07463` | Lei nº 7.463, de 1 de outubro de 2025 | 1 | 2025-10-02 to 2025-10-02 |
+| `lei-2025-07467` | Lei nº 7.467, de 30 de setembro de 2025 | 1 | 2025-10-01 to 2025-10-01 |
+| `lei-2025-07465` | Lei nº 7.465, de 30 de setembro de 2025 | 1 | 2025-10-01 to 2025-10-01 |
+| `lei-2025-07459` | Lei nº 7.459, de 25 de setembro de 2025 | 1 | 2025-09-26 to 2025-09-26 |
+| `lei-2025-07458` | Lei nº 7.458, de 25 de setembro de 2025 | 1 | 2025-09-26 to 2025-09-26 |
+| `lei-2025-07457` | Lei nº 7.457, de 25 de setembro de 2025 | 1 | 2025-09-26 to 2025-09-26 |
+| `lei-2025-07456` | Lei nº 7.456, de 25 de setembro de 2025 | 1 | 2025-09-26 to 2025-09-26 |
+| `lei-2025-07462` | Lei nº 7.462, de 23 de setembro de 2025 | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-07461` | Lei nº 7.461, de 23 de setembro de 2025 | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-07460` | Lei nº 7.460, de 23 de setembro de 2025 | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-07455` | Lei nº 7.455, de 23 de setembro de 2025 | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-07450` | Lei nº 7.450, de 18 de setembro de 2025 | 1 | 2025-09-22 to 2025-09-22 |
+| `lei-2025-07448` | Lei nº 7.448, de 18 de setembro de 2025 | 1 | 2025-09-22 to 2025-09-22 |
+| `lei-2025-07434` | Lei nº 7.434, de 18 de setembro de 2025 | 1 | 2025-09-19 to 2025-09-19 |
+| `lei-2025-07446` | Lei nº 7.446, de 17 de setembro de 2025 | 1 | 2025-09-18 to 2025-09-18 |
+| `lei-2025-07445` | Lei nº 7.445, de 17 de setembro de 2025 | 1 | 2025-09-17 to 2025-09-17 |
+| `lei-2025-07441` | Lei nº 7.441, de 17 de setembro de 2025 | 1 | 2025-09-18 to 2025-09-18 |
+| `lei-2025-07453` | Lei nº 7.453, de 16 de setembro de 2025 | 1 | 2025-09-18 to 2025-09-18 |
+| `lei-2025-07452` | Lei nº 7.452, de 16 de setembro de 2025 | 1 | 2025-09-18 to 2025-09-18 |
+| `lei-2025-07444` | Lei nº 7.444, de 16 de setembro de 2025 | 1 | 2025-09-18 to 2025-09-18 |
+| `lei-2025-07443` | Lei nº 7.443, de 16 de setembro de 2025 | 1 | 2025-09-17 to 2025-09-17 |
+| `lei-2025-07435` | Lei nº 7.435, de 12 de setembro de 2025 | 1 | 2025-09-15 to 2025-09-15 |
+| `lei-2025-07433` | Lei nº 7.433, de 12 de setembro de 2025 | 1 | 2025-09-15 to 2025-09-15 |
+| `lei-2025-07440` | Lei nº 7.440, de 11 de setembro de 2025 | 1 | 2025-09-12 to 2025-09-12 |
+| `lei-2025-07438` | Lei nº 7.438, de 11 de setembro de 2025 | 1 | 2025-09-12 to 2025-09-12 |
+| `lei-2025-07432` | Lei nº 7.432, de 11 de setembro de 2025 | 1 | 2025-09-12 to 2025-09-12 |
+| `lei-2025-07439` | Lei nº 7.439, de 9 de setembro de 2025 | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-07437` | Lei nº 7.437, de 9 de setembro de 2025 | 1 | 2025-09-10 to 2025-09-10 |
+| `lei-2025-07427` | Lei nº 7.427, de 5 de setembro de 2025 | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-2025-07426` | Lei nº 7.426, de 5 de setembro de 2025 | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-2025-07425` | Lei nº 7.425, de 5 de setembro de 2025 | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-2025-07424` | Lei nº 7.424, de 5 de setembro de 2025 | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-2025-07423` | Lei nº 7.423, de 5 de setembro de 2025 | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-2025-07422` | Lei nº 7.422, de 4 de setembro de 2025 | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-07421` | Lei nº 7.421, de 3 de setembro de 2025 | 1 | 2025-09-04 to 2025-09-04 |
+| `lei-2025-07418` | Lei nº 7.418, de 3 de setembro de 2025 | 1 | 2025-09-04 to 2025-09-04 |
+| `lei-2025-07430` | Lei nº 7.430, de 2 de setembro de 2025 | 1 | 2025-09-04 to 2025-09-04 |
+| `lei-2025-07428` | Lei nº 7.428, de 2 de setembro de 2025 | 1 | 2025-09-03 to 2025-09-03 |
+| `lei-2025-07420` | Lei nº 7.420, de 2 de setembro de 2025 | 1 | 2025-09-03 to 2025-09-03 |
+| `lei-2025-07417` | Lei nº 7.417, de 1 de setembro de 2025 | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-07413` | Lei nº 7.413, de 1 de setembro de 2025 | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-07363` | Lei nº 7.363, de 1 de setembro de 2025 | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-07362` | Lei nº 7.362, de 1 de setembro de 2025 | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-07419` | Lei nº 7.419, de 29 de agosto de 2025 | 1 | 2025-09-01 to 2025-09-01 |
+| `lei-2025-07416` | Lei nº 7.416, de 29 de agosto de 2025 | 1 | 2025-09-01 to 2025-09-01 |
+| `lei-2025-07404` | Lei nº 7.404, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07403` | Lei nº 7.403, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07402` | Lei nº 7.402, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07401` | Lei nº 7.401, de 28 de agosto de 2025 | 1 | 2025-08-28 to 2025-08-28 |
+| `lei-2025-07400` | Lei nº 7.400, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07399` | Lei nº 7.399, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07398` | Lei nº 7.398, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07397` | Lei nº 7.397, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07396` | Lei nº 7.396, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07395` | Lei nº 7.395, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07394` | Lei nº 7.394, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07393` | Lei nº 7.393, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07392` | Lei nº 7.392, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07391` | Lei nº 7.391, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07390` | Lei nº 7.390, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07389` | Lei nº 7.389, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07388` | Lei nº 7.388, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07387` | Lei nº 7.387, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07386` | Lei nº 7.386, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07385` | Lei nº 7.385, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07384` | Lei nº 7.384, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07383` | Lei nº 7.383, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07382` | Lei nº 7.382, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07381` | Lei nº 7.381, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07380` | Lei nº 7.380, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07379` | Lei nº 7.379, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07375` | Lei nº 7.375, de 28 de agosto de 2025 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-07378` | Lei nº 7.378, de 27 de agosto de 2025 | 1 | 2025-08-28 to 2025-08-28 |
+| `lei-2025-07377` | Lei nº 7.377, de 27 de agosto de 2025 | 1 | 2025-08-28 to 2025-08-28 |
 
-The build made 195 commits:
+The build made 329 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 195 | first version of an act |
+| 329 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 195 laws in the record.
-- 390 tags.
+- 329 laws in the record.
+- 658 tags.
 
 ## Dates
 
@@ -238,18 +375,27 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4a8f1452f56987b0cde1f5dff03bbcc145af88a7e398be9229b5a427c9f3d5d4` (823426 bytes).
+- Corpus: sha256 `f88381f1abd0f3e60cd6b46c3e7671922ab1e0a0b953952db4f6ec54d148e47e` (1344822 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-195 versions of 195 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+329 versions of 329 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
@@ -275,6 +421,9 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
