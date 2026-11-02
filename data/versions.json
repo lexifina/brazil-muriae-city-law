@@ -1,0 +1,2735 @@
+{
+ "country": "BR-MG-MURIAE",
+ "acts": [
+  {
+   "slug": "lei-2026-07774",
+   "short": "Lei 7774/2026",
+   "title": "Lei nº 7.774, de 30 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8715",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8715/lei_no_7.774_de_2026_-_denominacao_de_antonio_nicolino_vardiero_a_travessa_em_tubo_de_concreto.pdf",
+     "sha256": "7d653f0305e85ca0110c4a39897e18d31a490129c01b1a837fe27393fb605c35"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07772",
+   "short": "Lei 7772/2026",
+   "title": "Lei nº 7.772, de 23 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8713",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8713/lei_no_7.772_de_2026_-_alt._lei_n._5.766_-_bolsa_atleta.pdf",
+     "sha256": "8bcdc159c296ee0431de55ed336c757b76d49d19a684b1d8f68c8965d60e5757"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07769",
+   "short": "Lei 7769/2026",
+   "title": "Lei nº 7.769, de 23 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8710",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8710/lei_no_7.769_de_2026_-_abertura_de_credito_suplementar_de_32.00000_para_aposentadoria_e_pensao_1.pdf",
+     "sha256": "c4062130138b3297e25937b63c14a4dee042fe9434800078951aebf953a89474"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07767",
+   "short": "Lei 7767/2026",
+   "title": "Lei nº 7.767, de 23 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8708",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8708/lei_no_7.767_de_2026_-_ldo_-_r_3.002.46605.pdf",
+     "sha256": "7063b7fe716828c8d2ac9758ed490b7d0d6f03041da4e0798be9e50656c2db0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07763",
+   "short": "Lei 7763/2026",
+   "title": "Lei nº 7.763, de 23 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8705",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8705/lei_no_7.763_de_2026_-_abertura_de_credito_suplementar_excesso_superavit_saude_e_educacao_-_r_2.187.64409.pdf",
+     "sha256": "93d8fd5340f6fc89adca1b4ae7aa3e7cd4c6d95a0c0911968f43bb20a131217a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07773",
+   "short": "Lei 7773/2026",
+   "title": "Lei nº 7.773, de 22 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8714",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8714/lei_no_7.773_de_2026_-_fomento_-_muriae_x_acarem_-_novo_97.37530.pdf",
+     "sha256": "43b3fac3a14be086d71479aeed7f7b3366d71f59f541a82b3d43104a64e5be0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07771",
+   "short": "Lei 7771/2026",
+   "title": "Lei nº 7.771, de 22 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8712",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8712/lei_no_7.771_de_2026_-_da_denominacao_de_morro_genarino_vieira_da_cruz_ao_morro_localizado_em_bom_jesus..pdf",
+     "sha256": "9ca3299371386d4b951a117373304a55edaba9ab19bd295ed99ff7727917b764"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07770",
+   "short": "Lei 7770/2026",
+   "title": "Lei nº 7.770, de 22 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8711",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8711/lei_no_7.770_de_2026_-_da_denominacao_de_estrada_corintho_lourenco_a_estrada_localizada.pdf",
+     "sha256": "a58cde8b40e35e9b5ed373287d63fea29e6c99bae7d1b93c40d8429b93edd275"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07764",
+   "short": "Lei 7764/2026",
+   "title": "Lei nº 7.764, de 22 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8706",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8706/lei_no_7.764_de_2026-_centro_de_direitos_humanos_-_maria_lucia_de_castro_mayrink.pdf",
+     "sha256": "ca9459806d8626e8e8d69b54c8d5e9c46e2bfdd1ef737c43ac68a8f2b2480679"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07757",
+   "short": "Lei 7757/2026",
+   "title": "Lei nº 7.757, de 17 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8703",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8703/lei_no_7.757_de_2026_-_da_denominacao_de_jose_rea_dos_santos_a_estrada_de_acesso_a_patrimonio_dos_carneiros.pdf",
+     "sha256": "dbed0e6df43344341d656e6611f15ac549b60005413895fbac5434f98dc2e5ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07756",
+   "short": "Lei 7756/2026",
+   "title": "Lei nº 7.756, de 17 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8702",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8702/lei_no_7.756_de_2026_-_da_denominacao_de_paulo_anchieta_goulart_a_estrada_da_acesso_a_fazenda_da_pedra.pdf",
+     "sha256": "6a7709c1925dd008c5b97e62caa72e9158a8554d18cfc326995cb49200efef3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07762",
+   "short": "Lei 7762/2026",
+   "title": "Lei nº 7.762, de 15 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8701",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8701/lei_no_7.762_de_2026-_fomento_-_muriae_x_acarem.pdf",
+     "sha256": "8d72a68447b122213f41293801b16b09e0f963cd04efa5d2efc2ef1a660be2ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07761",
+   "short": "Lei 7761/2026",
+   "title": "Lei nº 7.761, de 15 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8700",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8700/lei_no_7.761_de_2026_-_abertura_de_credito_suplementar_-_anulacao__demsur_5.530.91827.pdf",
+     "sha256": "8059077e1346e86951d7f0cfdc025e43fe6a21d6c6eeb9307307d99685312d8e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07760",
+   "short": "Lei 7760/2026",
+   "title": "Lei nº 7.760, de 15 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8699",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8699/lei_no_7.760_de_2026_-_abertura_de_credito_suplementar_-_superavit__demsur_-_r_912.70684.pdf",
+     "sha256": "4e9533107672ae10ec1208a6e98001fb87caa9752aa457309dddcb4b8ccf535b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07758",
+   "short": "Lei 7758/2026",
+   "title": "Lei nº 7.758, de 15 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8698",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 15,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8698/lei_no_7.758_de_2026-_egm_-_o_programa_municipal_de_residencia_pedagogica_e_multiprofissional_da_educacao_-_prpm_-_19_de_agosto.pdf",
+     "sha256": "9f8d8f7eb68b73675c953d0e01a935c7e940b344cea3ee4e3e090813420a7bd5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07754",
+   "short": "Lei 7754/2026",
+   "title": "Lei nº 7.754, de 4 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8690",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8690/lei_no_7.754_de_2026_-_reconhece_de_utilidade_publica_a_associacao_de_desenvolvimento_do_carater_-_adc.pdf",
+     "sha256": "1667206ef5aa767fd5858aadcc7d5249856b24ca7e5957e80ed6973ce5b855bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07753",
+   "short": "Lei 7753/2026",
+   "title": "Lei nº 7.753, de 1 de setembro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8689",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8689/lei_no_7.753_de_2026_-_da_denominacao_de_ponte_oriza_goncalves_barbosa_para_a_ponte_localizada_no_distrito_de_belisario.pdf",
+     "sha256": "8a004c72171a3305b3a248cf4aed0deade1b43ffebe9fe1c9ab7ea771a704662"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07752",
+   "short": "Lei 7752/2026",
+   "title": "Lei nº 7.752, de 25 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8688",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8688/lei_no_7.752_de_2026-_abertura_de_credito_suplementar_-_superavit__r_399.43000.pdf",
+     "sha256": "84ec52f5639acc1001bcdd3d879b758182615c863765a628811483f90ad95050"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07751",
+   "short": "Lei 7751/2026",
+   "title": "Lei nº 7.751, de 25 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8687",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8687/lei_no_7.751_de_2026_-_abertura_especial_anulacao_r_20.83330__-_corpo_bombeiro.pdf",
+     "sha256": "7eb48345631b354e1a59a64839b184cb304dca5f77defe77e2b639517c8ce905"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07749",
+   "short": "Lei 7749/2026",
+   "title": "Lei nº 7.749, de 25 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8685",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8685/lei_no_7.749_de_2026_-_declara_de_utilidade_publica_municipal_a_associacao_amigos_de_iracambi.pdf",
+     "sha256": "492e35aaab930ce9a9fab3c33707a8962435627c82d66115d7e425d2b0a24432"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07748",
+   "short": "Lei 7748/2026",
+   "title": "Lei nº 7.748, de 25 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8684",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8684/lei_no_7.748_de_2026_-_declara_de_utilidade_publica_municipal_a_associacao_amigos_de_iracambi..pdf",
+     "sha256": "674bf2793ec49c59e0b3112364d28a210b26bc61a042864c23f4dc5ca53b7fe6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07746",
+   "short": "Lei 7746/2026",
+   "title": "Lei nº 7.746, de 25 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8683",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 18,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8683/lei_no_7.746_de_2026_-_institui_a_politica_municipal_de_recuperacao_e_destinacao_social_de_imoveis_habitacionais_ociosos_abandonados_ou_retomados.pdf",
+     "sha256": "b17322f0be242b97f4688a0483d6ea67c569d058c2abd6b708b06cb4405aba9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07745",
+   "short": "Lei 7745/2026",
+   "title": "Lei nº 7.745, de 25 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8682",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 12,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8682/lei_no_7.745_de_2026_-_obrigatoriedade_de_os_estabelecimentos_bancarios_e_demais_instituicoes_financeiras_disponibilizarem_estrutura_adequada__filas_externas.pdf",
+     "sha256": "f510fd9516b23bbc6836a1177171405c33f03cf1f0ba6a141a400cc01c126586"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07740",
+   "short": "Lei 7740/2026",
+   "title": "Lei nº 7.740, de 25 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8681",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 14,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8681/lei_no_7.740_de_2026_-_vaga_verde_no_ambito_do_municipio_de_muriae_destinado_a_conversao_de_vagas_de_estacionamento_em_espacos_publicos.pdf",
+     "sha256": "14948b898e7574bef00f4f2e11e4b0282c7103981e36bbb182228ba1b745b6a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07743",
+   "short": "Lei 7743/2026",
+   "title": "Lei nº 7.743, de 20 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8679",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8679/lei_no_7.743_de_2026_-_institui_a_politica_municipal_ubs_segura_no_ambito_do_municipio_de_muriae.pdf",
+     "sha256": "05accf2f8700b1748015923e35463ef48bf2672a75ef01e26ed88f8ab915c2a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07741",
+   "short": "Lei 7741/2026",
+   "title": "Lei nº 7.741, de 20 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8678",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8678/lei_no_7.741_de_2026_-_institui_o_programa_municipal_de_conscientizacao_e_apoio_as_pessoas_com_doencas_neurodegenerativas_no_municipio_de_muriae_e_da_outras_providencias..pdf",
+     "sha256": "3bfeebab74c9c411cf82ed9335cc8f91cc589cbf175d8dd96d738bf2e93e5824"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07737",
+   "short": "Lei 7737/2026",
+   "title": "Lei nº 7.737, de 20 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8677",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8677/lei_no_7.737_de_2026_-_diretrizes_para_o_atendimento_prioritario_e_humanizado_as_mulheres_em_situacao_de_violencia_nas_unidades_de_saude_do_municipio.pdf",
+     "sha256": "d457c7530df16efd8baea9982a50772603d32e9f7452d977136c21a409659df0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07747",
+   "short": "Lei 7747/2026",
+   "title": "Lei nº 7.747, de 18 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8675",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8675/lei_no_7.747_de_2026_-_caee_-_guilherme_jose_rocha_de_freitas_-_caee_dornelas.pdf",
+     "sha256": "63fab308b6b08700ffa87739505ac588c1480f5679d0d0dc51dbfa47b12656a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07742",
+   "short": "Lei 7742/2026",
+   "title": "Lei nº 7.742, de 13 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8673",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 14,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8673/lei_no_7.742_de_2026_-_medalha_legislativa_voz_da_inclusao_carlos_augusto_de_oliveira_caca_da_cadeira.pdf",
+     "sha256": "d457b579ef74f7525722c19c295319e625fa4012782e53eb801e022b3c53b244"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07739",
+   "short": "Lei 7739/2026",
+   "title": "Lei nº 7.739, de 13 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8672",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8672/lei_no_7.739_de_2026_-_denomina_estrada_municipal_joao_baptista_gravina_a_via_publica_municipal_localizada_na_regiao_da_pedra_santa_maria_._certo.pdf",
+     "sha256": "808aa449f0887b8567ed217f89dfd0df9c8007721fc42a2b20def496d0adae3f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07736",
+   "short": "Lei 7736/2026",
+   "title": "Lei nº 7.736, de 13 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8671",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8671/lei_no_7.736_de_2026_-_manutencao_de_ao_menos_um_cardapio_fisico_impresso_pelos_estabelecimentos_comerciais.pdf",
+     "sha256": "34c0c9b53d56f88b9605cce9a95c4e989f1f7dce9a7d2d660cee7b9566160d48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07735",
+   "short": "Lei 7735/2026",
+   "title": "Lei nº 7.735, de 13 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8670",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8670/lei_no_7.735_de_2026_-_semana_municipal_de_prevencao_e_combate_ao_diabetes_no_ambito_do_municipio_de_muriae.pdf",
+     "sha256": "564c4d98c36c5d8604b802208a0a948d0b77052a7d3af9b8a30e097c918a64ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07722",
+   "short": "Lei 7722/2026",
+   "title": "Lei nº 7.722, de 13 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8667",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8667/lei_no_7.722_de_2026_-institui_a_politica_municipal_de_prevencao_orientacao_e_enfrentamento_dos_acidentes_com_animais_peconhentos.pdf",
+     "sha256": "7323889c40009385aa239528a012ee6af64ef1131b6e28c9a83fb26414f713a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07734",
+   "short": "Lei 7734/2026",
+   "title": "Lei nº 7.734, de 12 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8669",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8669/lei_no_7.734_de_2026_-_quadra_de_areia_francisco_soares_sobrinho.pdf",
+     "sha256": "64038f49f4b1fed0e6f9aa7e0acba6756c3d7714ac87dbd4d7d1f729456ff214"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07738",
+   "short": "Lei 7738/2026",
+   "title": "Lei nº 7.738, de 11 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8665",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8665/lei_no_7.738_de_2026_-_bets_e_consignados.pdf",
+     "sha256": "8fa4cc7e1c14fe9b1cba536037e6769dd5323017cc5340ce7c037cf2e009cbcc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07733",
+   "short": "Lei 7733/2026",
+   "title": "Lei nº 7.733, de 11 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8668",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8668/lei_no_7.733_de_2023-_alterado_autoriza_a_eleicao_suplementar_indireta_conselho_tutelar_1.pdf",
+     "sha256": "1c34465f6bc6628480c3b51225c652b02a862cf9cfee801b2c9f90320b31669f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07723",
+   "short": "Lei 7723/2026",
+   "title": "Lei nº 7.723, de 11 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8676",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8676/lei_no_7.723_de_2026_-retirada_de_veiculos_abandonados_nas_vias_publicas_do_municipio_de_muriae.pdf",
+     "sha256": "0e9bcb583ad70e61738e5f66c80f4181780f71e5b6d059a5d115835912174388"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07732",
+   "short": "Lei 7732/2026",
+   "title": "Lei nº 7.732, de 4 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8663",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8663/lei_no_7.732_de_2026_-_da_denominacao_de_helio_sygiliao_ribeiro_ao_ponto_de_apoio_patrimonio_dos_carneiros.pdf",
+     "sha256": "5d9684c0f628ba732411c7fb142744a0ccf2a5322f1c9ca0fa5ef9bc23c38bda"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07731",
+   "short": "Lei 7731/2026",
+   "title": "Lei nº 7.731, de 4 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8662",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8662/lei_no_7.731_de_2026_-_da_denominacao_de_pedro_fernandes_da_silva_a_farmacia_municipal_-_polo_mercado_municipal.pdf",
+     "sha256": "440a4cea7f83363c9e74d13456360a7f2b5730eb576ae982eecfee6ccd17e835"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07730",
+   "short": "Lei 7730/2026",
+   "title": "Lei nº 7.730, de 4 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8661",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8661/lei_no_7.730_de_2026_-_da_denominacao_de_magna_lenis_da_silva_ao_ponto_de_apoio_dornelas_ii.pdf",
+     "sha256": "11d1b3627a7e61a80e648dcbb0e363adc38cbc27cf4e349551de2566a249f4d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07729",
+   "short": "Lei 7729/2026",
+   "title": "Lei nº 7.729, de 4 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8660",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8660/lei_no_7.729_de_2026_-_abertura_de_credito_especial_saude_educacao_-_excesso_anulacao_-_r_691.41928.pdf",
+     "sha256": "906879770f960a5c66dc9872ba4ffa2b481daa239c361492670c94c99ca9a197"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07728",
+   "short": "Lei 7728/2026",
+   "title": "Lei nº 7.728, de 4 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8659",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8659/lei_no_7.728_de_2026_-_fomento_-_fundarte_x_aml_1.pdf",
+     "sha256": "7a79888afe9a7221805fb31ee8cc70399302b89e36366676b0329408a2d30675"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07725",
+   "short": "Lei 7725/2026",
+   "title": "Lei nº 7.725, de 4 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8656",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8656/lei_no_7.725_de_2026_-_ldo_-_r_4.177.66282.pdf",
+     "sha256": "2bb7b7a203e85409bfe1be2443ffc98e444c4be98b63fbb61b68adde0f9a9190"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07724",
+   "short": "Lei 7724/2026",
+   "title": "Lei nº 7.724, de 4 de agosto de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8655",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8655/lei_no_7.724_de_2026_-_abertura_de_credito_especial_-_excesso_e_superavit_r_4.177.66282.pdf",
+     "sha256": "11e2d7f33c843b2e22b725ac7a162bfdd1384deb310973e0ad99f437534d07fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07720",
+   "short": "Lei 7720/2026",
+   "title": "Lei nº 7.720, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8654",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8654/lei_no_7.720-2026_-_valtenir_de_lima_e_silva.pdf",
+     "sha256": "fb0511c725fc6788866462f3d4dc8ca124b975cf3638d2caa73b0c04edcb6243"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07719",
+   "short": "Lei 7719/2026",
+   "title": "Lei nº 7.719, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8653",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8653/lei_no_7.719-2026_-_simone_de_castro_azevedo_peixoto.pdf",
+     "sha256": "2f48af14ba0a618111c4ddb99f842becb2904dd842473b162836de55ed862bad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07718",
+   "short": "Lei 7718/2026",
+   "title": "Lei nº 7.718, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8652",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8652/lei_no_7.718-2026_-_raphael_reis_ligeiro.pdf",
+     "sha256": "499dde18be6d61a217eb900373f634bb210dab7f4a2ab975cbeb4b43f1b31c8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07717",
+   "short": "Lei 7717/2026",
+   "title": "Lei nº 7.717, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8651",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8651/lei_no_7.717-2026_-_mauricio_jose_machado_pirozi.pdf",
+     "sha256": "14f39b23c3ca57f5143765851521e0a8cdd25ce3a208641dd5d67d59aefc4706"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07716",
+   "short": "Lei 7716/2026",
+   "title": "Lei nº 7.716, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8650",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8650/lei_no_7.716-2026_-_joao_carlos_dos_santos.pdf",
+     "sha256": "25cb91d12ee0bf68a00298e32f7550343ac101fe1e90ce4fee8f033130ac313a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07715",
+   "short": "Lei 7715/2026",
+   "title": "Lei nº 7.715, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8649",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8649/lei_no_7.715-2026_-_iris_maria_da_costa_amancio.pdf",
+     "sha256": "5ce6b2478aed0171a64dd9627a9db751d5e229c51250482dd4f5e3726262766e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07714",
+   "short": "Lei 7714/2026",
+   "title": "Lei nº 7.714, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8648",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8648/lei_no_7.714-2026_-_henrique_lourenco_pena.pdf",
+     "sha256": "98f0a98347baa852e7a32d80b8707ece0ae2320fe64c9d4f0e5fa41fe9ff789e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07713",
+   "short": "Lei 7713/2026",
+   "title": "Lei nº 7.713, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8647",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8647/lei_no_7.713-2026_-_graziela_machado_porcaro_e_almeida.pdf",
+     "sha256": "7b906b2db0fc260d9cd6e3bc96f19844502ea0c95a31f0348ce1a83e2fc164f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07712",
+   "short": "Lei 7712/2026",
+   "title": "Lei nº 7.712, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8646",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8646/lei_no_7.712-2026_-_fabio_rodrigues_pereira.pdf",
+     "sha256": "a39096030aa5d81a5f666e9319f73bce6b9b6c7af9bbb5f99ecea3fde0d1b972"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07710",
+   "short": "Lei 7710/2026",
+   "title": "Lei nº 7.710, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8644",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8644/lei_no_7.710-2026_-_amanda_caroline_teixeira_dias.pdf",
+     "sha256": "d1156d745ac0eae8c4a51d0a54fd59251a13f183768c9e26fa08af65ae6e85bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07709",
+   "short": "Lei 7709/2026",
+   "title": "Lei nº 7.709, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8643",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8643/lei_no_7.709-2026_-_silvia_cristina_de_castro_almeida.pdf",
+     "sha256": "c9011f76d3767eefd8991cef42d21c1fa1bf0ff962ccb069481ad7aaaf803b18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07708",
+   "short": "Lei 7708/2026",
+   "title": "Lei nº 7.708, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8642",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8642/lei_no_7.708-2026_-_paulo_alexandre_de_oliveira_carvalho.pdf",
+     "sha256": "cdfcb83a18f19670eda87b59b03f37ff5ef32029511f70c500f408ee6c10c275"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07707",
+   "short": "Lei 7707/2026",
+   "title": "Lei nº 7.707, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8641",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8641/lei_no_7.707-2026_-_miriam_da_consolacao_carvalho_ferraz.pdf",
+     "sha256": "1f8337ec2eac1652261cd893f72fd761306aecf0d4567dc3b4382ff69a5a1a41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07706",
+   "short": "Lei 7706/2026",
+   "title": "Lei nº 7.706, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8640",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8640/lei_no_7.706-2026_-_flavio_hugo_venturini.pdf",
+     "sha256": "54611ffbfa35836b241e903543b308571f53beb59564004e4ed5593618ac6026"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07705",
+   "short": "Lei 7705/2026",
+   "title": "Lei nº 7.705, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8639",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8639/lei_no_7.705-2026_-_dr_fernando_gomes_schettini.pdf",
+     "sha256": "679b0610ae6b7af33ae768fa625571e229c36bafc5fc3691aabe82e634aba1f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07704",
+   "short": "Lei 7704/2026",
+   "title": "Lei nº 7.704, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8638",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8638/lei_no_7.704-2026_-_debora_goncalves_chaves_dagnoni.pdf",
+     "sha256": "f1bfbabb4d9bb57f17600dfef138c298ab39881d1cedc449a9d378079b134698"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07703",
+   "short": "Lei 7703/2026",
+   "title": "Lei nº 7.703, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8637",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8637/lei_no_7.703-2026_-_cristiano_tadeu_da_silveira.pdf",
+     "sha256": "ff9fcab9df9ffec91782111b7c8c272e013c8e358a25f87a2f8a1c85c2e1baa4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07702",
+   "short": "Lei 7702/2026",
+   "title": "Lei nº 7.702, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8636",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8636/lei_no_7.702-2026_-_aguida_valeria_do_amaral.pdf",
+     "sha256": "a60e6d61a15a540eecee0a33cfce11a00add840d9c67ed5c1b526a526e8da893"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07701",
+   "short": "Lei 7701/2026",
+   "title": "Lei nº 7.701, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8635",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8635/lei_no_7.701-2026_-_luiza_caetano_castro_simon.pdf",
+     "sha256": "c6a084cb76a86c925dfed5059b97e054eab11d7f5c6fc6a7508fb220bd080882"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07700",
+   "short": "Lei 7700/2026",
+   "title": "Lei nº 7.700, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8634",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8634/lei_no_7.700-2026_-_luiz_fernando_silveira_firmino.pdf",
+     "sha256": "6cfecb41f79785f4cda8032811511338909a22191202d9fad588b40541dc414f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07699",
+   "short": "Lei 7699/2026",
+   "title": "Lei nº 7.699, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8633",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8633/lei_no_7.699-2026_-_pedro_doshikazu_pianchao_aihara.pdf",
+     "sha256": "56e4b73736c29ae3cd553bec33995abeac8a7ebfee8942066c8e435a19cc9c39"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07698",
+   "short": "Lei 7698/2026",
+   "title": "Lei nº 7.698, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8632",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8632/lei_no_7.698-2026_-_doorgal_gustavo_sad_lafayette_de_andrada.pdf",
+     "sha256": "f356056db16c910dab147df72eb151ab5b7164e553bcc4c1d2bf0f809cbe1b64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07697",
+   "short": "Lei 7697/2026",
+   "title": "Lei nº 7.697, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8631",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8631/lei_no_7.697-2026_-_simone_ferreira_moreira.pdf",
+     "sha256": "e6d79045c3a78360973f58eab922bd4a5288b5cee3c0a645a9784187b355fb19"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07696",
+   "short": "Lei 7696/2026",
+   "title": "Lei nº 7.696, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8630",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8630/lei_no_7.696-2026_-_keila_de_paula_costa_farage.pdf",
+     "sha256": "7ef038530b803ec604c9fcbe40c59b980a464ea81df93e839f4c00ace15478c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07695",
+   "short": "Lei 7695/2026",
+   "title": "Lei nº 7.695, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8629",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8629/lei_no_7.695-2026_-_luiz_augusto_caldas.pdf",
+     "sha256": "d1d268ba3b064d111b3430f6eeade2163629700fe082d69d9cc10dc94b0d4259"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07694",
+   "short": "Lei 7694/2026",
+   "title": "Lei nº 7.694, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8628",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8628/lei_no_7.694-2026_-_cristovao_jose_de_almeida_rabelo.pdf",
+     "sha256": "776f706eca50fb19f15b61231051706516573479cb644a6e784a5b34521545bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07693",
+   "short": "Lei 7693/2026",
+   "title": "Lei nº 7.693, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8627",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8627/lei_no_7.693-2026_-_nely_aquino.pdf",
+     "sha256": "ebfcde6b27d8c76dacbff5a107ae8cd5bc7879c0d1ab702b49c084aca83df7aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07692",
+   "short": "Lei 7692/2026",
+   "title": "Lei nº 7.692, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8626",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8626/lei_no_7.692-2026_-marcos_rogerio_de_souza.pdf",
+     "sha256": "135b7a80b9bee0499c917291d81bec8dc4eca11f81cf1a469ca715ae3f6fd648"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07691",
+   "short": "Lei 7691/2026",
+   "title": "Lei nº 7.691, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8625",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8625/lei_no_7.691-2026_-edna_milani_oliveira_de_assis.pdf",
+     "sha256": "c61d266995ab1e58e983062932ca04542daf3981880608667dceac786d9c9de2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07690",
+   "short": "Lei 7690/2026",
+   "title": "Lei nº 7.690, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8624",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8624/lei_no_7.690-2026_-_adenilson_teles_peixoto.pdf",
+     "sha256": "0dd098f903afe1b0b75bceb9070733cd22fa855c31ee3a50dd2d9c5b230377c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07689",
+   "short": "Lei 7689/2026",
+   "title": "Lei nº 7.689, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8623",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8623/lei_no_7.689-2026_-_maria_aparecida_roque_da_silva.pdf",
+     "sha256": "f0df204180cb563f42513b781f0f24385af78dcb36f4274bace68633ea98dbc6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07688",
+   "short": "Lei 7688/2026",
+   "title": "Lei nº 7.688, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8622",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8622/lei_no_7.688-2026_-_francisca_lucia_santana.pdf",
+     "sha256": "a25b15906aaed536a7bc93aa2047d936cb679f2cd2ab7f61eb31e08999b882cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07687",
+   "short": "Lei 7687/2026",
+   "title": "Lei nº 7.687, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8621",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8621/lei_no_7.687-2026_-_wander_cesar_simon_junior.pdf",
+     "sha256": "36d069a286142cb36bf8d5aa0df0879c08eecdfa8d898b51dabb917809a6203a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07686",
+   "short": "Lei 7686/2026",
+   "title": "Lei nº 7.686, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8620",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8620/lei_no_7.686-2026_-_romario_de_almeida.pdf",
+     "sha256": "511396deb75d34c4e028e0178e7b6cbebaf32bd34fc5b885f9f0012fdf1943cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07685",
+   "short": "Lei 7685/2026",
+   "title": "Lei nº 7.685, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8619",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8619/lei_no_7.685-2026_-_zeliteia_lucia_montezano_pacheco_de_oliveira.pdf",
+     "sha256": "893a5c85c37b1e24cb1f653cc9fb66ecadc8bbdf9be6280c9dad13d349dc1eee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07684",
+   "short": "Lei 7684/2026",
+   "title": "Lei nº 7.684, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8618",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8618/lei_no_7.684-2026_-_carlos_antonio_baldanza.pdf",
+     "sha256": "86fc3a1329d50638ec3c25b68532640e0ac95b4fa7d5232baf52bfd59bc7ecd9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07683",
+   "short": "Lei 7683/2026",
+   "title": "Lei nº 7.683, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8617",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8617/lei_no_7.683-2026_-_manoel_augusto_de_araujo_neto.pdf",
+     "sha256": "b1e9874ff253ab8a4a8385846c89d7b6056656f324dc723a078ad32b02bdeee9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07682",
+   "short": "Lei 7682/2026",
+   "title": "Lei nº 7.682, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8616",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8616/lei_no_7.682-2026_-_antonio_garcia_de_bem.pdf",
+     "sha256": "8b9e96db5559d6be01daec58332e50f94aa86047dcd142ea3f46aeb4688fb481"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07681",
+   "short": "Lei 7681/2026",
+   "title": "Lei nº 7.681, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8615",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8615/lei_no_7.681-2026_-_vitor_dias_vasconcelos_de_almeida.pdf",
+     "sha256": "02196e9a199d992b61c19345f28525025eaddb3d26bfe9a06a0f640e9b8951e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07680",
+   "short": "Lei 7680/2026",
+   "title": "Lei nº 7.680, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8614",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8614/lei_no_7.680-2026_-_enes_candido_damacena_junior.pdf",
+     "sha256": "8d251e23795ce48e4a39993b9e310610d063c0bbdfc51bc5d5db90939bccbe7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07679",
+   "short": "Lei 7679/2026",
+   "title": "Lei nº 7.679, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8613",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8613/lei_no_7.679-2026_-_rodrigo_domingos_rizzo.pdf",
+     "sha256": "b72e6468e6c70c1f2f687db60ebc5fbe946c764e64920e39261e5564740c639c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07678",
+   "short": "Lei 7678/2026",
+   "title": "Lei nº 7.678, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8612",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8612/lei_no_7.678-2026_-_felipe_nonato_de_oliveira.pdf",
+     "sha256": "d4f3c5b79e6dcfd9af18b6d63b827bcdd8551333e85bcee06fe11aab032601d7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07677",
+   "short": "Lei 7677/2026",
+   "title": "Lei nº 7.677, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8611",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8611/lei_no_7.677-2026_-_newton_cardoso_junior.pdf",
+     "sha256": "09844f376a1ed6e36221477925e8e9dca37f73775c6197651c3163b614fb826a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07676",
+   "short": "Lei 7676/2026",
+   "title": "Lei nº 7.676, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8610",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8610/lei_no_7.676-2026_-_nelson_luiz_carvalho_schachnik.pdf",
+     "sha256": "0349c55119a6feecd78d46d2e6c14532701765fb225471a56acd310693b094a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07675",
+   "short": "Lei 7675/2026",
+   "title": "Lei nº 7.675, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8609",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8609/lei_no_7.675-2026_-_myriam_aparecida_de_paula.pdf",
+     "sha256": "a57f22b0b492833db805200c5bf9c882addff159dc3d0e96a91736af02271ef4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07674",
+   "short": "Lei 7674/2026",
+   "title": "Lei nº 7.674, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8608",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8608/lei_no_7.674-2026_-_magno_soares_machado.pdf",
+     "sha256": "fa4d86811f9f5f3c047f7a26988b5cc1736b87051b2cf631f28d3a98875cfde9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07673",
+   "short": "Lei 7673/2026",
+   "title": "Lei nº 7.673, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8607",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8607/lei_no_7.673-2026_-_romero_marques_zanco.pdf",
+     "sha256": "e4e87b596537cbd9c10e2f31cc36d9e3a92b3e144532086a1c6db89fd4fb88f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07672",
+   "short": "Lei 7672/2026",
+   "title": "Lei nº 7.672, de 31 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8606",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8606/lei_no_7.672-2026_-_olmaro_cardoso_de_melo.pdf",
+     "sha256": "a9db1212725ff74dffccdda938015144bd4bcf2d3fd227997f9505ee630efb8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07671",
+   "short": "Lei 7671/2026",
+   "title": "Lei nº 7.671, de 29 de julho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8604",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8604/lei_no_7.671_de_2026-_alteracoes_smds_-_altera_nome_da_secretaria_de_desenvolvimento_social_1.pdf",
+     "sha256": "4deb65d8b64254b0d788e1564ebd3ee88e7ec805e5ea330f17653889568f41c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07670",
+   "short": "Lei 7670/2026",
+   "title": "Lei nº 7.670, de 23 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8599",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8599/lei_no_7.670_de_2026_-_convenio_-_municipio_x_asmolar_brasil.pdf",
+     "sha256": "334b3e0508b138a3ac60d74bce77dcb3339e4b165b8a548c96589539593f2b3e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07669",
+   "short": "Lei 7669/2026",
+   "title": "Lei nº 7.669, de 23 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8598",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8598/lei_no_7.669_de_2026_-_autoriza_convenio_com_o_tjmg.pdf",
+     "sha256": "1c1a45f4f7e6752474c1e5675ff5b9d86f30fff51b686d49fc815a3d65054761"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07668",
+   "short": "Lei 7668/2026",
+   "title": "Lei nº 7.668, de 23 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8597",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8597/lei_no_7.668_de_2026_-_ppa_-r_699.92300.pdf",
+     "sha256": "866102bb19ab2ec32dff4f8b997a49a5a4bfa5520e455870e59f83b3b2c65d5b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07667",
+   "short": "Lei 7667/2026",
+   "title": "Lei nº 7.667, de 23 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8596",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8596/lei_no_7.667_de_2026-_ldo_-_r_699.92300.pdf",
+     "sha256": "2b30185b6badfdd5771d8a8df24d6a1b5ef66418ce8e974ab32eb96603d962a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07666",
+   "short": "Lei 7666/2026",
+   "title": "Lei nº 7.666, de 23 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8595",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8595/lei_no_7.666_de_2026_-_abertura_de_credito_especial_-_excesso_-_r_699.92300.pdf",
+     "sha256": "889f2843e975a3afd4482c61de1ba541244f4efaa9eca191ffc33e10fa8ec887"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07665",
+   "short": "Lei 7665/2026",
+   "title": "Lei nº 7.665, de 23 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8594",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8594/lei_no_7.665_de_2026-_ldo_-_r_892.52994.pdf",
+     "sha256": "e424c50703d765b948bf24c5ee01086c85cada47ecb48a07982cb252a69e570c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07660",
+   "short": "Lei 7660/2026",
+   "title": "Lei nº 7.660, de 22 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8591",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8591/lei_no_7.660_de_2026_-altera_a_lei_no_5.108_de_14_de_dezembro_de_2015_e_da_outras_providencias_-_captura_e_recolhimento_de_animais_pelo_ccz_1.pdf",
+     "sha256": "0e7dea95ead40bb0613cc79749d25b55a947a9acc2c4f1450b711f7525e0754a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07659",
+   "short": "Lei 7659/2026",
+   "title": "Lei nº 7.659, de 17 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8589",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8589/lei_no_7.659_de_2026_-_incluir_o_dia_municipal_do_orgulho_autista_no_calendario_oficial_do_municipio.pdf",
+     "sha256": "c912f7f52da449afd573fbcf071185c3b728a04686e5e23a808059200b9655c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07658",
+   "short": "Lei 7658/2026",
+   "title": "Lei nº 7.658, de 16 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8585",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8585/lei_no_7.658_de_2026_-_fomento_-_muriae_x_cdl.pdf",
+     "sha256": "7d52d15590f7f18e85ba3f86fece6e8bdb44410a6b951dd71ff721164b8f65a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07657",
+   "short": "Lei 7657/2026",
+   "title": "Lei nº 7.657, de 16 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8584",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8584/lei_no_7.657_de_2026_-_fomento_-_fundarte_x_fsma.pdf",
+     "sha256": "2a9382a4d22eab8e936fef1a055ee99460cefe585395d140081261ed87aef497"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07651",
+   "short": "Lei 7651/2026",
+   "title": "Lei nº 7.651, de 11 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8574",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 15,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8574/lei_no_7.651_de_2026_-_aquisicao_de_alimentos_da_agricultura_familiar_-_paa.pdf",
+     "sha256": "b44ed8ea395537ed3b68e239815bd3a8fef61032ec94acc2d1ec313583e6986e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07645",
+   "short": "Lei 7645/2026",
+   "title": "Lei nº 7.645, de 11 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8573",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8573/lei_no_7.645_de_2026_-dispoe_sobre_a_organizacao_e_o_disciplinamento_de_areas_publicas_destinadas_ao_embarque_e_desembarque_de_passageiros_app.pdf",
+     "sha256": "d964091717bc5ad7d797430863158fb88475a35349369816d07552c34ec84458"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07654",
+   "short": "Lei 7654/2026",
+   "title": "Lei nº 7.654, de 9 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8577",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8577/lei_no_7.654_de_2026-_da_denominacao_de_escola_maria_helena_navarro_de_aquino_a_unidade_de_ensino_publico_municipal.pdf",
+     "sha256": "df11e2fcdb16f4a6231ff0ab615dead29796230d14b2e11c04abf62a4eb4c06f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07653",
+   "short": "Lei 7653/2026",
+   "title": "Lei nº 7.653, de 9 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8576",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 11,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8576/lei_no_7.653_de_2026_-_simam.pdf",
+     "sha256": "48a01d7895cef1be09e9d6bda920831e49fcf1e7aa7477f15f0fc81851804d6d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07652",
+   "short": "Lei 7652/2026",
+   "title": "Lei nº 7.652, de 9 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8575",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 24,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8575/lei_no_7.652_de_2026_-_politica_municipal_de_educacao_1.pdf",
+     "sha256": "6d2098c7e0982c7cf7193abb810e92ae1e3c9bca02b1be9d5ad65ee894300c20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07649",
+   "short": "Lei 7649/2026",
+   "title": "Lei nº 7.649, de 3 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8571",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8571/lei_no_7.649_de_2026.-altera_dispositivos_da_lei_municipal_no_1.242_de_28_de_dezembro_de_1987_para_flexibilizar_as_cores_permitidas_aos_veiculos_utilizados_no_servico_de_taxi.pdf",
+     "sha256": "ed61f3d2b8d9066b721eeb003b5a542ae6f660b9c9055d5ce4a44ccce95db5eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07647",
+   "short": "Lei 7647/2026",
+   "title": "Lei nº 7.647, de 3 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8569",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 12,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8569/lei_no_7.647_de_2026.-_institui_o_mes_do_turismo_verde_e_da_outras_providencias..pdf",
+     "sha256": "f18f592bd61df0e30251e4ed632448d5628696a06d547b915580368945a28f1e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07646",
+   "short": "Lei 7646/2026",
+   "title": "Lei nº 7.646, de 3 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8568",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8568/lei_no_7.646_de_2026.-_guardioes_mirins_dos_animais.pdf",
+     "sha256": "f122189188fca9e89f60d1506689610c7ebb2233cc4f3d6cdecfe8b4db508fd2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07650",
+   "short": "Lei 7650/2026",
+   "title": "Lei nº 7.650, de 2 de junho de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8566",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8566/lei_no_7.650_de_2026-_fomento_-_muriae_x_associcao_colhendo_esperanca_1.pdf",
+     "sha256": "480d09f28d0fc3d91cf4e9627f14e75585d247a196311691d2847cc3401b3b80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07642",
+   "short": "Lei 7642/2026",
+   "title": "Lei nº 7.642, de 27 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8563",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8563/lei_no_7.642_de_2026_-dispoe_sobre_a_permanecia_de_animal_comunitario_em_espaco_livre_de_uso_publico_e_em_areas_de_uso_comum_de_equipamentos_urbanos.pdf",
+     "sha256": "e93d52ec5dc8eb01806cf947fa7c4e002e3a174792314cb8acdd0cf924757089"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07643",
+   "short": "Lei 7643/2026",
+   "title": "Lei nº 7.643, de 26 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8560",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8560/lei_no_7.643_de_2026_-_ponte_antonio_jose_monteiro_de_castro_1.pdf",
+     "sha256": "64990ee6551755ba9cc95833a93d9828f3b0aaa5f2e58c99ab014b1133c28883"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07641",
+   "short": "Lei 7641/2026",
+   "title": "Lei nº 7.641, de 21 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8557",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8557/lei_no_7.641_de_2026.-_convenio_-_muriae_x_instituto_raphael_barreto.pdf",
+     "sha256": "3e417e601fb55ce0f43e6ea371f6236afd28f40ed1d72c4e5198784980a236b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07635",
+   "short": "Lei 7635/2026",
+   "title": "Lei nº 7.635, de 21 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8555",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8555/lei_no_7.635_de_2026_-_convenio_-_movimento_pro-cultura.pdf",
+     "sha256": "c24c9fa70089266dfc857432d2289f407de2cb517443849302f3d05055f0c43b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07633",
+   "short": "Lei 7633/2026",
+   "title": "Lei nº 7.633, de 21 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8553",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8553/lei_no_7.633_de_2026.-_da_denominacao_de_vivaldi_lyrio_de_carvalho_a_estrada_do_corrego_da_laje.pdf",
+     "sha256": "1afa5f0ef561b1d3e609ff91dab37a8d18d5090e1a90c86ee15c5d1e3873c529"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07640",
+   "short": "Lei 7640/2026",
+   "title": "Lei nº 7.640, de 19 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8556",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8556/lei_no_7.640_de_2026._-_convenio_prefeitura_x_mangalarga_machador_-_2026.pdf",
+     "sha256": "287550132ce78afbe55f90dee70a3831368fc8d11cef76fe694b86d637ade664"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07639",
+   "short": "Lei 7639/2026",
+   "title": "Lei nº 7.639, de 19 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8552",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8552/lei_no_7.639_de_2026_-_ldo_-_r_526.02178.pdf",
+     "sha256": "94b3d0b4e56adb0b6fe2f72feb12921a21158cfd010f3c621c3c815fff3c1067"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07631",
+   "short": "Lei 7631/2026",
+   "title": "Lei nº 7.631, de 18 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8548",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8548/lei_no_7.631_de_2026_-dispoe_sobre_a_responsabilidade_do_poder_executivo_de_muriae_em_garantir_cuidados_para_os_animais_que_acompanham_moradores.pdf",
+     "sha256": "5fbae178ba1cff460a09b614760391dd2f93ee609b380d6ed87e015997f3d11d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07632",
+   "short": "Lei 7632/2026",
+   "title": "Lei nº 7.632, de 14 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8546",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 14,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8546/lei_no_7.632_de_2026_-_ambulantes_-_quiosque.pdf",
+     "sha256": "85cd0f545d61141061caa843789ad107e8b5d3c068c43b7ea8a0bf14007c0389"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07630",
+   "short": "Lei 7630/2026",
+   "title": "Lei nº 7.630, de 7 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8545",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8545/lei_no_7.630_de_2026_-revoga_na_sua_totalidade_as_leis_nos_7.359_7.360_7.471_e_concede_efeito_repristinatorio_as_leis_nos_7.108_7.113_e_7.114.pdf",
+     "sha256": "32c49877f2cf8f80a297e9ecf33a02c1d224f51f08c4b1c7f034831346e200b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07629",
+   "short": "Lei 7629/2026",
+   "title": "Lei nº 7.629, de 7 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8544",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8544/lei_no_7.629_de_2026_-reconhece_como_de_utilidade_publica_o_sofoco_futebol_clube.pdf",
+     "sha256": "d6bab21e8cee72e97f27794d5414a5ac64de1aa47e2ad719693588a8efcb6175"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07628",
+   "short": "Lei 7628/2026",
+   "title": "Lei nº 7.628, de 4 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8543",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8543/lei_no_7.628_de_2026-_ldo_-_r_14.35391.pdf",
+     "sha256": "39afe54d70a60e3336995ff86e8781fc6f7f278e3df118419d53e064f9a30f97"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07627",
+   "short": "Lei 7627/2026",
+   "title": "Lei nº 7.627, de 4 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8542",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8542/lei_no_7.627_de_2026_-_abertura_de_credito_suplementar_-_superavit_-_r_14.35391.pdf",
+     "sha256": "dd3cf9412ce5923ad104b07c9265e7f36061c75f20d8165a0c308c22f8ac0069"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07626",
+   "short": "Lei 7626/2026",
+   "title": "Lei nº 7.626, de 4 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8541",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8541/lei_no_7.626_de_2026_-_ppa_-_r_14.35391.pdf",
+     "sha256": "b4c78a92e9afecd71f8e08391280d56a75cd86225013c9b235f93ca306a70ac0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07621",
+   "short": "Lei 7621/2026",
+   "title": "Lei nº 7.621, de 4 de maio de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8536",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8536/lei_no_7.621_de_2026_-declara_de_utilidade_publica_o_instituto_baluarte_da_amazonia_e_da_outras_providencias.pdf",
+     "sha256": "ea71035489a26cb2ef8ab135fb72c3d83d89e65407af38974e1cbfec8db453e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07624",
+   "short": "Lei 7624/2026",
+   "title": "Lei nº 7.624, de 28 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8539",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8539/lei_no_7.624_de_2026_-_ppa_-_r_249.42754.pdf",
+     "sha256": "d4587070a6c228fcce1d23c9d85f2154b1893c29e88b4e325dec8c4933888193"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07623",
+   "short": "Lei 7623/2026",
+   "title": "Lei nº 7.623, de 28 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8538",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8538/lei_no_7.623_de_2023_-_ldo_-_r_249.42754.pdf",
+     "sha256": "3abe1489ee3f2e31f39ae90d03fcbab0efb24a493fc91817e91f1dd8e4aa9e33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07622",
+   "short": "Lei 7622/2026",
+   "title": "Lei nº 7.622, de 28 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8537",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8537/lei_no_7.622_de_2026_-_abertura_de_credito_especial_superavit_anulacao_-_r_249.42754.pdf",
+     "sha256": "b516b23971cb75a00dc352511d02effdcf198a00c22288eb050f727466da211a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07620",
+   "short": "Lei 7620/2026",
+   "title": "Lei nº 7.620, de 28 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8535",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8535/lei_no_7.620_de_2026_-_abertura_de_credito_suplementar_-_superavit_-r_7.266.18916.pdf",
+     "sha256": "c5e2f9e8b1c3ca44e02cdbcf72faddda536b479581b57eea4c8dae6e83560509"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07615",
+   "short": "Lei 7615/2026",
+   "title": "Lei nº 7.615, de 15 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8525",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8525/lei_no_7.615_de_2026_-da_denominacao_da_praca_de_gerson_carneiro_de_melo_a_area_situada_no_bairro_cardoso_de_melo.pdf",
+     "sha256": "0c65d80c42835bf909d6d08b17beaab8deecff8a083bf416322cadfadb0482fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07607",
+   "short": "Lei 7607/2026",
+   "title": "Lei nº 7.607, de 15 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8527",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 11,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8527/lei_7.607-26.pdf",
+     "sha256": "838627c5f333701f8ba3f27177d0c5e98a3bf433073af9308c81720afa260f8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07619",
+   "short": "Lei 7619/2026",
+   "title": "Lei nº 7.619, de 14 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8531",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8531/lei_no_7.619_de_2026_-_abertura_de_credito_especial_-_superavit_-_r_306.83019.pdf",
+     "sha256": "fc245e739ec0dd5b97706f488ff56cf221cbe601af94013ff0c199031a72b779"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07618",
+   "short": "Lei 7618/2026",
+   "title": "Lei nº 7.618, de 14 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8530",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8530/lei_no_7.618_de_2026_-_altera_lei_municipal_n.o_3.244_de_2006.pdf",
+     "sha256": "29cbdefbe2700bdb14397ac72814a1d0edeb0130ade410d95769467f0e929261"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07616",
+   "short": "Lei 7616/2026",
+   "title": "Lei nº 7.616, de 14 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8529",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8529/lei_no_7.616_de_2026_-_abertura_de_credito_suplementar_-_superavit_-r_1.235.78323.pdf",
+     "sha256": "9fa823ff58a862ceffc74eebc7e4ebe81ccef88075748fabcff2ccfdc9a266a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07613",
+   "short": "Lei 7613/2026",
+   "title": "Lei nº 7.613, de 8 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8514",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 15,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8514/lei_no_7.613_de_2026_-institui_a_campanha_saude_delas_1.pdf",
+     "sha256": "c4f64a950fc1312ddcee0a4a88e3af2619b310afad2a4bac80a3c4bb1d549db4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07612",
+   "short": "Lei 7612/2026",
+   "title": "Lei nº 7.612, de 8 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8513",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8513/lei_no_7.612_de_2026_-reconhece_como_de_utilidade_publica_a_associacao_doris_vida..pdf",
+     "sha256": "18dd670b03d1047ec9ad0c86f5af3ff7e9581591fe315dc8e4349b040b9e2d9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07606",
+   "short": "Lei 7606/2026",
+   "title": "Lei nº 7.606, de 8 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8512",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 10,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8512/lei_no_7.606_de_2026_-institui_a_campanha_maio_laranja_no_ambito_do_municipio_de_muriae_destinada_a_promocao_de_acoes_de_enfrentamento_a_violencia_sexual_contra_criancas_e_adolescentes.pdf",
+     "sha256": "572fab54cd5f5d717d49930988c36634fff8040592445728a8b55bf7e644440b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07601",
+   "short": "Lei 7601/2026",
+   "title": "Lei nº 7.601, de 8 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8511",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 12,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8511/lei_no_7.601_de_2026_-institui_politica_municipal_de_educacao_digital_para_combate_a_misoginia_nas_redes_sociais_no_ambito_da_rde_municipal_de_educacao.pdf",
+     "sha256": "68555e4301d4ea3ce0d81b878d02ccc11c6a207201d1b4104c59e47cce468b9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07600",
+   "short": "Lei 7600/2026",
+   "title": "Lei nº 7.600, de 8 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8510",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8510/lei_no_7.600_de_2026_-institui_o_programa_comunidade_parceira_no_ambito_do_municipio_de_muriae_e_da_outras_providencias.pdf",
+     "sha256": "2a0abffdab99db3d547c825cb7b667a2e0677cbd44e91862fbcf2893c789db31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07598",
+   "short": "Lei 7598/2026",
+   "title": "Lei nº 7.598, de 8 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8509",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8509/lei_no_7.598_de_2026_-_direito_da_pessoa_com_tea_de_ingressar_e_permanecer_em_estabelecimetnos_publicos_e_privado_de_uso_coletivo_portando_alimetnos.pdf",
+     "sha256": "3532a93a169c501eea3636372d374ac832fb2195f6b1a5fd9c1e8b6ce50772dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07614",
+   "short": "Lei 7614/2026",
+   "title": "Lei nº 7.614, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8506",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8506/lei_no_7.614_de_2026_-_abertura_de_credito_suplementar_-_superavit_r_5.000.00000.pdf",
+     "sha256": "2dd881ffd2c782b6162011b2222adaaef6277321b6334d148fa6f4a767c84e2f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07611",
+   "short": "Lei 7611/2026",
+   "title": "Lei nº 7.611, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8505",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8505/lei_no_7.611_de_2026_-_denomina_espaco_publico_professor_adellunar_marge.pdf",
+     "sha256": "b3009327ece910e5ab2e01b20b8a598ceb05039c93b6cb10e82b988f56693131"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07610",
+   "short": "Lei 7610/2026",
+   "title": "Lei nº 7.610, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8504",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8504/lei_no_7.610_de_2026_-_convenio_-_muriae_x_ama_-_r_100.00000.pdf",
+     "sha256": "df673a328cd4c967898e0ee0bb9bfa5b6999a554f6d1bd909f070f03c2a98844"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07609",
+   "short": "Lei 7609/2026",
+   "title": "Lei nº 7.609, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8503",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8503/lei_no_7.609_de_2026-_abertura_de_credito_suplementar_-_r_4.563.04724.pdf",
+     "sha256": "430a9cba6a726276f2bf7ca5cc1d1a9fc8e63e6f1e0f80964f951833ae54bb74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07608",
+   "short": "Lei 7608/2026",
+   "title": "Lei nº 7.608, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8502",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8502/lei_no_7.608_de_2026_-_convenio_-_muriae_x_associacao_de_apoio_aos_surdos.pdf",
+     "sha256": "00ddc585b5daa33edb1c8b258170d79c2a8183a89ff0deca860c3ddba594bd9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07605",
+   "short": "Lei 7605/2026",
+   "title": "Lei nº 7.605, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8507",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8507/lei_no_7.605_de_2026_-_abertura_de_credito_suplementar_-_excesso_-_r_485.00000_1.pdf",
+     "sha256": "d0856c9f49b093b66938efde6ce3d29e63c09cbc25ecfe3b96334b8522046070"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07604",
+   "short": "Lei 7604/2026",
+   "title": "Lei nº 7.604, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8501",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8501/lei_no_7.604_de_2026_-_emenda_parlamentar_-_convenio_muriae_x_artesaos.pdf",
+     "sha256": "1fff139bb64276c038bae77f4163f076643289ca7374fc3893b0cb05af96b47f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07603",
+   "short": "Lei 7603/2026",
+   "title": "Lei nº 7.603, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8500",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8500/lei_no_7.603_de_2026-_emenda_parlamentar_-__convenio_muriae_x_operario.pdf",
+     "sha256": "0c562d9f8de170d75ad3755b42424bbf5d8dff91d50a8a36e9da483a05b6dfd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07602",
+   "short": "Lei 7602/2026",
+   "title": "Lei nº 7.602, de 7 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8499",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8499/lei_no_7.602_de_2026_-_convenio_muriae_x_nac.pdf",
+     "sha256": "53db59285422352c1ec1767dd31878c2253ccfb1d21ca75c5709dcbf309003ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07592",
+   "short": "Lei 7592/2026",
+   "title": "Lei nº 7.592, de 6 de abril de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8497",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8497/lei_no_7.592_de_2026_-_prioridade_e_a_flexibilizacao_de_requisitos_para_inclusao_de_mulheres_em_situacao_de_violencia_domestica_e_familiar_nos_programas_habitacionais_e_assentamento.pdf",
+     "sha256": "5a03fd064ff45d9c826cb6013c5d7ae4e4f675523a146261f5f72958f4451dcd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07599",
+   "short": "Lei 7599/2026",
+   "title": "Lei nº 7.599, de 31 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8498",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8498/lei_no_7.599_de_2026_-_denomina_cozinha_comunitaria_marcos_guarino_de_oliveira_filho.pdf",
+     "sha256": "9d1794b487182104581aeb202d87af4bf5661ec4f3af50c3b1d08ab29b4a075c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07594",
+   "short": "Lei 7594/2026",
+   "title": "Lei nº 7.594, de 30 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8521",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8521/lei_7.594-26.pdf",
+     "sha256": "0355aa70e9d89fc9e9d443d915eb3811e9dfd48dd5cbb2ea22f18269719cb194"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07593",
+   "short": "Lei 7593/2026",
+   "title": "Lei nº 7.593, de 30 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8520",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 14,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8520/lei_7.593-26.pdf",
+     "sha256": "8aee14d302e7363bd639684c8d8b4b9ce66c1190ff5a378a5ef578d40168ad0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07591",
+   "short": "Lei 7591/2026",
+   "title": "Lei nº 7.591, de 30 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8519",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8519/lei_7.591-26.pdf",
+     "sha256": "cec732c98972bd057b86e6743f30b3f359bd878f24ba7261d2a381b540811c9b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07582",
+   "short": "Lei 7582/2026",
+   "title": "Lei nº 7.582, de 19 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8494",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8494/lei_no_7.582_de_2026_-_altera_a_lei_6867_de_2023_que_institui_a_comenda_do_merito_personalidade_rural_jose_antonio_pereira.pdf",
+     "sha256": "098e02414f9e128c52af1eea23194e5b3257db1dfcfa6d2b140b0917593f2132"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07581",
+   "short": "Lei 7581/2026",
+   "title": "Lei nº 7.581, de 19 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8493",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8493/lei_no_7.581_de_2026_-_altera_a_lei_4959_de_2015_que_institui_o_titulo_de_merito_educacional.pdf",
+     "sha256": "bafc063cb3a359fe22ebbb86a5e904f8db20b51d6f6113d669746147d6547b63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07577",
+   "short": "Lei 7577/2026",
+   "title": "Lei nº 7.577, de 19 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8492",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8492/lei_no_7.577_de_2026_-_integracao_de_logradouros_do_loteamento_napoleao_ii_ao_bairro_cardoso_de_melo.pdf",
+     "sha256": "d3499306af9be22db708c2d22294bc781ceb72975a9bd894d111988312eacce3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07588",
+   "short": "Lei 7588/2026",
+   "title": "Lei nº 7.588, de 17 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8491",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8491/lei_no_7.588_de_2026_-_denomina_espaco_cultural_antonio_baesso_pirapanema.pdf",
+     "sha256": "6c1a87e884fad4716e8a568df5b9595e1f8f535ca75b8157a48411659bc87a63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07587",
+   "short": "Lei 7587/2026",
+   "title": "Lei nº 7.587, de 17 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8490",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8490/lei_no_7.587_de_2026_-_abertura_de_credito_especial_superavit_-_r_577.54691.pdf",
+     "sha256": "73e3cb68e63ff910eecabf47def006c4081dffdbb8662e764e53e728408cc145"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07586",
+   "short": "Lei 7586/2026",
+   "title": "Lei nº 7.586, de 17 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8489",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8489/lei_no_7.586_de_2026_-_convenio_-_fundarte_x_padre_enio.pdf",
+     "sha256": "6e78270ce96b6bcd498cdc2b9a298f0fa62e76c2bbfc2438e7a1f7af1c42fb1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07585",
+   "short": "Lei 7585/2026",
+   "title": "Lei nº 7.585, de 17 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8488",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8488/lei_no_7.585_de_2026_-_ldo_-_r_577.54691.pdf",
+     "sha256": "26c133209be907385c9351d9ca304bba6550ff526427c56cbd7d3b46c8b616c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07583",
+   "short": "Lei 7583/2026",
+   "title": "Lei nº 7.583, de 17 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8486",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8486/lei_no_7.583_de_2026_-_abertura_de_credito_suplementar_superavit_-_r_2.885.30480.pdf",
+     "sha256": "4f49d99b78c71290804c5474c40c04f584c6bf51f808d10baad63dd96797a3bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07580",
+   "short": "Lei 7580/2026",
+   "title": "Lei nº 7.580, de 17 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8485",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8485/lei_no_7.580_de_2026-_ldo_-_r_3.760.39380.pdf",
+     "sha256": "0938d9c511df160a8f16bcd396df2a493d2d7471774ee8724111847f8e75ce1a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07569",
+   "short": "Lei 7569/2026",
+   "title": "Lei nº 7.569, de 5 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8479",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8479/lei_no_7.569_de_2026_-_patrimonio_cultural_imaterial_do_municipio_de_muriae_as_cavalgadas..pdf",
+     "sha256": "450462c08816691b3fdd3e1005d7c0434d7d29b712463ee0bcf228fa5e210fbf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07574",
+   "short": "Lei 7574/2026",
+   "title": "Lei nº 7.574, de 4 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8476",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8476/lei_no_7.574_de_2026_-_instalacao_de_estacao_de_recarga_individual_para_veiculos_eletricos_em_edificacoes_residenciais_e_comerciais..pdf",
+     "sha256": "fa13ca9bfb282a343553d8ff48d0b052b0e02a5c89f8ea097f4b7fec9490112e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07573",
+   "short": "Lei 7573/2026",
+   "title": "Lei nº 7.573, de 4 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8475",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8475/lei_no_7.573_de_2026_-_obrigatoriedade_de_afixacao_de_quadro_informativo_com_a_identificacao_dos_profissionais_de_educacao_fisica_responsaveis_pelos_horarios_de_funcionamento_das_academias.pdf",
+     "sha256": "66ef3abb0cd2ae80974af9d5070d78b6348dc9f417dd5e6698cec2e0c27f1e1c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07571",
+   "short": "Lei 7571/2026",
+   "title": "Lei nº 7.571, de 4 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8473",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 10,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8473/lei_no_7.571_de_2026_-_programa_municipal_de_prevencao_e_avaliacao_de_risco_de_violencia_contra_a_mulher..pdf",
+     "sha256": "df1f6e59c93b8a1c73967fb6cfb8b8980f8b78d9df00edc038943f30b02a185d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07575",
+   "short": "Lei 7575/2026",
+   "title": "Lei nº 7.575, de 3 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8477",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8477/lei_no_7.575_de_2026-_convenio_-_muriae_x_instituto_nascer_de_novo.pdf",
+     "sha256": "1c6f819f5cf349732f214fdad75a5346fcbdfbbdfb78730994cdbe539ef8cf8e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07572",
+   "short": "Lei 7572/2026",
+   "title": "Lei nº 7.572, de 3 de março de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8474",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8474/lei_no_7.572_de_2026-_corpus_christi_-_feriado_religioso_no_municipio_._assinada.pdf",
+     "sha256": "aa9eda055cad1b48c71840b049dbce07227db91436c9da0aaa141de676d6c3a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07562",
+   "short": "Lei 7562/2026",
+   "title": "Lei nº 7.562, de 26 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8471",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 17,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8471/lei_no_7.562_de_2026-_gratificacao_producao_vigilancia_sanitaria.pdf",
+     "sha256": "59e72d307ee29ca97aa4abd5f94abead915cfc27842fad759606fa32d5beab3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07568",
+   "short": "Lei 7568/2026",
+   "title": "Lei nº 7.568, de 25 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8469",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8469/lei_no_7.568_de_2026_-_credito_suplementar_anulacao_-_9.170.69109.pdf",
+     "sha256": "e77bfab77df27baedf88065ebe3ea0d7862b1b07ad441431c22f1c0b343ed778"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07567",
+   "short": "Lei 7567/2026",
+   "title": "Lei nº 7.567, de 25 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8468",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8468/lei_no_7.567_de_2026_-_credito_adicional_suplementar_-_superavit_363.21700.pdf",
+     "sha256": "8f53195d40a90bc2717f02db3a8b26ba00d894e1af165b3f3b96c9b03f185cc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07565",
+   "short": "Lei 7565/2026",
+   "title": "Lei nº 7.565, de 25 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8466",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8466/lei_no_7.565_de_2026_-altera_dispositivos_da_lei_no_5.953_de_2020_-_fogos_de_artificio.pdf",
+     "sha256": "5ad00e7a740e8c497b46706dff9e765102bab4646f92b087562aedb511436baf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07563",
+   "short": "Lei 7563/2026",
+   "title": "Lei nº 7.563, de 25 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8465",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8465/lei_no_7.563_de_2026_-_rua_rui_vale_de_matos_a_logradouro_localizado_no_bairro_interlagos.pdf",
+     "sha256": "5ea66006350bd31f3eaeb51e79ac4148af3561ba83ca9e86e0e8ffe5bc97965b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07549",
+   "short": "Lei 7549/2026",
+   "title": "Lei nº 7.549, de 23 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8463",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8463/lei_no_7.549_de_2026_-altera_dispositivos_da_lei_no_7.522_de_03_de_dezembro_de_2025_que_institui_o_titulo_honorifico_padre_tiago.pdf",
+     "sha256": "b070a2089ed268477f17917e57092141969bc6433ec5cac4fa0ed1a98b989da5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07546",
+   "short": "Lei 7546/2026",
+   "title": "Lei nº 7.546, de 23 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8462",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 38,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8462/lei_no_7.546_de_2026-_politica_municipal_de_incentivo_aos_atletasparatletas_bolsa.pdf",
+     "sha256": "5d13571320a716c9d8d041edb37e2ff85e65393e4b653bb9eae0f2880ba04f0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07545",
+   "short": "Lei 7545/2026",
+   "title": "Lei nº 7.545, de 23 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8461",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 10,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8461/lei_no_7.545_de_2026_-_institui_o_programa_bike_legal.pdf",
+     "sha256": "d9a94d0deb68ef76c298b48e9722b96f15ff063ee00051cf78c7faf7c43bad53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07554",
+   "short": "Lei 7554/2026",
+   "title": "Lei nº 7.554, de 13 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8460",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8460/lei_n.o_7.554-2026_-_apreensao_e_destinacao_escapamentos_automotivos_irregulares_ou_adulterados.pdf",
+     "sha256": "01aa2b6bd183a0921ce6bbccb0af65413e46fc444e019b2b24b00fe3066205ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07553",
+   "short": "Lei 7553/2026",
+   "title": "Lei nº 7.553, de 13 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8459",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8459/lei_n.o_7.553-2026_-_cria_o_trofeu_aluno_nota_10_no_ambito_da_camara_municipal_de_muriae.pdf",
+     "sha256": "5d857a1fd448d5dea13c7954b7943a2fa7ea76176abf841690d4a9d6825c65e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07551",
+   "short": "Lei 7551/2026",
+   "title": "Lei nº 7.551, de 13 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8458",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8458/lei_n.o_7.551-2026_-_institui_titulo_honorifico_-guardiao_da_ordem_e_paz_muriaeense-_a_pm_pc....pdf",
+     "sha256": "1f76071540a55fd466968e309ab85d5e352bc3b489eaeef09f33977155838ed5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07550",
+   "short": "Lei 7550/2026",
+   "title": "Lei nº 7.550, de 13 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8457",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8457/lei_n.o_7.550-2026_-_institui_titulo_honorifico_-guardiao_da_ordem_e_paz_muriaeense-.pdf",
+     "sha256": "f9c3dfe52b3c7031140fff3ab99e4b78ac0e55ce80c0977787d9034733bb0edb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07548",
+   "short": "Lei 7548/2026",
+   "title": "Lei nº 7.548, de 13 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8456",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8456/lei_n.o_7.548-2026_-_implementacao_de_politicas_publicas_de_conscientizacao_riscos_sharenting.pdf",
+     "sha256": "e640b9ea7015729cd4ae58b4c9af575fd8b5b7a37969c2545465d1f59d46f11b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07557",
+   "short": "Lei 7557/2026",
+   "title": "Lei nº 7.557, de 12 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8450",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8450/lei_n.o_7.557-2026_-_responsabilizacao_financeira_maus-tratos_a_animais.pdf",
+     "sha256": "bf7d519e3282ede63b466796ce2969ee268479fe48c3195b7bb8cac10f9cbbc7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07544",
+   "short": "Lei 7544/2026",
+   "title": "Lei nº 7.544, de 12 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8447",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8447/lei_n.o_7.544-2026_-_reconhece_pessoa_com_visao_monocular_como_pcd_sensorial_do_tipo_visual.pdf",
+     "sha256": "89119bf8cf195d3856d48a2acfed87dd787c84fc25b7cc4d475d403f249ec71e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07543",
+   "short": "Lei 7543/2026",
+   "title": "Lei nº 7.543, de 12 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8446",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8446/lei_n.o_7.543-2026_-_possibilidade_de_conversao_de_multas_de_transito_em_doacao_de_sangue.pdf",
+     "sha256": "6cc44b307875975398014b88223699db332f463b0bb9ae5b287389319260d7da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07561",
+   "short": "Lei 7561/2026",
+   "title": "Lei nº 7.561, de 11 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8453",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8453/lei_n.o_7.561-2026_-_abertura_de_credito_adicional_suplementar_na_loa_-_r_1.050.000000.pdf",
+     "sha256": "d23c76e8175c00ab2f467a4915210af8acb78bd329aa487ac2c7d6786eba97bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07556",
+   "short": "Lei 7556/2026",
+   "title": "Lei nº 7.556, de 11 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8449",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8449/lei_n.o_7.556-2026_-_convenio_com_a_associacao_de_permissionarios_do_mercado_municipal.pdf",
+     "sha256": "a949b4f1791bc9544bd7226c5d633441bb325066743c530e2a72b70818bce6a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07555",
+   "short": "Lei 7555/2026",
+   "title": "Lei nº 7.555, de 11 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8448",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 10,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8448/lei_n.o_7.555-2026_-_disciplina_o_regime_de_emprego_publico_na_adm._direta_autarquica_e_fund._-_sindicato.pdf",
+     "sha256": "81dd1a8ab87cb479fa2b7ed92a5f7ccdb147486280c4052caf3b7837b35535a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07558",
+   "short": "Lei 7558/2026",
+   "title": "Lei nº 7.558, de 10 de fevereiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8451",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8451/lei_n.o_7.558-2026_-_credito_adicional_suplementar_na_loa_-_r_9.385.96537.pdf",
+     "sha256": "08922515e3426eb6381adb5e364174bc4c96f279724a1dae882d753a55c5875a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-07540",
+   "short": "Lei 7540/2026",
+   "title": "Lei nº 7.540, de 6 de janeiro de 2026",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8422",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2026/8422/lei_7.540_de_2026_-_prorrogacao_refiz_-_fique_em_dia_-_janeiro_de_2026.pdf",
+     "sha256": "8f3b31f25ba4661a9c8a25af91225e7381dcf493b6e0c1997f08275af65780eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07534",
+   "short": "Lei 7534/2025",
+   "title": "Lei nº 7.534, de 30 de dezembro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8414",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 13,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8414/lei_no_7.534_de_2025_-_cessao_e_transferencia_outorga_taxi.pdf",
+     "sha256": "be20343d90966c54d7cb1c4e75ffbffed302a7f7387f59cf0f1483fc2bab4869"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07533",
+   "short": "Lei 7533/2025",
+   "title": "Lei nº 7.533, de 30 de dezembro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8413",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8413/publicacao_da_lei_no_7.533-2025.pdf",
+     "sha256": "7b61a9b631f9616a274c21ab99bdc9553dd891c1b225e905cd1d80a274201959"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07539",
+   "short": "Lei 7539/2025",
+   "title": "Lei nº 7.539, de 24 de dezembro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8419",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8419/lei_no_7.539_de_2025_-_receitas_fundos_-_direitos_humanos_-_lgbtqia.pdf",
+     "sha256": "a633981a981de1f95adfa5c1428c620c6d7afcc2a97bb372d31b93e08fef50a5"
+    }
+   ]
+  }
+ ]
+}

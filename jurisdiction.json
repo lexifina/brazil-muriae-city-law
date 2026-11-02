@@ -1,0 +1,9 @@
+{
+  "path": "br-mg-muriae",
+  "code": "BR-MG-MURIAE",
+  "name": "Muriaé (city)",
+  "level": "municipality",
+  "parent": "br-mg",
+  "repo": "https://github.com/lexifina/brazil-muriae-city-law",
+  "build": "built: the law of Muriaé from the Câmara Municipal's SAPL"
+}
