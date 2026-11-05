@@ -4606,6 +4606,636 @@
      "sha256": "33781a79a7d073209773237a6e5ec766487590cdeb7397b6d1dd9d5d55c5e1dd"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-07376",
+   "short": "Lei 7376/2025",
+   "title": "Lei nº 7.376, de 27 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8227",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8227/lei_no_7.376_de_2025_-_luiza_agostini_de_andrade..pdf",
+     "sha256": "3473dae8e4b27b96116c4a5fcd4083d1e06931c12ca1a7ca8a4a5cc19dd65f2c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07374",
+   "short": "Lei 7374/2025",
+   "title": "Lei nº 7.374, de 27 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8225",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8225/lei_no_7.374_de_2025_-marcos_aurelio_de_carvalho.pdf",
+     "sha256": "6d66a39978566ee3f5bfbc41c3a337e99f263c5e8673e497377306c83075df5f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07373",
+   "short": "Lei 7373/2025",
+   "title": "Lei nº 7.373, de 27 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8224",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8224/lei_no_7.373_de_2025_-_jaine_silva_feliciano.pdf",
+     "sha256": "e7cd04c4cccd0212a18bd7b012c82a695223665583e15296c9733f285e17c4eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07372",
+   "short": "Lei 7372/2025",
+   "title": "Lei nº 7.372, de 27 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8223",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8223/lei_no_7.372_de_2025_-_jarbas_soares_junior.pdf",
+     "sha256": "ebfa0233fc80d4513c9ed7d81a3a26120f5dd70f347d146e8b18b5d82965d552"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07370",
+   "short": "Lei 7370/2025",
+   "title": "Lei nº 7.370, de 27 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8221",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8221/lei_no_7.370_de_2025_-_sebstiao_heliton_da_silva.pdf",
+     "sha256": "0cc6a85ec854ace61df5907955dac655dffc59e23366bcb232141cf05ffa7ffc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07369",
+   "short": "Lei 7369/2025",
+   "title": "Lei nº 7.369, de 27 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8220",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8220/lei_no_7.369_de_2025_-_adriano_de_padua_nakashima.pdf",
+     "sha256": "9aaf91791463d35ab30a7cc798e9b24e60f05be587946bf092102cd51fa34452"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07345",
+   "short": "Lei 7345/2025",
+   "title": "Lei nº 7.345, de 26 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8216",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8216/lei_no_7.345_de_2025_-_dispoe_sobre_a_obrigatoriedade_da_utilizacao_do_novo_simbolo_internacional_de_acessibilidade_em_estabelecimentos_publicos_e_privados.pdf",
+     "sha256": "1fd5aa0bb46413351783d07de7eab75663d8e1245724d37e59e337f36328027e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07411",
+   "short": "Lei 7411/2025",
+   "title": "Lei nº 7.411, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8266",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8266/lei_no_7.411_de_2025_-_outorga_da_comenda_martins_da_costa_a_rangel_martino_de_oliveira_paiva.pdf",
+     "sha256": "5489e77333c5f98031c958d897843e875b85f6a9258663d723bd6aedbe6d3c70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07410",
+   "short": "Lei 7410/2025",
+   "title": "Lei nº 7.410, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8265",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8265/lei_no_7.410_de_2025_-_outorga_da_comenda_martins_da_costa_a_marcelo_luiz_da_silva_pereira.pdf",
+     "sha256": "586bd47f67aa446fd15615c21989b8407ad8dd3c17de1eff4e3eb6581f0e4384"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07409",
+   "short": "Lei 7409/2025",
+   "title": "Lei nº 7.409, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8264",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8264/lei_no_7.409_de_2025_-_outorga_da_comenda_martins_da_costa_a_marcelo_bittencourt_ferreira.pdf",
+     "sha256": "d2d7783bb78f3f0be88ba428e753babd85a75b3104856fca199f2fb5b88f0ea6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07408",
+   "short": "Lei 7408/2025",
+   "title": "Lei nº 7.408, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8263",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8263/lei_no_7.408_de_2025_-_outorga_da_comenda_martins_da_costa_a_leandro_de_castro_pecanha.pdf",
+     "sha256": "17f65cc6fb62db6218d7ba3555c60a700c19f3eebf552f55d0e3dffbcc44b247"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07407",
+   "short": "Lei 7407/2025",
+   "title": "Lei nº 7.407, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8262",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8262/lei_no_7.407_de_2025_-_outorga_da_comenda_martins_da_costa_a_glaydson_de_souza_ferreira.pdf",
+     "sha256": "0541942350fd7af97df13c56fff53323e9f72034fe4369a5fa07addfff9f9e64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07406",
+   "short": "Lei 7406/2025",
+   "title": "Lei nº 7.406, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8261",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8261/lei_no_7.406_de_2025_-_outorga_da_comenda_martins_da_costa_a_evandro_alves_de_souza.pdf",
+     "sha256": "8add4c25c2f6b4cb7bad9dcc7aa4817c605f46137a3e69f19af16006423bf9bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07405",
+   "short": "Lei 7405/2025",
+   "title": "Lei nº 7.405, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8260",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8260/lei_no_7.405_de_2025_-_outorga_da_comenda_martins_da_costa_a_alexandre_da_cunha_silva.pdf",
+     "sha256": "091f03eeb1b87ed0cbe9d6304251e1c22866f804a187989a44582671d652d26c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07368",
+   "short": "Lei 7368/2025",
+   "title": "Lei nº 7.368, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8214",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8214/lei_no_7.368_de_2025_-_declara_o_grupo_folclorico_santa_terezinha_como_patrimonio_cultural_imaterial_do_municipio.pdf",
+     "sha256": "caf0ea5e5d23c523f16c8c7691181aca2e1ea4173d21c168ca678c7524ea6774"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07367",
+   "short": "Lei 7367/2025",
+   "title": "Lei nº 7.367, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8213",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8213/lei_no_7.367_de_2025_-_reconhece_de_utilidade_publica_o_projeto_cultural_capoeira_ressignificar.pdf",
+     "sha256": "062b58d3c4af2f894e16c1cf96bd55509e95294fbe9e634b9a8b49dfa814e6d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07366",
+   "short": "Lei 7366/2025",
+   "title": "Lei nº 7.366, de 22 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8212",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8212/lei_no_7.366_de_2025_-_institui_o_dia_municipal_dos_protetores_e_cuidadores_de_animais_no_municipio.pdf",
+     "sha256": "62b80f3ce6f15bcc71edbd2b4580ff156217cb56fc3ad24d79885aad5ac4b616"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07360",
+   "short": "Lei 7360/2025",
+   "title": "Lei nº 7.360, de 21 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8208",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8208/lei_no_7.360_de_2025_-_da_denominacao_de_rua_argemiro_nunes_de_sousa_a_logradouro_publico.pdf",
+     "sha256": "3456d12e02ff8fe40a432acca491886288f0126018e966ba5ffb6058e3cc3859"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07412",
+   "short": "Lei 7412/2025",
+   "title": "Lei nº 7.412, de 19 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8215",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8215/lei_no_7.412_de_2025_-_convenio_-_muriae_x_associacao_bom_viver_-_2025_-_1o_encontro_de_comitiva_d._vermelho.pdf",
+     "sha256": "9fce462dce36617574479f27480a02ec0618aabf24a8df32f82e12c06c1a22d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07365",
+   "short": "Lei 7365/2025",
+   "title": "Lei nº 7.365, de 19 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8211",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 39,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8211/lei_no_7.365_de_2025_-__politica_municipal_dos_direitos_da_pessoa_com_deficiencia.pdf",
+     "sha256": "08baf5eab04c9350fe7b4c04675269ec44f05ae947afa345dea73e9c5e4a3660"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07364",
+   "short": "Lei 7364/2025",
+   "title": "Lei nº 7.364, de 19 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8210",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8210/lei_no_7.364_de_2025-_da_denominacao_de_luceli_rodrigues_nery_de_souza_ao_setor_de_transporte_da_secretaria_municipal_de_saude.pdf",
+     "sha256": "64597f96e91df73c830bb6d2bd55cf84d51d79ca6f1c1fb3c16f45fc767fd45f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07359",
+   "short": "Lei 7359/2025",
+   "title": "Lei nº 7.359, de 19 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8207",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8207/lei_no_7.359_de_2025_-_da_denominacao_de_rua_maria_da_gloria_sousa_a_logradouro_publico_e_da_outras_providencias.pdf",
+     "sha256": "b1ec87694d0a4cfb70c50c69e75cd17bca64f9f907f84eb9ccbf0772a93a738e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07358",
+   "short": "Lei 7358/2025",
+   "title": "Lei nº 7.358, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8204",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8204/lei_no_7.358_de_2025_-reconhece_o_kits_lanches_como_patrimonio_cultural_imaterial_do_municipio_de_muriae-mg.pdf",
+     "sha256": "c681fef88f5cff15f55a038d520468704277238afd22a85566562e74e25f111d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07355",
+   "short": "Lei 7355/2025",
+   "title": "Lei nº 7.355, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8201",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8201/lei_no_7.355_de_2025_-reconhece_o_cachorrao_do_portugues_como_patrimonio_cultural_imaterial_do_municipio_de_muriae-mg.pdf",
+     "sha256": "237c2893c8efe4b8371c9ce9978cc910e0767f45d8316781a1fd93e0a17e4b64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07346",
+   "short": "Lei 7346/2025",
+   "title": "Lei nº 7.346, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8192",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8192/lei_no_7.346_de_2025_-institui_a_utilizacao_voluntaria_do_simbolo_de_identificacao_do_transtorno_do_espectro_autista_tea_nos_uniformes_escolares_dos_alunos_da_rede_publica.pdf",
+     "sha256": "dad55ab739a7caf8940f554b0bf3a959f19953f4d6bff2d0c8f5914aafab6fd4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07344",
+   "short": "Lei 7344/2025",
+   "title": "Lei nº 7.344, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8191",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8191/lei_no_7.344_de_2025_-reconhece_o_cachorrao_do_portugues_como_patrimonio_cultural_imaterial_do_municipio_de_muriae-mg.pdf",
+     "sha256": "f948358ac6cd21d2b6fffef1b54498646f772d51c01deccad0221ca108578f2b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07343",
+   "short": "Lei 7343/2025",
+   "title": "Lei nº 7.343, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8190",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8190/lei_no_7.343_de_2025_-reconhece_como_de_utilidade_publica_a_associacao_dos_franciscanos_de_santa_maria_dos_anjos.pdf",
+     "sha256": "443d766c84640263cd678931e61b86eeefab99c488abec31e4634c172cc9eea5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07342",
+   "short": "Lei 7342/2025",
+   "title": "Lei nº 7.342, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8189",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8189/lei_no_7.342_de_2025_-institui_a_campanha_agosto_laranja_mes_de_conscientizacao_sobre_a_esclerose_multipla.pdf",
+     "sha256": "8a13e138bf6ec63386209c2602a69e9f1a1f1d4051f296f076fab877ebcf82a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07341",
+   "short": "Lei 7341/2025",
+   "title": "Lei nº 7.341, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8188",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8188/lei_no_7.341_de_2025_-_declara_o_carnaval_de_muriae_como_patrimonio_cultural_imaterial_do_municipio_de_muriae.pdf",
+     "sha256": "7d5942087343ba3ddb910c2f8939d6e935d868596d62d27c78aa10fa355e81e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07340",
+   "short": "Lei 7340/2025",
+   "title": "Lei nº 7.340, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8187",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8187/lei_no_7.340_de_2025_-_campanha_permanente_de_educacao_e_conscientizacao_para_o_uso_correto_das_faixas_de_pedestre..pdf",
+     "sha256": "13ab6d7cbf2c4f3d98e52f5c91f665530089d218ff2cf1dd53824c3afe749d5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07302",
+   "short": "Lei 7302/2025",
+   "title": "Lei nº 7.302, de 15 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8267",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8267/lei_no_7.302-2025-_promulgada.pdf",
+     "sha256": "3993ae1b1ae450e392bb2f4d20dbea59c75b92c2e6a7caf567b2ac8216077642"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07357",
+   "short": "Lei 7357/2025",
+   "title": "Lei nº 7.357, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8203",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8203/lei_no_7.357_de_2025_-da_denominacao_joao_roberto_ferreira__dodoca_-_a_ponte_localizada_na_comunidade_de_macuco.pdf",
+     "sha256": "001e06783a234b8c92ccc454e812df1d051c4c8293495de0408fe0e535950d5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07356",
+   "short": "Lei 7356/2025",
+   "title": "Lei nº 7.356, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8202",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8202/lei_no_7.356_de_2025_-_da_denominacao_de_ozorio_lellis_de_paula_a_ponte__localizada_na_comunidade_do_patrimonio_dos_carneiros.pdf",
+     "sha256": "ce6c8cc333d5eba5b4c739bffe920484f9cd60b74c5fe757493707125362c128"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07354",
+   "short": "Lei 7354/2025",
+   "title": "Lei nº 7.354, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8200",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8200/lei_no_7.354_de_2025_-_abertura_de_credito_suplementar_-_anulacao_r_4.000.00000.pdf",
+     "sha256": "8ab8859a535fd77125465532ea5bb6e44ef2cf0ff6f8c766be004169af71f01c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07353",
+   "short": "Lei 7353/2025",
+   "title": "Lei nº 7.353, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8199",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8199/lei_no_7.353_de_2025_-_ppa_-_r_41.79600.pdf",
+     "sha256": "a72b0ded28681205d28a826ea1d5b6c7e97697fc766480672c2a7abd5a87aab0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07351",
+   "short": "Lei 7351/2025",
+   "title": "Lei nº 7.351, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8197",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8197/lei_no_7.351_de_2025_-_ldo_-_r_41.79600.pdf",
+     "sha256": "679286d570fa4a6fcc5ef5bcad1ae8e99bb15313ba65d3765c09b8ad6d7327bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07350",
+   "short": "Lei 7350/2025",
+   "title": "Lei nº 7.350, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8196",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8196/lei_no_7.350_de_2025_-_ldo_-_r_83.95300.pdf",
+     "sha256": "e97bfc38431e23712e17048d8b8ab0b96e7075a8f059c8d2d83b3626927a4d77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07349",
+   "short": "Lei 7349/2025",
+   "title": "Lei nº 7.349, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8195",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8195/lei_no_7.349_de_2025-_especial_anulacao_r_41.79600.pdf",
+     "sha256": "f6c2396318018f6de8e59d166235c0e3645a6749d8f4a1a113ddba8291c199fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07348",
+   "short": "Lei 7348/2025",
+   "title": "Lei nº 7.348, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8194",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8194/lei_no_7.348_de_2025_-_especial_anulacao_r_83.95300.pdf",
+     "sha256": "ed3b49ffb9bff3af3d4ffb3be4ee42a18126b15e8b1a6c6cad18b58d87a1b41a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07347",
+   "short": "Lei 7347/2025",
+   "title": "Lei nº 7.347, de 13 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8193",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8193/lei_no_7.347_de_2025_-_abertura_de_credito_suplementar_excesso_-_r_1.646.93600_-_saude.pdf",
+     "sha256": "b8ae2df83b65162ac401de631d63ef226c03dbba2c88bbc2cd09312d12bfbe7d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07339",
+   "short": "Lei 7339/2025",
+   "title": "Lei nº 7.339, de 5 de agosto de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8186",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8186/lei_no_7.339_de_2025_-_conselho_tutelar.pdf",
+     "sha256": "318e4aeae59fddf793f65fe71f01849267e386698e82c035ec7beba38a19ae67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07320",
+   "short": "Lei 7320/2025",
+   "title": "Lei nº 7.320, de 7 de julho de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8182",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 10,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8182/lei_no_7.320_de_2025_-_criacao_do_selo_escola_sustentavel_na_rede_de_ensino_publico_e_privado_1.pdf",
+     "sha256": "2e6cf708cf83a1a08fc266b6a92ea5bc73c18c8b9caac9835e60ce907cd2538a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07328",
+   "short": "Lei 7328/2025",
+   "title": "Lei nº 7.328, de 3 de julho de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8181",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8181/lei_no_7.328_de_2025_-_altera_a_lei_no_1.218_de_1987_e_da_outras_providencias..pdf",
+     "sha256": "1625925080ac2907cbd4bef79de05806a7e784749c30573d5e09ecdb9b8ce2ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07330",
+   "short": "Lei 7330/2025",
+   "title": "Lei nº 7.330, de 2 de julho de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8168",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8168/lei_no_7.330_de_2025-_convenio_-_muriae_x_associacao_bom_viver.pdf",
+     "sha256": "c96d86fabd5292f324f443e57c1a950f66bb5a3c282597394af67e8502bb1d8f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07329",
+   "short": "Lei 7329/2025",
+   "title": "Lei nº 7.329, de 2 de julho de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8167",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8167/lei_no_7.329_de_2025_-_o_dia_do_administrador_no_calendario_civico-cultural.pdf",
+     "sha256": "1f9953185d670c679588c653d0f877b13dc83af5e9b56b42bf0a8f95c7b56d08"
+    }
+   ]
   }
  ]
 }
