@@ -12292,6 +12292,524 @@
      "sha256": "eda2cb199a6301023b63e244679950209d3fc5f4051c136124b39287c69132c9"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-06675",
+   "short": "Lei 6675/2023",
+   "title": "Lei nº 6.675, de 23 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7348",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7348/lei_no_6.675_de_2023-_ppa_-_varios_-_r_1.618.48496.pdf",
+     "sha256": "e3036497d3a2d3bb200e1e0501ad68ed4f68aac3e4f591a0cdf4ee78433da31a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06672",
+   "short": "Lei 6672/2023",
+   "title": "Lei nº 6.672, de 16 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7344",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7344/lei_no_6.672_de_2023-_convenio_prefeitura_x_mangalarga_machador.pdf",
+     "sha256": "8b4f4e270ebb90bdb9c07e5e739a94a921c6fd91c47fe093e729bacb99825d9a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06669",
+   "short": "Lei 6669/2023",
+   "title": "Lei nº 6.669, de 16 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7341",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7341/lei_no_6.669__de_2023_-_centro_de_convivencia_nossa_senhora_da_paz_-_dornelas_ii.pdf",
+     "sha256": "1e21e01ae4fa7a019ac5fc8a8cb35f6f59aa4f957e6c34530e78b199a9813f8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06667",
+   "short": "Lei 6667/2023",
+   "title": "Lei nº 6.667, de 15 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7340",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7340/lei_no_6.667_de_2023_-_denominacao_praca_jose_luiz_fortunato_a_logradouro_publico.pdf",
+     "sha256": "f9256320ac7321b9f24305f1b5c02631118ef44abe91cdf48aab19af3f63be46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06665",
+   "short": "Lei 6665/2023",
+   "title": "Lei nº 6.665, de 15 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7339",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7339/lei_no_6.665_de_2023_-_reserva_de_vagas_de_estacionamento_em_frente_a_clinica_veterinaria_19-05.pdf",
+     "sha256": "e9bb77d853bf074e839c8c0936731687ce877ed02c0b7dfb840059e01ddd07a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06663",
+   "short": "Lei 6663/2023",
+   "title": "Lei nº 6.663, de 15 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7338",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7338/lei_no_6.663_de_2023_-_declara_utilidade_publica_o_projeto_cultural_arte-manha.pdf",
+     "sha256": "5c7312cf03b4b14b15168c80dbdb8fe91e2178935f3411b94bb7cfe8e0ed27d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06662",
+   "short": "Lei 6662/2023",
+   "title": "Lei nº 6.662, de 15 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7337",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7337/lei_no_6.662_de_2023_-_declara_utilidade_publica_organizacao_lgbt_de_muriae.pdf",
+     "sha256": "70f3e0beb8925bd35435ae944e14c60f68dff36b5573825df7bf5fd3464d52ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06668",
+   "short": "Lei 6668/2023",
+   "title": "Lei nº 6.668, de 10 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7335",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7335/lei_no_6.668_de_2023-_convenio__muriae_x_porciuncula.pdf",
+     "sha256": "36c6d2154c75696e117fc31c829e94f8f7b0465365cab9a5a01e324f7ef9834f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06666",
+   "short": "Lei 6666/2023",
+   "title": "Lei nº 6.666, de 10 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7334",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7334/lei_no_6.666_de_2023-_ambulatorio_pediatrico_-_maria_antonio_latini.pdf",
+     "sha256": "ee32905e6911e083e94e9cdda102cf15536aad157953a40d91e3363a651e3db8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06664",
+   "short": "Lei 6664/2023",
+   "title": "Lei nº 6.664, de 10 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7333",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7333/lei_no_6.664_de_2023_-_ctp_jose_braz.pdf",
+     "sha256": "7da867f39c99dd86c66b66d404a420810136768a187b0c7a778bb414981ac2a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06654",
+   "short": "Lei 6654/2023",
+   "title": "Lei nº 6.654, de 10 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7331",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7331/lei_no_6.654_de_2023_-_assistencia_psicologica_e_social_aos_alunos_da_rede_municipal_vitimas_de_intimidacao_sistematica_-bullying.pdf",
+     "sha256": "d8ad5095103ede80287904d1ccfe6ff97699f68b999be28424bce1fec28ce6c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06653",
+   "short": "Lei 6653/2023",
+   "title": "Lei nº 6.653, de 3 de maio de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7324",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7324/lei_no_6.653_de_2023_-_instalacao_de_detectores_de_metais_nas_escolas_municipais.pdf",
+     "sha256": "d8e9a67a98a6330ee8a951849cb04ea213c5740186f50156f28330a1fd8c5058"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06659",
+   "short": "Lei 6659/2023",
+   "title": "Lei nº 6.659, de 26 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7320",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7320/lei_no__6.659_de_2023-_convenio_-_muriae_x_maior_viola_caipira_do_mundo.pdf",
+     "sha256": "ea4e6f9526f6261395a3888b332370002e757f59722c625a32d301bcf42c0ffa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06658",
+   "short": "Lei 6658/2023",
+   "title": "Lei nº 6.658, de 26 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7319",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7319/lei_no__6.658_de_2023_-_credito_adicional_suplementar_-_superav_educacao_2.505.00000.pdf",
+     "sha256": "abe487159671f1473c5620a66d92454a4fd20c9e334fc5d3d0924c49aae771f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06657",
+   "short": "Lei 6657/2023",
+   "title": "Lei nº 6.657, de 26 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7318",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7318/lei_no_6.657_de_2023_-_doacao_carro_-_muriae_x_pmmg.pdf",
+     "sha256": "aa66c99cab081d701e39402b6d34fca72f58d39a3e88d4845954f82de6259346"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06655",
+   "short": "Lei 6655/2023",
+   "title": "Lei nº 6.655, de 26 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7316",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7316/lei_no_6.655_de_2023_-_credito_suplementar_1.455.38842.pdf",
+     "sha256": "aabd309144005e889baaa4e30c29e555fc2a24a8f118e4691d83a23be9d0d5df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06650",
+   "short": "Lei 6650/2023",
+   "title": "Lei nº 6.650, de 24 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7313",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7313/lei_no_6.650_de_2023_-_emprego_cidadao_-para_a_populacao_em_situacao_de_rua_-_selo_empresa_cidada.pdf",
+     "sha256": "4934e10a541d8fa1326b27d3853c4927786f2d040d1e6b3e8f06a067390918a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06649",
+   "short": "Lei 6649/2023",
+   "title": "Lei nº 6.649, de 24 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7312",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7312/lei_no_6.649_de_2023_-_combate_a_violencia_nas_escolas_e_creches_da_rede_publica_municipal.pdf",
+     "sha256": "082c75263c6d7496857792b6fb9c231a74f7a7e617434ebfc4eddb791bb594eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06648",
+   "short": "Lei 6648/2023",
+   "title": "Lei nº 6.648, de 24 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7311",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7311/lei_no_6.648_de_2023_-_dispoe_sobre_a_politica_de_antibullying_nas_escolas.pdf",
+     "sha256": "63258fd46a97453e21669891ded1041d79cb2675323b4eade19c98254d86b9ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06652",
+   "short": "Lei 6652/2023",
+   "title": "Lei nº 6.652, de 19 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7315",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7315/lei_no_6.652_de_2023_-_credito_suplementar_superv_-_emenda_parl._200.00000.pdf",
+     "sha256": "750ef1708e67bd65045ba15e83d7e9d12297810706d942f475afb704295214ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06651",
+   "short": "Lei 6651/2023",
+   "title": "Lei nº 6.651, de 19 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7314",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7314/lei_no_6.651_de_2023-_200.00000_-_emenda_parlamentar_-_muriae_x_sindicato_rural.pdf",
+     "sha256": "5f55d2984f4cc62c31ddee32226ffb48c134d5a81de72ac97b278017858ebd70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06641",
+   "short": "Lei 6641/2023",
+   "title": "Lei nº 6.641, de 13 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7309",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7309/lei_no_6.641de_2023_-_utilidade_publica_a_associacao_caminhos_por_boa_familia.pdf",
+     "sha256": "c32c45228d02ad0de069a9ba3b97ef7e0655c07bd21f772e02916b322cc4f84e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06606",
+   "short": "Lei 6606/2023",
+   "title": "Lei nº 6.606, de 13 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7296",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7296/lei_no_6.606-2023-_promulgada.pdf",
+     "sha256": "5ff80c20cf0a401b26cf127d30a059af4f547781af1e9e9949cc775533e555b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06647",
+   "short": "Lei 6647/2023",
+   "title": "Lei nº 6.647, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7302",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7302/lei_no_6.647_de_2023-_credito_especial_superavit_varios__-_r_1.349.325.pdf",
+     "sha256": "310f723ab565972d677b5b5987712d22cd55eba04c0ed63eadabee1b4938dcba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06645",
+   "short": "Lei 6645/2023",
+   "title": "Lei nº 6.645, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7301",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7301/lei_no_6.645_de_2023_-_credito_suplementar_excesso_fonte_-__r_143.56581.pdf",
+     "sha256": "b647f0eabcf7771bb3ffa40ccc99f3510cb34a66e570c227164491804cba8112"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06644",
+   "short": "Lei 6644/2023",
+   "title": "Lei nº 6.644, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7306",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7306/lei_no_6.644_de_2023_-_ldo_varios_-_1.349.325.pdf",
+     "sha256": "07f9c175e1b6d86da2eef23b71572c3a1950622cedb1cb6d6d96db00ebad9b50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06643",
+   "short": "Lei 6643/2023",
+   "title": "Lei nº 6.643, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7300",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7300/lei_no_6.643_de_2023_-_credito_suplementar_superavit_-_r_35.000.pdf",
+     "sha256": "5c1253f98ff488c0b8fca8884cf1690076c997698ecc4a5ca729e100401ee303"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06640",
+   "short": "Lei 6640/2023",
+   "title": "Lei nº 6.640, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7298",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7298/lei_no_6.640_de_2023_-_credito_adicional_suplementar_-_anulacao_-_r676.00000.pdf",
+     "sha256": "94d3be167c59d7289fcf758fb303010fcf9359baa400b2ebee471cb66a4068fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06639",
+   "short": "Lei 6639/2023",
+   "title": "Lei nº 6.639, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7297",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7297/lei_no_6.639_de_2023_-_suplementar_superv_anul_diversos__r_1.855.97006.pdf",
+     "sha256": "3c2db469d2231b9a2a202046525078bf1231912a0a7cb3c88ebe7b00f9f13eeb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06638",
+   "short": "Lei 6638/2023",
+   "title": "Lei nº 6.638, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7305",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7305/lei_no_6.638_de_2023__-_ppa_varios_-_r_154.64270.pdf",
+     "sha256": "34d183c404a38b32d2d682cc90e8c3b8a8cd6b2519e6b4d4210b2ba254764115"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06637",
+   "short": "Lei 6637/2023",
+   "title": "Lei nº 6.637, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7304",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7304/lei_no_6.637_de_2023_-_ldo_varios_-__r_154.64270.pdf",
+     "sha256": "33b010f5b3c8f780601d7819f01d23c787f05b65c2f8d440440e27e526294ed7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06636",
+   "short": "Lei 6636/2023",
+   "title": "Lei nº 6.636, de 12 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7303",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7303/lei_no_6.636_de_2023_-_abertura_credito_especial_superavit_varios_r_154.64270.pdf",
+     "sha256": "9d6a9816cdc572ae6beebc92f941120a099f40489289af5e7da57310ffb2aa5b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06618",
+   "short": "Lei 6618/2023",
+   "title": "Lei nº 6.618, de 11 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7291",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7291/lei_no_6.618_de_2023._-_autoriza_cessao_de_servidor_a_laranjal_-_publicacao_correta.pdf",
+     "sha256": "c562cbed0e0e3bb3ded86dcdaa21f4c27468957c490d9630fa0cedde353c9e73"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06631",
+   "short": "Lei 6631/2023",
+   "title": "Lei nº 6.631, de 10 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7293",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7293/lei_no_6.631_de_2023_-_ubs_marco_antonio_da_silva.pdf",
+     "sha256": "c2d89cdd4ad90e4a2afdb5bb904b5680915c4f6b4c10f8c3530d92da20e54d0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06630",
+   "short": "Lei 6630/2023",
+   "title": "Lei nº 6.630, de 10 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7292",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7292/lei_no_6.630_de_2023_-_alfabetizacao_digital_para_terceira_idade.pdf",
+     "sha256": "a2f872ea6ddaad9ce6df970df3b17d080de8a733c5c792cfc05aaaa63e6f1263"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06634",
+   "short": "Lei 6634/2023",
+   "title": "Lei nº 6.634, de 5 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7285",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7285/lei_no_6.634_de_2023_-_credito_especial_superavit__r_436.23874.pdf",
+     "sha256": "ef10c8340cc405300bbcf2644d49f20787035d724db05baaf45324e82d6000b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06633",
+   "short": "Lei 6633/2023",
+   "title": "Lei nº 6.633, de 5 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7284",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7284/lei_no_6.633_de_2023_-_convenio_nacional.pdf",
+     "sha256": "686bc5158faca697d8c80ed77b4511e25fadca8960b83d9d4fd9ca7815b43f4f"
+    }
+   ]
   }
  ]
 }
