@@ -9212,6 +9212,496 @@
      "sha256": "f66ef9c70446d129d919f9ed39d058268434e4262efdc61a062dec7c677b9fd9"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-06979",
+   "short": "Lei 6979/2024",
+   "title": "Lei nº 6.979, de 22 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7743",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7743/lei_no_6.979_de_2024_-_ldo-_r_1.382.88275.pdf",
+     "sha256": "15ee191cc4801824ed8507de7cb46e625fe4400b4c17cd2401ad83265ba3816c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06978",
+   "short": "Lei 6978/2024",
+   "title": "Lei nº 6.978, de 22 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7739",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7739/lei_no_6.978_de_2024_-_especial_superavit_-_r_1.382.88275.pdf",
+     "sha256": "0cfa84d84670e30b994b2bc336031b323c50f789f3e902c56b54dd7c0934d612"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06977",
+   "short": "Lei 6977/2024",
+   "title": "Lei nº 6.977, de 22 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7738",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7738/lei_no_6.977_de_2024_-ldo_-_r_313.75120.pdf",
+     "sha256": "c9b6ddc6dbf770db6358869b7eea4b69b8f1e7612129ddbf5b04e43838925bfc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06976",
+   "short": "Lei 6976/2024",
+   "title": "Lei nº 6.976, de 22 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7737",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7737/lei_no_6.976_de_2024-_ppa_-_saude_-_r_313.75120.pdf",
+     "sha256": "b77b4ddd8c4ebd9aafbc0abf6e9b4864ceeb718e5bd72915522efc9aab942204"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06975",
+   "short": "Lei 6975/2024",
+   "title": "Lei nº 6.975, de 21 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7736",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7736/lei_no_6.975_de_2024-_especial_excesso_e_anulacao_-_r_313.75120.pdf",
+     "sha256": "08f985de5fc512d59fa7707d7fd93d12c56709c070b0e587a6ac18b8d310928d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06971",
+   "short": "Lei 6971/2024",
+   "title": "Lei nº 6.971, de 21 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7731",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7731/lei_no_6.971_de_2024_-_ldo-_r_2.524.41100.pdf",
+     "sha256": "2cb17b8e1b01a2dc05cdcd485826ec2f4a89ff37d63696077f0a95c8c51fbef4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06969",
+   "short": "Lei 6969/2024",
+   "title": "Lei nº 6.969, de 21 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7729",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7729/lei_no_6.969_de_2024_-_especial_superavit_-_r_2.524.41165_-_saude.pdf",
+     "sha256": "2190b7591f693869b0852d86bee373c65b30ea2816c1c22c16f59003e965cc63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06961",
+   "short": "Lei 6961/2024",
+   "title": "Lei nº 6.961, de 16 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7726",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7726/lei_no_6.961_de_2024_-_da_denominacao_e_delimita_de_bairro_prefeito_paulo_fraga_a_area_urbana_que_especifica.pdf",
+     "sha256": "e089c877243cd144be151c274dc3e7679c436f0160a911604b7a95e6720e6e3c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06960",
+   "short": "Lei 6960/2024",
+   "title": "Lei nº 6.960, de 16 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7725",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7725/lei_no_6.960_de_2024_-_da_denominacao_de_rua_saulo_rodrigues_pereira_a_logradouro_publico.pdf",
+     "sha256": "13f025bf1184e0bf602ec526e0471d06ed1c9059983c9b2ba3423e37d33a10d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06959",
+   "short": "Lei 6959/2024",
+   "title": "Lei nº 6.959, de 16 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7724",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7724/lei_no_6.959_de_2024_-_da_denominacao_de_rua_vicente_la-gatta_a_logradouro_publico.pdf",
+     "sha256": "c211a6a91408a0b5aacd66b220ed46cbf7f1cac4a4b1283c72e250845c914229"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06958",
+   "short": "Lei 6958/2024",
+   "title": "Lei nº 6.958, de 16 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7723",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7723/lei_no_6.958_de_2024_-_da_denominacao_de_rua_vicente_la-gatta_a_logradouro_publico.pdf",
+     "sha256": "537e8643c4f3f71f5a28b72369303143352ad62e5d3ad371e461473f22fca53d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06957",
+   "short": "Lei 6957/2024",
+   "title": "Lei nº 6.957, de 16 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7722",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7722/lei_no_6.957_de_2024_-_da_denominacao_de_rua_dr._agripino_torres_filho_a_logradouro_publico.pdf",
+     "sha256": "a715043d1fb55d8c82f2abcf9defb9e935164c10690125506cb8bb6ab3eaf3cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06954",
+   "short": "Lei 6954/2024",
+   "title": "Lei nº 6.954, de 16 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7721",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7721/lei_no_6.954_de_2024_-_da_denominacao_de_jose_rodrigues_de_santana_a_estrada_de_cima_do_macuco.pdf",
+     "sha256": "bf09994b111da33d1b2ed5631a762170dec96bb741ff7ddd131713efecf010a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06965",
+   "short": "Lei 6965/2024",
+   "title": "Lei nº 6.965, de 14 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7720",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7720/lei_no_6.965_de_2024-_abertura_de_credito_-_alteracao_orcamentaria._credito_adicional_especial_70.00000.pdf",
+     "sha256": "c5739529257e1f84cfb5cf1b00894fb6e07aba0fb5ade84704b8f55ff62d13d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06964",
+   "short": "Lei 6964/2024",
+   "title": "Lei nº 6.964, de 14 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7719",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7719/lei_no_6.964_de_2024_-_da_denominacao_de_ademar_acacio_da_silva_a_rua_belem_no_bairro_marambaia.pdf",
+     "sha256": "0935ffcc379813a22538e649f81cd55f0e3d7bb991a7ea75e855264aed3c60a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06962",
+   "short": "Lei 6962/2024",
+   "title": "Lei nº 6.962, de 14 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7718",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7718/lei_no_6.962_de_2024-_convenio_-_muriae_x_asm_-associacao_de_apoio_aos_surdos.pdf",
+     "sha256": "6e1c334342a4f9f9e49515528c7533ce8c674b970bc74d7cb287d5f5346e3b61"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06955",
+   "short": "Lei 6955/2024",
+   "title": "Lei nº 6.955, de 14 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7717",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7717/lei_no_6.955_de_2024_-_altera_o_cargo_de_agente_administrativo_-_lei_5.348_de_2016.pdf",
+     "sha256": "d48fe02cb6110638606aef7c378156ffae0d6f7d09ff669cbf30f8c224a99406"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06952",
+   "short": "Lei 6952/2024",
+   "title": "Lei nº 6.952, de 8 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7713",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7713/lei_no_6.952_de_2024_-_da_denominacao_de_ponte_anotonio_montezano_segundo_a_ponte_localizada_na_fazenda_grama.pdf",
+     "sha256": "15070729439f9bcfbcd431abb055b286d1391cdc30842795c5f711494c771ddd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06953",
+   "short": "Lei 6953/2024",
+   "title": "Lei nº 6.953, de 7 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7712",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 19,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7712/lei_no6.953_de_2024-_conselho_municipal_de_direitos_humanos.pdf",
+     "sha256": "d2c375a3ff2015a7b8a1b4d38b51f444471f2a7da5408b5564aaffee4487489a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06951",
+   "short": "Lei 6951/2024",
+   "title": "Lei nº 6.951, de 7 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7711",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7711/lei_no_6.951_de_2024_-_da_denominacao_ao_centro_de_zoonose_-_ccz_-_manuela_pereira_da_matta.pdf",
+     "sha256": "03bdb0a40e08e2b180e4a4d5c3ae4985351858820dd58a1bc643d9c23db35990"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06917",
+   "short": "Lei 6917/2024",
+   "title": "Lei nº 6.917, de 6 de maio de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7705",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7705/lei_no_6.917-2024-_promulgada.pdf",
+     "sha256": "67827240351d47a64d50d52151836f2dccb972c22669dc24b9c74a9b7f7ebf93"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06950",
+   "short": "Lei 6950/2024",
+   "title": "Lei nº 6.950, de 30 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7696",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7696/lei_no_6.950_de_2024-_abertura_de_credito_suplementar_superav__-_926.14715.pdf",
+     "sha256": "064bd90ea674cf9fd3e6c10ad72af471e183cdc519e289f60675c35f85991c12"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06949",
+   "short": "Lei 6949/2024",
+   "title": "Lei nº 6.949, de 30 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7695",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7695/lei_no_6.949_de_2024-_abertura_de_credito_especial_superavit_-_r_70.16192.pdf",
+     "sha256": "be5f62bc974476174bb45d94cf89d3e0efafdb868390205846de49c56a1c1fab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06948",
+   "short": "Lei 6948/2024",
+   "title": "Lei nº 6.948, de 30 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7694",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7694/lei_no_6.948-_ldo_-_r_70.16192.pdf",
+     "sha256": "d8dd3d9f0a09afeecebfd819f0e8d862787d6ca650e3f86ce5f0e8888201178a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06947",
+   "short": "Lei 6947/2024",
+   "title": "Lei nº 6.947, de 30 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7693",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7693/lei_no_6.947_de_2024_-_abertura_de_credito_adicional_suplementar_-_excesso_-_700.00000.pdf",
+     "sha256": "b7c2356f166cd4fdc52e948e856bc3e471e2ff1463f1b1f38fb347670afb7adf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06943",
+   "short": "Lei 6943/2024",
+   "title": "Lei nº 6.943, de 23 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7685",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7685/lei_no_6.943_de_2024-_convenio_-_muriae_x_sebrae_-_custeio_de_assistencia_tecnica_para_produtores_de_uva.pdf",
+     "sha256": "c901941fffada0d9f065a7483d14d57e408a6d7718ec50b77ad3108741c1ea37"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06941",
+   "short": "Lei 6941/2024",
+   "title": "Lei nº 6.941, de 23 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7683",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7683/lei_no_6.941_de_2024_-_convenio_-_muriae_x_sebrae_-_programa_de_compras_publicas.pdf",
+     "sha256": "6f1edb61f1df6955053b570cf6beb7a2e91898d8aed9827c9ee47311cbeeb062"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06939",
+   "short": "Lei 6939/2024",
+   "title": "Lei nº 6.939, de 23 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7681",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7681/lei_no_6.939_de_2024-_ldo_-r_1.162.27765.pdf",
+     "sha256": "2748e46d90f4a63fbeae1ab6c2d4de3bbcbe646a31652e9b7c74e9a3a80b1240"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06934",
+   "short": "Lei 6934/2024",
+   "title": "Lei nº 6.934, de 23 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7679",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7679/lei_no_6.934_de_2024_-_da_denominacao_de_rua_jacyr_vidon_a_logradouro_publico.pdf",
+     "sha256": "796a8d1f78d6ba3c7f9f758924c253b649901073041fa614ce3e5c76225d07c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06932",
+   "short": "Lei 6932/2024",
+   "title": "Lei nº 6.932, de 23 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7678",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7678/lei_no_6.932_de_2024_-_da_denominacao_de_rua_jose_mauro_soares_bittencourt.pdf",
+     "sha256": "cd0494d8241587469d8682713bdb351109336f4c49efceb53479695747aa3796"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06931",
+   "short": "Lei 6931/2024",
+   "title": "Lei nº 6.931, de 23 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7677",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7677/lei_no_6.931_de_2024_-_da_denominacao_de_rua_amalia_bicalho_barroso_-_a_rua_projetada_i_-_no_bairro_chale.pdf",
+     "sha256": "12bf629eb04859dc1af4ded4d2583aa5de9b07a6c45377516659e3ac57459387"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06937",
+   "short": "Lei 6937/2024",
+   "title": "Lei nº 6.937, de 16 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7676",
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7676/lei_no_6.937_de_2024__-_convenio_prefeitura_x_mangalarga_machador_-_2024_-_r30.00000.pdf",
+     "sha256": "2fdf5e52e6c20de4d56b83717f247cf913a9a1bcaee1b4f551e1165646fcbd65"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06936",
+   "short": "Lei 6936/2024",
+   "title": "Lei nº 6.936, de 16 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7675",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7675/lei_no_6.936__-_convenio_-_muriae_x_liga_esportiva_de_muriae_2024.pdf",
+     "sha256": "6d2da56895526825bc5cf1eec18a99db3570067088ea5de8b9762a88e38e96ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06935",
+   "short": "Lei 6935/2024",
+   "title": "Lei nº 6.935, de 16 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7674",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7674/lei_no_6.935_de_2024_-_suplementar_excesso_5__343___492_1.pdf",
+     "sha256": "78bff3ffc9d04b69e610195dae9d66e84c3a37df7331799fdfb22ae8924abc2f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-06933",
+   "short": "Lei 6933/2024",
+   "title": "Lei nº 6.933, de 16 de abril de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7673",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7673/lei_no_6.933_de_2024_-_emenda_parlamentar_-_muriae_x_inaces.pdf",
+     "sha256": "d22d0c2f4f4c1ef642f40fb2d1309035e8ee220a0b1bd2ecf048374f89479055"
+    }
+   ]
   }
  ]
 }
