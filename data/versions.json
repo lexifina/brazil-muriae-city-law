@@ -6846,6 +6846,538 @@
      "sha256": "7950941d58060db3fb223a60da09ba064c63d19cfbd3a01103871675823887a7"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-07187",
+   "short": "Lei 7187/2025",
+   "title": "Lei nº 7.187, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8003",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8003/lei_no_7.187_de_2024_-_ldo_-_r_1.649.28690.pdf",
+     "sha256": "afe26f769d301d821973e7326188589bacd1f859545fac34552dcd3f2c41895c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07186",
+   "short": "Lei 7186/2025",
+   "title": "Lei nº 7.186, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8002",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8002/lei_no_7.186_de_2025_-_ldo_-_r_1.218.94584.pdf",
+     "sha256": "5296e7dd3af207cc56f3130a2fe790894c6e350ffdb0e8734a51e20341cf39c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07185",
+   "short": "Lei 7185/2025",
+   "title": "Lei nº 7.185, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8001",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8001/lei_no_7.185_de_2025_-_abertura_de_credito_especial_superavit_-r_1.218.94584.pdf",
+     "sha256": "20e82230e551df1d6bf49bb620602e6aaf611c7c3fe047893a8ae972fb65ea40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07184",
+   "short": "Lei 7184/2025",
+   "title": "Lei nº 7.184, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8000",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8000/lei_no_7.184_de_2025_-_abertura_de_credito_especial_-superavit_-_r_1.649.28690.pdf",
+     "sha256": "78fa2345dad3e0acb75db4b4b9f9901d40c1eabc2703eb9c2804abdd522360d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07183",
+   "short": "Lei 7183/2025",
+   "title": "Lei nº 7.183, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7999",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7999/lei_no_7.183_de_2025_-_abertura_de_credito_especial_-_superavit-_r_741.30471.pdf",
+     "sha256": "c69b8193ad02a525ab47fb6d68615f1503fbe4fa76cac33cf66f2371d816ef4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07174",
+   "short": "Lei 7174/2025",
+   "title": "Lei nº 7.174, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7993",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7993/lei_no_7.174_de_2025_-_ppa_-_r_1.066.56243_-_sec._agri._e_sec._saude.pdf",
+     "sha256": "93747f82c6f21ab3c81d3ab31af8a35c897bf13e3b9c33d85ae8684292d2b0f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07173",
+   "short": "Lei 7173/2025",
+   "title": "Lei nº 7.173, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7992",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7992/lei_no_7.173_de_2024_-_abertura_de_credito_especial_-_anulacao_-_r_1.066.53243_-_sec._de_agri._e_saude.pdf",
+     "sha256": "41a3b5ff89e488ecfea4c8e830143854f7efb3f47d387de16792a239c5ca672a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07172",
+   "short": "Lei 7172/2025",
+   "title": "Lei nº 7.172, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7991",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7991/lei_no_7.172_de_2025_-_ldo_-_r_1.066.56243_-_sec._agri._e_saude.pdf",
+     "sha256": "a13921caf80db017283c47163b99819430ddfac1a95611b64d4f60d0ac1b7c4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07168",
+   "short": "Lei 7168/2025",
+   "title": "Lei nº 7.168, de 14 de janeiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7976",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7976/lei_no_7.168_de_2025_-_ldo_-_secretaria_de_relacoes_institucionais.pdf",
+     "sha256": "ad9cad6aabe35061ab364202667d63e89502ece4b757abb89d7fb5f0039ffb0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07167",
+   "short": "Lei 7167/2025",
+   "title": "Lei nº 7.167, de 14 de janeiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7975",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7975/lei_no_7.167_de_2025-_ppa_-_secretaria_de_relacoes_institucionais.pdf",
+     "sha256": "42d56c9b5bc9820b3959934fd3d8939eaba8655b0fb6636005e572e18ff0b493"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07166",
+   "short": "Lei 7166/2025",
+   "title": "Lei nº 7.166, de 14 de janeiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7974",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7974/lei_no_7.166_de_2025_-_abertura_de_credito_especial_anulacao_-_r_263.00000_-_secretaria_de_relacoes_institucionais.pdf",
+     "sha256": "3db9a2ab79cb4c139b8a361b91a6afe0fd429f350ad6572d6dc730f3e3e28b76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07164",
+   "short": "Lei 7164/2025",
+   "title": "Lei nº 7.164, de 14 de janeiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7972",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 30,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7972/lei_no_7.164_de_2025-_familia_acolhedora_-_des._social.pdf",
+     "sha256": "9a9702a9ff0aa6908f8864ed3d9eae4b20e2591cb901bf57477e3bf39b544090"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07142",
+   "short": "Lei 7142/2024",
+   "title": "Lei nº 7.142, de 13 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7961",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7961/lei_no_7.142-2024-_promulgada.pdf",
+     "sha256": "fa8be9e4911435329e9e4dd5563082cef1f8e93b4785a2c34ff29637d7b5b4a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07162",
+   "short": "Lei 7162/2024",
+   "title": "Lei nº 7.162, de 11 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7960",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7960/lei_no_7.162_de_2024_-_altera_o_anexo_iii__tipos_de_edificacao_da_lei_n.o_5.441_de_21_de_junho_de_2017.pdf",
+     "sha256": "5cfe06e7868dc35fb06b257ddc6b72cfa46071e702bc07639507a68fe9251870"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07161",
+   "short": "Lei 7161/2024",
+   "title": "Lei nº 7.161, de 9 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7953",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7953/lei_no_7.161_de_2024_-_abertura_de_credito_suplementar_excesso_-_r__5.000.00000_1_educacao.pdf",
+     "sha256": "ac49fcd023f2b2012490c4938c834d14936f0ae4a2cda6405695d546e746109a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07156",
+   "short": "Lei 7156/2024",
+   "title": "Lei nº 7.156, de 9 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7958",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7958/lei_no_7.156_de_2024.pdf",
+     "sha256": "f8e4f95e96713697c43b24b8828abcd5c7e97cd4e20ce95b315d365cd4cdb671"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07152",
+   "short": "Lei 7152/2024",
+   "title": "Lei nº 7.152, de 6 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7954",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7954/lei_no_7.152_de_2024_-_reconhece_como_de_utilidade_publica_em_ambito_municipal_os_lions_clubes_de_muriae_helen_keller_e_barra.pdf",
+     "sha256": "e4d7c142ea59bf88572bac67c1c48862faf329b9d96b903318c2d1cb2e2ccab4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07151",
+   "short": "Lei 7151/2024",
+   "title": "Lei nº 7.151, de 6 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7952",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 16,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7952/lei_nao_7.151_de_2024_-_loa_exercicio_2025.pdf",
+     "sha256": "438651ae76e79cb5d231e3f19e692b22face62623f85b9e31d408b845866eeab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07157",
+   "short": "Lei 7157/2024",
+   "title": "Lei nº 7.157, de 3 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7948",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7948/lei_no_7.157_de_2024_-_reabre_prazo_fique_em_dia_-_demsur_2.pdf",
+     "sha256": "20bc65088d6eb3bfdfdc99d07684e03a85611d1444ec0daecf646e2b38a4c58c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07153",
+   "short": "Lei 7153/2024",
+   "title": "Lei nº 7.153, de 3 de dezembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7955",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7955/lei_no_7.153_de_2024_1.pdf",
+     "sha256": "490655f1c685e915c4c706f4e0447730b1d1c3e658edde88034b772df6737b0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07137",
+   "short": "Lei 7137/2024",
+   "title": "Lei nº 7.137, de 21 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7939",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7939/lei_no_7.137-2024-_promulgada.pdf",
+     "sha256": "e4bf35c73dc83f068084231a2222b8adafe53a34638c82587731019857d89319"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07150",
+   "short": "Lei 7150/2024",
+   "title": "Lei nº 7.150, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7936",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7936/lei_no_7.150_de_2024_-_abertura_de_credito_suplementar_excesso_-_r_1.320.00000.pdf",
+     "sha256": "437ad8e482453fbe3dd1490ffff078d9bdd576ed5bfb8c1ff47ab03a51b98771"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07148",
+   "short": "Lei 7148/2024",
+   "title": "Lei nº 7.148, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7934",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7934/lei_no_7.148_de_2024_-_abertura_de_credito_suplementar_anulacao_-_r_4.000.00000_-_fundacao.pdf",
+     "sha256": "a99aa02b88b5eba76a6e8368ac5ab4188c5f3ae88da90ee74470ca341249db63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07145",
+   "short": "Lei 7145/2024",
+   "title": "Lei nº 7.145, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7945",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7945/lei_no_7.145_de_2024_-declara_de_utilidade_publica_a_uniao_planetaria_amor_e_vida_-_upav.pdf",
+     "sha256": "003174d818b603da19eb4f7910f48f1f3f6efb6b45d50ea80e634f2c5a39a7f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07144",
+   "short": "Lei 7144/2024",
+   "title": "Lei nº 7.144, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7944",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7944/lei_no_7.144_de_2024_-declara_de_utilidade_publica_municipal_a_associacao_moralar_brasil__asmolar.pdf",
+     "sha256": "d629b07383115588f71b29ae624e00726265d0b2af3292cd553a1aa3bc6590ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07143",
+   "short": "Lei 7143/2024",
+   "title": "Lei nº 7.143, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7943",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7943/lei_no_7.143_de_2024_-dispoe_sobre_a_doacao_de_livros_em_desuso_das_escolas_municipais_para_associacoes_de_catadores_de_materiais_reciclaveis.pdf",
+     "sha256": "1d498c14ef9b6123710afd2b21743ae84026f7c07b771449fdf7314cd1ae8538"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07141",
+   "short": "Lei 7141/2024",
+   "title": "Lei nº 7.141, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7942",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7942/lei_no_7.141_de_2024_-institui_o_programa_muriae_para_todos_de_espacos_de_lazer_e_convivencia_em_areas_urbanas_e_rurais.pdf",
+     "sha256": "0923bcb59d776bfe733d2034756d9c956192a3c40d2d0b5ea075d07536f32e20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07140",
+   "short": "Lei 7140/2024",
+   "title": "Lei nº 7.140, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7941",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7941/lei_no_7.140_de_2024_-institui_dia_municipal_do_servico_do_lions_clube.pdf",
+     "sha256": "f38d4d8f147de05795c542c470485f55289a81f5fdbc03032bfa1867475cad88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07139",
+   "short": "Lei 7139/2024",
+   "title": "Lei nº 7.139, de 19 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7940",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7940/lei_no_7.139_de_2024_-_institui_o_dia_municipal_de_valorizacao_da_familia.pdf",
+     "sha256": "36b714dd29666faca989c533f73130f7dcaca47db1329a3ec051c657882d63b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07146",
+   "short": "Lei 7146/2024",
+   "title": "Lei nº 7.146, de 13 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7932",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7932/lei_no_7.146_de_2024-_convenio_-associacao_musical_lira_sao_tarcisio.pdf",
+     "sha256": "1b0c818dfced62ac5c02deab7db024be8bf778bf7570076a97b9c0064e7022ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07147",
+   "short": "Lei 7147/2024",
+   "title": "Lei nº 7.147, de 12 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7933",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7933/lei_no_7.147_de_2024_-_reabre_prazo_fique_em_dia_refis_-_refim.pdf",
+     "sha256": "62d4e4fca1682677c770c1808afc380eeda0f6fa626ae30338d80fdc3b71eab9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07138",
+   "short": "Lei 7138/2024",
+   "title": "Lei nº 7.138, de 5 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7938",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7938/lei_no_7.138_de_2024-_natal_-_convenio_fundarte_x_cdl.pdf",
+     "sha256": "35d24738130baac48501cb39c99e6d06b1f403d614e59b25208b90780138786e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07136",
+   "short": "Lei 7136/2024",
+   "title": "Lei nº 7.136, de 5 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7937",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7937/lei_no_7.136_de_2024_-_altercao_ldo_para_adequacao_loa_2025.pdf",
+     "sha256": "2bbc9cc88ba200447014ed4a4ee8e586c6f0ddb860fcb37b64db18dc223db3a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07135",
+   "short": "Lei 7135/2024",
+   "title": "Lei nº 7.135, de 5 de novembro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7926",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7926/lei_no_7.135_de_2024_-_da_denominacao_de_quadra_poliesportiva_jose_pedrosa_neto.pdf",
+     "sha256": "6766aadee02c4dbc103c1fc404066045c0c79fc7de1bc73bbe8a7804e3473246"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07132",
+   "short": "Lei 7132/2024",
+   "title": "Lei nº 7.132, de 23 de outubro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7922",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7922/lei_no_7.132_de_2024_-_da_denominacao_a_logradouro_publico_de_rua_izalino_goncalves_monteiro.pdf",
+     "sha256": "47008a5fe75c4c12712d7e44d96af3a12a3c1a2983ae153bd858727288a8b7a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07129",
+   "short": "Lei 7129/2024",
+   "title": "Lei nº 7.129, de 23 de outubro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7919",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7919/lei_no_7.129_de_2024_-_abertura_de_credito_especial_excesso_-_r_2.109.98446.pdf",
+     "sha256": "1d7dc2c5d0eb222626d05c1d47221da258d56e9bbf9d628e2fd618e80ddd97ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07127",
+   "short": "Lei 7127/2024",
+   "title": "Lei nº 7.127, de 23 de outubro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7917",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7917/lei_no_7.127_de_2024_-_ppa_-_r_191._436.pdf",
+     "sha256": "9c0c8e22ed1c2fded4bc111a84a11550c3573a41fa0fcc1bf16ed5c54d255df4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07125",
+   "short": "Lei 7125/2024",
+   "title": "Lei nº 7.125, de 23 de outubro de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7916",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7916/lei_no_7.125_de_2024_-_da_denominacao_de_praca_sebastiao_canedo_zanco_a_praca_da_parte_alta_do_bairro_planalto_rua_12doze.pdf",
+     "sha256": "1fdb2f7909d3bfb0a8b59aa5f5b88ff87a32fd32374d6f87a8718b52b85cd904"
+    }
+   ]
   }
  ]
 }
