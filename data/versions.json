@@ -12810,6 +12810,552 @@
      "sha256": "686bc5158faca697d8c80ed77b4511e25fadca8960b83d9d4fd9ca7815b43f4f"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-06589",
+   "short": "Lei 6589/2023",
+   "title": "Lei nº 6.589, de 4 de abril de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7280",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7280/lei_no_6.589-2022-_promulgada.pdf",
+     "sha256": "06e0887d9433e69393ac7171d07480c75a6741a8e329428a5939552be2c88140"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06625",
+   "short": "Lei 6625/2023",
+   "title": "Lei nº 6.625, de 30 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7276",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7276/lei_no__6.625_de_2023_-_implantacao_de_politicas_publicas_combate_a_violencia_contra_pessoa_idosa.pdf",
+     "sha256": "82a5a93829115a815a523ccc62c20fb2316115d8d22c0791af299b4a1f0ef869"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06617",
+   "short": "Lei 6617/2023",
+   "title": "Lei nº 6.617, de 24 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7272",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7272/lei_no_6.617_de_2023_-_vagas_em_creche_para_criancas_filhas_de_mulheres_vitimas_de_violencia_domestica.pdf",
+     "sha256": "4ff03193e4e56a0bf2047c4d9fc14719231005562dc7b7118a232d2488b7c5b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06623",
+   "short": "Lei 6623/2023",
+   "title": "Lei nº 6.623, de 23 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7271",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7271/lei_no_6.623_de_2023_-_dia_mundial_da_sindrome_de_down.pdf",
+     "sha256": "1291c1c8155855374bfd108f8c4069b4d3f8e12a156e591420801b0030e89c0c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06619",
+   "short": "Lei 6619/2023",
+   "title": "Lei nº 6.619, de 23 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7270",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7270/lei_no_6.619_de_2023_-_denominacao_cras_-_yuri_marques_de_jesus.pdf",
+     "sha256": "4bcb027ba99033f2749cb664c1a96ebe351544ad4e9f59d0a0c3ed72c9061c63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06616",
+   "short": "Lei 6616/2023",
+   "title": "Lei nº 6.616, de 23 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7269",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7269/lei_no_6.616_de_2023_-_denominacao_ponte_e_estrada_rio_preto_-_jocelin_cerqueira.pdf",
+     "sha256": "420cb644c3e97a53c9c518f0cd7d0cd78fd3571743e39c8c5a7ae2dede7b3bc5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06621",
+   "short": "Lei 6621/2023",
+   "title": "Lei nº 6.621, de 22 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7267",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7267/lei_no_6.621_de_2023_-_ldo_saude_varios_r_983.73486.pdf",
+     "sha256": "7dd7c7b5a5258f354d491742e5f008328c0288d81234ef6fe5ad8d2baaafb587"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06612",
+   "short": "Lei 6612/2023",
+   "title": "Lei nº 6.612, de 15 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7261",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7261/lei_no_6.612_de_2023_-_limpeza_compulsoria.pdf",
+     "sha256": "0b89f08fd9d38bd490a304d71a85e6df766040844f9410aca824919e8a942239"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06608",
+   "short": "Lei 6608/2023",
+   "title": "Lei nº 6.608, de 8 de março de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7253",
+   "versions": [
+    {
+     "from": "2023-03-09",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7253/lei_no_6.608_de_2023_-_bares_restaurantes_casas_noturnos_e_auxilio_a_mulher_que_sinta_em_situacao_de_risco.pdf",
+     "sha256": "fd7b27d54f6a7b3e42f61cb8475ecd5e4bbf0fd15c2749503da0b810e55a6d0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06587",
+   "short": "Lei 6587/2023",
+   "title": "Lei nº 6.587, de 28 de fevereiro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7245",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7245/lei__no_6.587_de_2023_-_dossie_das_mulheres_de_muriae.pdf",
+     "sha256": "f33e51376e89635f8b2667b30c7752eb75d917cf03ad0a41788472d600df2e33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06582",
+   "short": "Lei 6582/2023",
+   "title": "Lei nº 6.582, de 17 de fevereiro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7239",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 53,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7239/lei_no_6.582_de_2023_-__par-_processo_administrativo_de_responsabilizacao_de_pessoas_juridicas.pdf",
+     "sha256": "caa19c8c871f11dc04f7259e10641be7f738a61080b7b3c5fed5a2c89a9b4de3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06581",
+   "short": "Lei 6581/2023",
+   "title": "Lei nº 6.581, de 9 de fevereiro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7220",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7220/lei_no_6.581_de_2023_-_enfrentamento_a_violencia_domestica_e_sexual_contra_mulher_nas_escolas_municipais.pdf",
+     "sha256": "e744a11ddfdde0020022d5b3ad4df7e82c5b283e20482dc97c9483505e1bff41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06583",
+   "short": "Lei 6583/2023",
+   "title": "Lei nº 6.583, de 8 de fevereiro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7221",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7221/lei_no_6.583_de_2023-_credito_adicional_especial_5.000_-_camara_municipal_2023.pdf",
+     "sha256": "c83ab4290461e1a44a1b85d04fd497517cc9191abda8e13cd9cc97b6dc696174"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06580",
+   "short": "Lei 6580/2023",
+   "title": "Lei nº 6.580, de 8 de fevereiro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7219",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7219/lei_no_6.580_de_2023_-_dia_municipal_dos_desbravadores.pdf",
+     "sha256": "4351d084b3f7f2a1f8d4906dd0b72b68895e99c91fecc04bb9bf868a6f2a3f5e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06565",
+   "short": "Lei 6565/2023",
+   "title": "Lei nº 6.565, de 10 de janeiro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7190",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7190/lei_no_6.565_de_2023_-_refis_2022_-_prorroga_programa_fique_em_dia.pdf",
+     "sha256": "e8e2dbf2e98fd53354bcb3f973808f214efe1ed5524cc3a6d4b52653d255124d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06546",
+   "short": "Lei 6546/2022",
+   "title": "Lei nº 6.546, de 21 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7148",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 16,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7148/lei_orcamentaria_anual_-_6.546-2022_-_exercicio_2023.pdf",
+     "sha256": "c129f71dc0891faf830590ab51ac3f3e156b253c298c15087f7908f73f5734ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06549",
+   "short": "Lei 6549/2022",
+   "title": "Lei nº 6.549, de 8 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7140",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7140/lei_6.549_-_22_-_denominacao_da_ubs_manoel_jose_pinheiro_a_ubs_do_bairro_sao_cristovao.pdf",
+     "sha256": "ffaf2a24d1526facd7c9fd5785ec421853171583e84696233b2a99b8e5705dd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06548",
+   "short": "Lei 6548/2022",
+   "title": "Lei nº 6.548, de 8 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7142",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7142/lei_6.548_-_22_-_calendario_oficial_municipio_de_muriae_dia_do_violeiros.pdf",
+     "sha256": "9ac7562a1dd7c64d4928693c722a814a6d59022833b5e2854962b022709355c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06547",
+   "short": "Lei 6547/2022",
+   "title": "Lei nº 6.547, de 8 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7139",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7139/lei_6.547_-_22_-_medalha_jose_braz.pdf",
+     "sha256": "543a59eb5676a5666a2a942a56a2b65f1a5b301e5242cb10f7bee679378cc359"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06563",
+   "short": "Lei 6563/2022",
+   "title": "Lei nº 6.563, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7137",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7137/lei_6.563_de__2022__-_credito_suplementar_pgm_-_mansur_construtora_-_306.297.32.pdf",
+     "sha256": "acb4abfdfdd39db93f8b2a20b5b79361254511237cf1b533fc78b0afc9df3af2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06562",
+   "short": "Lei 6562/2022",
+   "title": "Lei nº 6.562, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7145",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7145/lei_no_6.562_-_22_-_suplementar_excesso_lar_ozanan_emend_parlam_200.000.pdf",
+     "sha256": "48bd1e29982246b6fab1c0455ac8704689518c24fd8479bdd64d28cfb8a75356"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06561",
+   "short": "Lei 6561/2022",
+   "title": "Lei nº 6.561, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7144",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7144/lei_no_6.561_de_2022_-__especial_anulacao_83.040_-_pol_desc_farmaceutica.pdf",
+     "sha256": "4b7e1b6b83356b9942554a9574970d83e26339f6e8513830a2e407d25ecdc1a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06560",
+   "short": "Lei 6560/2022",
+   "title": "Lei nº 6.560, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7136",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7136/lei_6.560__de_2022_-_suplementar_anulacao_10.000.pdf",
+     "sha256": "c3fcbf0db12746dd0e9340cbdee540d1017e0deb09e257728f0c2eaaa2c59c77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06559",
+   "short": "Lei 6559/2022",
+   "title": "Lei nº 6.559, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7135",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7135/lei_no_6.559__de_2022_-_cdru_joao_xxiii_-_projeto_restaurar.pdf",
+     "sha256": "c4a0b37f97f0ff37bb24a59febe45d434f38c1a380a31c897ede0a22ea2dc121"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06557",
+   "short": "Lei 6557/2022",
+   "title": "Lei nº 6.557, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7133",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7133/lei_6.557_-_22_-especial_excesso_saude_consult_rua_50.000.pdf",
+     "sha256": "a5feed7d8c95782c19a4b5a208263bd780368b3020c396ee0da26df24051d39d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06556",
+   "short": "Lei 6556/2022",
+   "title": "Lei nº 6.556, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7132",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7132/lei_no_6.556-_22_-_ppa_saude_consult_aps_50.000.pdf",
+     "sha256": "ca3d47290528b5c403aaecd2c116c612729d181e25e9cd8b2f3512acef97d8e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06555",
+   "short": "Lei 6555/2022",
+   "title": "Lei nº 6.555, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7131",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7131/lei_6.555_de_2022_-_suplementar_anulacao_agricultura_170.000.pdf",
+     "sha256": "ff10bd436ed781a01fbd33ffaff892329ffb97259cc876036eb5b6d04bd44b91"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06553",
+   "short": "Lei 6553/2022",
+   "title": "Lei nº 6.553, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7143",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7143/lei_6.553__de_2022_-ldo_saude_consult_aps_50.000.pdf",
+     "sha256": "0be2f9e1935fd27578775c66559f7d55d61300f1aa6957514bec887912a84a1e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06552",
+   "short": "Lei 6552/2022",
+   "title": "Lei nº 6.552, de 7 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7146",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7146/lei_6.552_de_2022_-_credito_suplementar_-_excesso_fundeb_-_4.500.000.pdf",
+     "sha256": "5a145633a6074ff1d482e659a8bf0066033d034b8b3d9b96c0019d7732d425a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06545",
+   "short": "Lei 6545/2022",
+   "title": "Lei nº 6.545, de 1 de dezembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7127",
+   "versions": [
+    {
+     "from": "2022-12-02",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7127/lei_-_6.545_de_2022_-_utilidade_publica_ong_resgates_de_mulheres.pdf",
+     "sha256": "01b38c7b4575b2e11f436b0ddf7799ba6952325dab2e5c110d070f1dddfc6783"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06542",
+   "short": "Lei 6542/2022",
+   "title": "Lei nº 6.542, de 30 de novembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7122",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7122/lei_-_6.542_-_corujao_da_saude.pdf",
+     "sha256": "35009e8dadb648df3e975d0eb6dcd04a6986c46b53993b0912f46aab8d8ccadd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06537",
+   "short": "Lei 6537/2022",
+   "title": "Lei nº 6.537, de 23 de novembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7117",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7117/lei_no_6.537-2022_-_rua_joaquim_gomes_da_silveira.pdf",
+     "sha256": "593121ccce842cf2121035f94f209282999a6cf80d5af80012f8571e4e5adaea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06534",
+   "short": "Lei 6534/2022",
+   "title": "Lei nº 6.534, de 11 de novembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7115",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7115/lei_no_6.534-2022_-_denominacao_praca_e_campo_situado_no_condominio_lidia_gomes_correa.pdf",
+     "sha256": "cd3fd17952f5433c4813696ee63928e1929af69b8391a551817c816d001cce82"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06536",
+   "short": "Lei 6536/2022",
+   "title": "Lei nº 6.536, de 10 de novembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7114",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7114/lei_6.536-2022_-_cdl_natal_2022.pdf",
+     "sha256": "b9eb8c66196642358b7d9bbcdec9d9cd467fce9dfe4133ef6e09e0bf3764bc94"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06530",
+   "short": "Lei 6530/2022",
+   "title": "Lei nº 6.530, de 8 de novembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7110",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7110/lei_no_6.530-2022_-_codigo_de_postura.pdf",
+     "sha256": "fc845755872b085cab0dae687c67742e795e526b5c458cc0f2258940b20e0513"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06531",
+   "short": "Lei 6531/2022",
+   "title": "Lei nº 6.531, de 7 de novembro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7111",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 16,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7111/lei_no__6.531_de_2022-_adote_uma_praca.pdf",
+     "sha256": "349c6a474ac6487aeb963ee2f287a0bae8d61bcf650cd2b34a03964b01e58222"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06529",
+   "short": "Lei 6529/2022",
+   "title": "Lei nº 6.529, de 26 de outubro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7107",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7107/lei_no_6.529_de_22_-_suplementar_excesso_obras_280.000_-_obras.pdf",
+     "sha256": "9611924968ec9ed00532b6e7ca69d735f3759834a38ae0a63729b85e524feea6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06528",
+   "short": "Lei 6528/2022",
+   "title": "Lei nº 6.528, de 26 de outubro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7106",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7106/lei_no_6.528-2022_-_utilidade_publica_grupo_solidario_o_amor_em_nosssas_maos_corrigida.pdf",
+     "sha256": "c5ed1146370c71d99c45397a24b154ad2bc51c73bf90c6f46092b3563701b8a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-06527",
+   "short": "Lei 6527/2022",
+   "title": "Lei nº 6.527, de 26 de outubro de 2022",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7105",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2022/7105/lei_no_6.527-2022_-_rua_antonio_jorge_de_oliveira.pdf",
+     "sha256": "9cc4fd36f7da9b684d6b24bd0edd2d0cb142d54c9ef27842de9b6e893b83f331"
+    }
+   ]
   }
  ]
 }
