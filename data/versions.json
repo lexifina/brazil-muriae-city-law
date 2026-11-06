@@ -6328,6 +6328,524 @@
      "sha256": "6e4713ee228d97c14cee9db353aeffa5c573b6479cf75c0362d369f8fab90662"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-07230",
+   "short": "Lei 7230/2025",
+   "title": "Lei nº 7.230, de 2 de abril de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8059",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8059/lei_no_7.230-2025_-_abertura_de_credito_especial_excesso_-_r_327._421_86_-_assinado.pdf",
+     "sha256": "c708eeb027d0abc07ccdd3c9dda0e42a45ad11840d92b698b4c948bbfddac9da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07226",
+   "short": "Lei 7226/2025",
+   "title": "Lei nº 7.226, de 2 de abril de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8058",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8058/lei_no_7.226_de_2025_-_dia_municipal_da_pessoa_com_deficiencia_-_assinado_1.pdf",
+     "sha256": "76b3615f32e7f54223615a69317b4b79a842938b9e86d7988454d177f1d46f27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07233",
+   "short": "Lei 7233/2025",
+   "title": "Lei nº 7.233, de 1 de abril de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8076",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8076/lei_no_7.233_de_2025_-_altera_dispositivos_da_lei_6.626-23.pdf",
+     "sha256": "9894fe7909b3d346f1e7cf2728511f94656d939800bab5f25ee3809451a4e396"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07227",
+   "short": "Lei 7227/2025",
+   "title": "Lei nº 7.227, de 25 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8049",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8049/lei_no_7.227_de_2025_-_altera_lei_no_7.158-2024.pdf",
+     "sha256": "4531aef44baa159050e3139b9fb1d1d0117c976469015478bf58bca58bdfaeaf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07225",
+   "short": "Lei 7225/2025",
+   "title": "Lei nº 7.225, de 25 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8048",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8048/lei_no_7.225_de_2025-_abertura_de_credito_especial_-_superavit__-_r_29.18214.pdf",
+     "sha256": "033f1f0690bf976dcc2faff7bfe6cc68c61aa778664287747b9e2242f690b87b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07224",
+   "short": "Lei 7224/2025",
+   "title": "Lei nº 7.224, de 25 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8047",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8047/lei_no_7.224_de_2025_-_abertura_de_credito_suplementar_anulacao_-_r1.010.38972.pdf",
+     "sha256": "8bc1194192336d80fed522c90d0f87b830ea5e1fc95f7dae2a7e65e8fdfa731f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07222",
+   "short": "Lei 7222/2025",
+   "title": "Lei nº 7.222, de 19 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8045",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8045/lei_no_7.222_de_2025_-_acrescenta_o_paragrafo_3o_e_inciso_i_art._30_lei_5.934-2019_-_assinado.pdf",
+     "sha256": "08f7979b4f7c74f71300f2fb0394592b0862efa63c3fd6fe3f421d351e08636d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07220",
+   "short": "Lei 7220/2025",
+   "title": "Lei nº 7.220, de 19 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8044",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8044/lei_no_7.220_de_2025_-_nomeia_quadra_-_corrigida.pdf",
+     "sha256": "da4065af7e5287afea92350dda9b384b5a6d0da013ab3fd41e0d39d25bb463a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07219",
+   "short": "Lei 7219/2025",
+   "title": "Lei nº 7.219, de 19 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8043",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8043/lei_no_7.219_de_2025_-_altera_a_lei_que_regulementa_trofeu_merito_do_trabalho.pdf",
+     "sha256": "0519758ba458815e68771da8281851fd7f74a1eaa1618117f3b891ac57402e82"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07218",
+   "short": "Lei 7218/2025",
+   "title": "Lei nº 7.218, de 12 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8039",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 12,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8039/lei_no_7.218_de_2025_-_institui_a_padronizacao_das_placas_indicativa_de_nomes_de_ruas_e_logradouros_publicos.pdf",
+     "sha256": "e5ba3da07b5e2286c4ed4542487fe7098c41ed5ecd1528bcd28f155716c255bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07215",
+   "short": "Lei 7215/2025",
+   "title": "Lei nº 7.215, de 12 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8038",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8038/lei_no_7.215_de_2025_-_semana_da_prevencao_contra_doencas_ocupacionais_dos_profissionais_da_educacao.pdf",
+     "sha256": "be1a90c577e2ce0604d56e9ab3f7d3f42b9981e614f3dd559c673e228a377862"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07217",
+   "short": "Lei 7217/2025",
+   "title": "Lei nº 7.217, de 11 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8037",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8037/lei_no_7.217_de_2025-_denomina_praca_marco_aurelio_dos_santos_ferreira_-_praca_inconfidencia_1.pdf",
+     "sha256": "67a1f5dafa6622ebd771cbf5a1348fcc7ef574a83c321a3ae6d76bd38bbea307"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07216",
+   "short": "Lei 7216/2025",
+   "title": "Lei nº 7.216, de 11 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8036",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8036/lei_no_7.216_de_2025_-_denomina_ponte_hilda_moreira_godinho_localizada_em_sao_joao_do_gloria.pdf",
+     "sha256": "80109d12657cd7f6659f21d7477bb2331f5141c0b3c3be69bcc666b28a0c5e2a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07211",
+   "short": "Lei 7211/2025",
+   "title": "Lei nº 7.211, de 8 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8033",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8033/lei_no_7.211_de_2025_-_dispoe_sobre_a_obrigatoriedade_de_remocao_dos_cabos_e_fiacao_area_sem_uso_instalado_por_concesssionarias_que_operam_ou_utilizam_rede_aerea.pdf",
+     "sha256": "bd6af5c51bcf65fcbd7c043371863343fca8966402ff60aec1e52a239d91fba4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07212",
+   "short": "Lei 7212/2025",
+   "title": "Lei nº 7.212, de 7 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8034",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8034/lei_no_7.212_de_2025_-_institui_o_domingao_lazer.pdf",
+     "sha256": "b319a7a48f19233e21b99e620eee8d15b16655792be66133ddae968ee050dd4a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07209",
+   "short": "Lei 7209/2025",
+   "title": "Lei nº 7.209, de 7 de março de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8032",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8032/lei_no_7.209_de_2025_-_prioridade_na_vacinacao_e_castracao_de_animais_para_quem_for_cadastrado_no_cadunico.pdf",
+     "sha256": "ff9c107994d90a7a4f4bbaa5ce6eb01d4d1b35a966370cb48bfdc089a334081e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07210",
+   "short": "Lei 7210/2025",
+   "title": "Lei nº 7.210, de 27 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8029",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8029/lei_no_7.210_de_2025_-_dia_do_apicultor_e_do_meliponicultor_em_muriae.pdf",
+     "sha256": "74d49dbe9d8f24e0c882fdd4e1fb11471f3b96fbdfa2cdd6557634aad3e1802b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07176",
+   "short": "Lei 7176/2025",
+   "title": "Lei nº 7.176, de 21 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8025",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8025/lei_no_7.176_de_2025_-_instalcao_em_espacos_publicos_de_brinquedos_adaptados_para_lazer_e_recreacao_de_pessoas_portadora_de_deficiencia..pdf",
+     "sha256": "3590a3b614c72080071af45747cc56f672f0fce088157a3a0efc082fede800be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07201",
+   "short": "Lei 7201/2025",
+   "title": "Lei nº 7.201, de 20 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8026",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8026/lei_no_7.201_de_2025_-_institui_semana_das_aguas_no_municipio_de_muriae.pdf",
+     "sha256": "0f88cd85e8fea1733a60cc46183f07f016321a9f558cf71c8a38f4969634cb62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07200",
+   "short": "Lei 7200/2025",
+   "title": "Lei nº 7.200, de 20 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8024",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8024/lei_no_7.200_de_2025_-_institui_a_campanha_liraa_alerta_para_o_combate_ao_mosquito_transmissor_da_dengue.pdf",
+     "sha256": "e2572ab037ead5dba5a43aa7854289db2621d8e812e0e04d0b4bb88511f94260"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07199",
+   "short": "Lei 7199/2025",
+   "title": "Lei nº 7.199, de 20 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8023",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8023/lei_no_7.199_de_2025_-_denominacao_de_bairro_jose_braz_o_loteamento_jose_braz.pdf",
+     "sha256": "994de00a480f1a1e8809dec8fb0d0971d86fcb6f722aa606dd9eb6b6d4ad3cb5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07175",
+   "short": "Lei 7175/2025",
+   "title": "Lei nº 7.175, de 20 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8016",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8016/lei_no_7.175_de_2025_-_dispoe_sobre_o_servico_de_taxis_no_municipio_de_muriae..pdf",
+     "sha256": "61493ad3da3910fbfe6fd6e821e021195f589a7706739cb9de8f14ceeeb52f5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07205",
+   "short": "Lei 7205/2025",
+   "title": "Lei nº 7.205, de 18 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8020",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8020/lei_no_7.205_de_2025_-_ldo_-_r_962.33857.pdf",
+     "sha256": "f3cc60e870ffa016272239442d96b7bfb2352e332ca280000204dd095565c30f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07202",
+   "short": "Lei 7202/2025",
+   "title": "Lei nº 7.202, de 18 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8017",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8017/lei_no_7.202_de_2025_-_denomina_centro_integrado_municipal_prefeito_jose_braz.pdf",
+     "sha256": "d517c561b9fc283ca94d5ca2c9ea933fffd0d7626fd48c21496c9984bda42d41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07181",
+   "short": "Lei 7181/2025",
+   "title": "Lei nº 7.181, de 17 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8015",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8015/lei_no_7.181_de_2025_-_dispoe_conscientizacao_e_sensibilizacao_dos_alunos_da_rede_publica_municipal_em_relacao_as_dificuldades_e_potencialidades_das_pessoas_com_deficiencia.pdf",
+     "sha256": "3bb53b261b038501328c47fcb91fc2ff9554437f36bc3f5a4be764a6564ea1a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07182",
+   "short": "Lei 7182/2025",
+   "title": "Lei nº 7.182, de 14 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7998",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7998/lei_no_7.182_de_2025_-_reconhece_como_patrimonio_cultural_de_natureza_imaterial_do_municipio_o_nacional_atletico_clube.pdf",
+     "sha256": "14ea58d9ced09ce839be60bc913d81070145fd9a0709ab03abc6e75a712349cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07180",
+   "short": "Lei 7180/2025",
+   "title": "Lei nº 7.180, de 14 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7997",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7997/lei_no_7.180_de_2025_-_institui_o_dia_municipal_da_poesia_e_a_semana_educativa_sobre_a_poesia.pdf",
+     "sha256": "dab1919348323f278959c2705e213fe2cd0f07c7338c426eb3b2b312d1e08fe1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07171",
+   "short": "Lei 7171/2025",
+   "title": "Lei nº 7.171, de 14 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7990",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7990/lei_no_7.171_de_2024_-_declara_de_utilidade_publica_municipal_o_vermelho_futebol_clube.pdf",
+     "sha256": "5c818779eda3a515cd3e6539d2ffd4a3e098977898fb7ae41fdde943ad209b93"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07170",
+   "short": "Lei 7170/2025",
+   "title": "Lei nº 7.170, de 14 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7989",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7989/lei_no_7.170_de_2025_-_declara_utilidade_publica_a_ong_sos_animais.pdf",
+     "sha256": "3c382025400e13bbfbba545a75266b291a3c358f007a4e2077be703d90a5c779"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07194",
+   "short": "Lei 7194/2025",
+   "title": "Lei nº 7.194, de 12 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8010",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8010/lei_no_7.194_de_2025-_abertura_de_credito_suplementar_superavit_-r_122.64475.pdf",
+     "sha256": "d21a5ee91243ef07ab99f6cae8fe1ef39b50bfeac2f49022ccd2270988ba0df1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07178",
+   "short": "Lei 7178/2025",
+   "title": "Lei nº 7.178, de 12 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7995",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7995/lei_no_7.178_de_2025_-__altera_codigo_de_obras.pdf",
+     "sha256": "871b360dd66ee2c7a02c43697aa1cf3d67892453f5df5087dca37fae9b91d015"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07177",
+   "short": "Lei 7177/2025",
+   "title": "Lei nº 7.177, de 12 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7994",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/7994/lei_no_7.177_de_2025_-_desafeta_area_-_espolio_de_joel_pereira_bahia.pdf",
+     "sha256": "6c17bf544c0bd88d43c4714f368e599286c69cd818d6e91ab3ca3e0fb5124e68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07196",
+   "short": "Lei 7196/2025",
+   "title": "Lei nº 7.196, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8012",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8012/lei_no_7.196_de_2025_-_abertura_de_credito_suplementar_superavit_-_r_598.02657.pdf",
+     "sha256": "8be8b114aa9820cebe2a637a1d00ea8062eb6457bc9a502530cffa7426a5fd98"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07195",
+   "short": "Lei 7195/2025",
+   "title": "Lei nº 7.195, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8011",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8011/lei_no_7.195_de_2025_-_abertura_de_credito_suplementar_superavit_-_r_255.47631.pdf",
+     "sha256": "a14346096821cd8912bd958392be7edf77bafd5fb45a19bd8496373bfef59df0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07191",
+   "short": "Lei 7191/2025",
+   "title": "Lei nº 7.191, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8007",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8007/lei_no_7.191_de_2025_-_abertura_de_credito_suplementar_superavit_-_r_r_4.610.85646.pdf",
+     "sha256": "20bbfa902e6004ba417eca566c0f786b6780985683e78ae299f3e6729d076fd4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07189",
+   "short": "Lei 7189/2025",
+   "title": "Lei nº 7.189, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8005",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8005/lei_no_7.189_de_2025_-_abertura_de_credito_suplementar_superavit_-_r_1.228.21800_-_copia.pdf",
+     "sha256": "f490bf15d10ad056cf2aa0ad43254df5e07a36d518240f55997c4bed6722685a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-07188",
+   "short": "Lei 7188/2025",
+   "title": "Lei nº 7.188, de 11 de fevereiro de 2025",
+   "url": "https://sapl.muriae.mg.leg.br/norma/8004",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2025/8004/lei_no_7.188_de_2025_-_ppa_-_r_1.649.28690.pdf",
+     "sha256": "7950941d58060db3fb223a60da09ba064c63d19cfbd3a01103871675823887a7"
+    }
+   ]
   }
  ]
 }
