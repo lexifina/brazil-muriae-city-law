@@ -10668,6 +10668,524 @@
      "sha256": "17a8d2f77b75ac0927ffc97d36edba9135d8f2001ce88c17bb510aa305a9413b"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-06821",
+   "short": "Lei 6821/2023",
+   "title": "Lei nº 6.821, de 19 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7526",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7526/lei_no_6.821_de_2023_-_da_denominacao_de_bairro_interlagos_o_loteamento_interlagos.pdf",
+     "sha256": "5e8b3f3056917d8e43720403072a73067814cd3e9fff6fa46b96ffe406b1dd1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06822",
+   "short": "Lei 6822/2023",
+   "title": "Lei nº 6.822, de 18 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7520",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7520/lei_no_6.822_de_2023_-_centro_de_convivencia_nathalia_braga_lopes.pdf",
+     "sha256": "c57a6e31166ae970678825bd0f75fb2640dff7564b7ed9c4bbd0e90b532591c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06814",
+   "short": "Lei 6814/2023",
+   "title": "Lei nº 6.814, de 18 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7524",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7524/lei_no_6.814_de_2023_-_ldo_-_63.03528.pdf",
+     "sha256": "95561188c7b642adf3ecca664e45e6240f7d63cb6fc3b49c30fbff9c3a5242ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06813",
+   "short": "Lei 6813/2023",
+   "title": "Lei nº 6.813, de 18 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7523",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7523/lei_no_6.813_de_2023_-_ppa_-_63.03528.pdf",
+     "sha256": "145fa9580c17184f9ad23dfb233220c9c2216844c901281eaa5f397beda91492"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06825",
+   "short": "Lei 6825/2023",
+   "title": "Lei nº 6.825, de 17 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7518",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7518/lei_n_6.825_de_2023-_ppa_-_r_3.018.17800_-_repasse_pido_enfermagem.pdf",
+     "sha256": "557052d3f1e67057b730a9a76eda7c3f02d4d95434813726d187185fb2edd0f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06824",
+   "short": "Lei 6824/2023",
+   "title": "Lei nº 6.824, de 17 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7517",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7517/lei_no_6.824_de_2023_-_ldo_-_saude_-_r_3.018.17800_-_repasse_piso_enfermagem.pdf",
+     "sha256": "5226b78bbd4c372a7ea5388f5ac78e07c0d1d9c84b2444389e0d1fbad0ea4700"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06823",
+   "short": "Lei 6823/2023",
+   "title": "Lei nº 6.823, de 17 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7516",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7516/lei_no_6.823_de_2023_-_abertura_de_credito_adicional_especial_-_excesso_-_r_3.018.17800_-_repasse_piso_enfermagem.pdf",
+     "sha256": "ba587b7d4c6674d50b5144b4114126fc1ef82c79840e37c81fe7d092dae67ff4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06820",
+   "short": "Lei 6820/2023",
+   "title": "Lei nº 6.820, de 17 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7525",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7525/lei_no_6.820_de_2023_-_da_denominacao_de_gisele_oliveira_monteiro_de_barros_tanus.pdf",
+     "sha256": "8258ee390be4aa4402d0e72c30b47a59d87163ad3e6bd321af73ad8c3da59ae0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06808",
+   "short": "Lei 6808/2023",
+   "title": "Lei nº 6.808, de 11 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7509",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7509/lei_no_6.808_de_2023_-_lei_das_abelhas.pdf",
+     "sha256": "aab321f749ac0a6f6597a917f24ed8cfe0b2f07db533931c2ecbdd1b52f93097"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06811",
+   "short": "Lei 6811/2023",
+   "title": "Lei nº 6.811, de 4 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7507",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7507/lei_no_6.811_de_2023_-_institui_o_dia_municipal_do_profissional_da_contabilidade.pdf",
+     "sha256": "18aacd5ddb3a8f56092e30bb2ab72c87ef53026f4757b332585ee5a97d1cc906"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06810",
+   "short": "Lei 6810/2023",
+   "title": "Lei nº 6.810, de 4 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7506",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7506/lei_no_6.810_de_2023_-institui_o_dia_do_escritor_no_municipio_de_muriae_e_da_outras_providencias.pdf",
+     "sha256": "78707cdbaf95ec05b897d281acf5bbcefba29379282ba2e205f60d9e645bb989"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06803",
+   "short": "Lei 6803/2023",
+   "title": "Lei nº 6.803, de 4 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7505",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7505/lei_no_6.803_de_2023_-_veda_a_reproducao_de_musicas_e_videos_que_contenham_qualquer_palavra_termo_ou_expressao_de_natureza_pornografica_ou_sexual.pdf",
+     "sha256": "3705f85012d0759a7a04e04cac2e142c83a7f88403545d642cf1dadb6105aa51"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06800",
+   "short": "Lei 6800/2023",
+   "title": "Lei nº 6.800, de 4 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7504",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 6,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7504/lei_no_6.800_de_2023.pdf",
+     "sha256": "894d7124af84fe3d2a2724f46f29dd3a167c3c73778b76576cbfb1a2af8fa712"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06807",
+   "short": "Lei 6807/2023",
+   "title": "Lei nº 6.807, de 3 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7503",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 10,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7503/lei_no_6.807_de_2023_-_regulamentacao_veiculos_de_aplicativos.pdf",
+     "sha256": "e8554c9787b56ce645a76c3365affd0b7a62e22c76d5a3e5a37a8780897c5922"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06804",
+   "short": "Lei 6804/2023",
+   "title": "Lei nº 6.804, de 2 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7502",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7502/lei_no_6.804_de_2023_-_titulo_de_sandro_josfino.pdf",
+     "sha256": "4024de851b1c3eafe798167693aef7c9ea17588fe4e247b3c1417b0f03970a20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06802",
+   "short": "Lei 6802/2023",
+   "title": "Lei nº 6.802, de 2 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7501",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7501/lei_no_6.802_de_2023_-_incentivo_de_doacao_de_cabelo_para_pessoas_em_tratamento_com_cancer.pdf",
+     "sha256": "92d5796542ae16cc93aab6c5f1d56f1993b868821fdd091518016013bb93eb3e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06801",
+   "short": "Lei 6801/2023",
+   "title": "Lei nº 6.801, de 2 de outubro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7500",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 9,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7500/lei_no_6.801_de_2023_-_incentivo_ao_futebol_feminino.pdf",
+     "sha256": "dbe98b839874e76c282154a64d010bc2c1f77029b443316b3deb6ce6d2ff75f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06806",
+   "short": "Lei 6806/2023",
+   "title": "Lei nº 6.806, de 27 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7499",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7499/lei_no_6.806_de_2023-_republicada_-__autoriza_a_doacao_de_veiculo_a_cooperacao_dos_produtores_da_agricultura_familiar_solidaria.pdf",
+     "sha256": "7992c74b9fa875a300d0bb07f20a7d7667b9588cc42adeecdfcbdc77ac0bb5f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06805",
+   "short": "Lei 6805/2023",
+   "title": "Lei nº 6.805, de 27 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7498",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7498/lei_no_6.805_de_2023_-_republicada_-__abertura_de_credito_suplementar_-_r_1.792.13000.pdf",
+     "sha256": "8df2be5a914f4c36ea21b6e5620160d1a8e73ddef5fe6f1ae08ddd67081a6735"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06799",
+   "short": "Lei 6799/2023",
+   "title": "Lei nº 6.799, de 27 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7497",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7497/lei_no_6.799_de_2023_-republicada_-_abertura_de_credito_especial_anulacao_-_r_20.00000.pdf",
+     "sha256": "c04cd226ef278dd7951c9df759ba2ee8d8eebdad6f74577d5f1b34d5a0437e3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06798",
+   "short": "Lei 6798/2023",
+   "title": "Lei nº 6.798, de 27 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7496",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7496/lei_no_6.798_de_2023_-_republicada_-_abertura_de_credito_suplementar_excesso_-_r_2.073.02300.pdf",
+     "sha256": "3bce9be9b9a8bc31bbed6251c6bfa9439f074f24c720107c413cbd12af7d57fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06795",
+   "short": "Lei 6795/2023",
+   "title": "Lei nº 6.795, de 12 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7493",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 12,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7493/lei_no_6.795_de_2023_-_parklet_-_institui_a_extensao_temporaria_de_passeio_publico_denominada_parklet.pdf",
+     "sha256": "e84fbf9246d9413977c669750b823cc3c17a00a7c45ec26c40120c2ef8976d31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06794",
+   "short": "Lei 6794/2023",
+   "title": "Lei nº 6.794, de 12 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7492",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7492/lei_no_6.794_de_2023_-_da_denominacao_de__edison_rodrigues_bittencourt_a_serra_do_siriquite.pdf",
+     "sha256": "f98dfc8e213332a80444fb044d03fc8c204ac4d880f728eca6feebc6469b9d1b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06793",
+   "short": "Lei 6793/2023",
+   "title": "Lei nº 6.793, de 12 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7491",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7491/lei_no_6.793_de_2023_-_d1a_denominacao_a_lograudouro_publico_a_rua_francisco_de_assis_matos_de_oliveira.pdf",
+     "sha256": "4cb152b2faadd2f531c69fa098d9afc1408307611784299123b2cebbca21a8ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06791",
+   "short": "Lei 6791/2023",
+   "title": "Lei nº 6.791, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7488",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7488/lei_no_6.791_de_2023-_saude_-_nucleo_de_aconselh._familiar_e_refer._em_saude_da_mulher_rozani_angelica_agostini_de_andrade.pdf",
+     "sha256": "a66b28128f35f660785c67402d848ecb4bf9bd471d624691c291d50bf634d552"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06790",
+   "short": "Lei 6790/2023",
+   "title": "Lei nº 6.790, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7487",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7487/lei_no__6.790_de_2023_-da_denominacao_de_rua_pedro_braz_o_logradouro_publico_que_se_inicia_na_avenida_raphael_tonello_rocha_e_vai_ate_a_chacara_sao_pedro.pdf",
+     "sha256": "1c5da6699561775bb2d3e766ef690eccd6ecc7c2903a60000adcb73fd810497a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06789",
+   "short": "Lei 6789/2023",
+   "title": "Lei nº 6.789, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7486",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7486/lei_no_6.789_de_2023_-_abertura_de_credito_suplementar_-_r718.78346.pdf",
+     "sha256": "b8ae39d7987e5aa9cbd439bee0a83b7f55abc1babb3a9d2897c98888a492e277"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06784",
+   "short": "Lei 6784/2023",
+   "title": "Lei nº 6.784, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7485",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7485/lei_no_6.784_de_2023.pdf",
+     "sha256": "9fc00692a39acaca7a0c5e8c4838da1e273bbd6824285cfe281d0ccd5eae4e5e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06783",
+   "short": "Lei 6783/2023",
+   "title": "Lei nº 6.783, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7484",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7484/lei_no_6.783_de_2023_-_obriga_estabelecimentos_industriais_comerciais_e_as_residencias_a_descartarem_de_forma_adequada_os_residuos_perfuro_cortantes.pdf",
+     "sha256": "8499d6b1f8d679588416c169bfb330669f7384a352a7b078a688aab0cd489e40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06782",
+   "short": "Lei 6782/2023",
+   "title": "Lei nº 6.782, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7483",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7483/lei_no_6.782_de_2023_-_dispoe_sobre_o_servico_de_estacionamento_rotativo_para_veiculos_nas_vias_publicas_e_disciplina_os_estacionamentos_privados.pdf",
+     "sha256": "8ec39557b0c54ebe092a982831a4792a7ab7f4575a1ad390ee891f939822d4e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06771",
+   "short": "Lei 6771/2023",
+   "title": "Lei nº 6.771, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7490",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7490/lei_no_6.771_de__2023_-_da_denominacao_de_rua_jose_barbosa_filgueiras_a_logradouro.pdf",
+     "sha256": "4723bcbb1d2794653b163b5b5597238f1b6b6d93969ed27222739ffdc1fe9bc8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06770",
+   "short": "Lei 6770/2023",
+   "title": "Lei nº 6.770, de 5 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7482",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 8,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7482/lei_no_6.770_de_2023_-_institui_campeonato_de_futebol_amador_no_calendario_desportivo_do_municipio.pdf",
+     "sha256": "6dc2160cf9c85bdefbfdb50b48971521dec269bf2428d0455c04200c76b2020c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06774",
+   "short": "Lei 6774/2023",
+   "title": "Lei nº 6.774, de 1 de setembro de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7481",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 10,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7481/lei_no_6.774_de_2023_-_promocao_da_educacao_alimentar__e_nutricional_nas_escolas_publicas.pdf",
+     "sha256": "73c581bb23389f19d74e241d29537aaa8c4ca68c105bc73f8223e691a217d592"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06762",
+   "short": "Lei 6762/2023",
+   "title": "Lei nº 6.762, de 30 de agosto de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7478",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 7,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7478/lei_no_6.762_de_2023_-_institui_a_politica_vini_jr_de_combate_ao_racismo_nos_estadios_e_arenas_esportivas.pdf",
+     "sha256": "70530ed45f390160a5f0e4b05cb930b7eb0e3dae3852396fc3edd7f2153de402"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06761",
+   "short": "Lei 6761/2023",
+   "title": "Lei nº 6.761, de 30 de agosto de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7479",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 17,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7479/lei_no_6.761_de_2023_-_clube_de_desconto_do_servidor_na_prefeitura_de_muriae.pdf",
+     "sha256": "2ba8febd607394c0b9cb95ba24e6453b94cb440dbff33e65d371c7db955069b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06788",
+   "short": "Lei 6788/2023",
+   "title": "Lei nº 6.788, de 29 de agosto de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7477",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7477/lei_no_6.788_de_2023_-_ldo_-_4.168.778.pdf",
+     "sha256": "abc8242c9f4d1957c05010e8d755033533201510410aa43784383a3e42d53cca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-06785",
+   "short": "Lei 6785/2023",
+   "title": "Lei nº 6.785, de 29 de agosto de 2023",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7474",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2023/7474/lei_no_6.785_de_2023-_subvencao_mae_gestante_carente.pdf",
+     "sha256": "d920e4ffee0bf343b049b31191ac8a6d105faeb8584f8750d5c0fc729cc3763f"
+    }
+   ]
   }
  ]
 }
