@@ -26,6 +26,8 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Muriaé, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.muriae.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Muriaé, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.muriae.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -832,20 +834,99 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2023-06761` | Lei nº 6.761, de 30 de agosto de 2023 | 1 | 2023-08-31 to 2023-08-31 |
 | `lei-2023-06788` | Lei nº 6.788, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
 | `lei-2023-06785` | Lei nº 6.785, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06780` | Lei nº 6.780, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06779` | Lei nº 6.779, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06778` | Lei nº 6.778, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06777` | Lei nº 6.777, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06776` | Lei nº 6.776, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06775` | Lei nº 6.775, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06773` | Lei nº 6.773, de 29 de agosto de 2023 | 1 | 2023-08-30 to 2023-08-30 |
+| `lei-2023-06756` | Lei nº 6.756, de 24 de agosto de 2023 | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-06769` | Lei nº 6.769, de 23 de agosto de 2023 | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-2023-06767` | Lei nº 6.767, de 23 de agosto de 2023 | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-2023-06766` | Lei nº 6.766, de 23 de agosto de 2023 | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-2023-06765` | Lei nº 6.765, de 23 de agosto de 2023 | 1 | 2023-08-24 to 2023-08-24 |
+| `lei-2023-06759` | Lei nº 6.759, de 16 de agosto de 2023 | 1 | 2023-08-17 to 2023-08-17 |
+| `lei-2023-06758` | Lei nº 6.758, de 16 de agosto de 2023 | 1 | 2023-08-17 to 2023-08-17 |
+| `lei-2023-06757` | Lei nº 6.757, de 16 de agosto de 2023 | 1 | 2023-08-17 to 2023-08-17 |
+| `lei-2023-06752` | Lei nº 6.752, de 16 de agosto de 2023 | 1 | 2023-08-17 to 2023-08-17 |
+| `lei-2023-06760` | Lei nº 6.760, de 15 de agosto de 2023 | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-06711` | Lei nº 6.711, de 14 de agosto de 2023 | 1 | 2023-08-15 to 2023-08-15 |
+| `lei-2023-06706` | Lei nº 6.706, de 14 de agosto de 2023 | 1 | 2023-08-15 to 2023-08-15 |
+| `lei-2023-06705` | Lei nº 6.705, de 14 de agosto de 2023 | 1 | 2023-08-15 to 2023-08-15 |
+| `lei-2023-06704` | Lei nº 6.704, de 14 de agosto de 2023 | 1 | 2023-08-15 to 2023-08-15 |
+| `lei-2023-06683` | Lei nº 6.683, de 14 de agosto de 2023 | 1 | 2023-08-14 to 2023-08-14 |
+| `lei-2023-06751` | Lei nº 6.751, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06750` | Lei nº 6.750, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06749` | Lei nº 6.749, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06748` | Lei nº 6.748, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06747` | Lei nº 6.747, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06746` | Lei nº 6.746, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06745` | Lei nº 6.745, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06744` | Lei nº 6.744, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06743` | Lei nº 6.743, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06742` | Lei nº 6.742, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06741` | Lei nº 6.741, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06740` | Lei nº 6.740, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06739` | Lei nº 6.739, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06738` | Lei nº 6.738, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06737` | Lei nº 6.737, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06736` | Lei nº 6.736, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06735` | Lei nº 6.735, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06734` | Lei nº 6.734, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06733` | Lei nº 6.733, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06732` | Lei nº 6.732, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06731` | Lei nº 6.731, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06730` | Lei nº 6.730, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06729` | Lei nº 6.729, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06728` | Lei nº 6.728, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06727` | Lei nº 6.727, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06726` | Lei nº 6.726, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06725` | Lei nº 6.725, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06724` | Lei nº 6.724, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06723` | Lei nº 6.723, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06722` | Lei nº 6.722, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06721` | Lei nº 6.721, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06720` | Lei nº 6.720, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06719` | Lei nº 6.719, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06718` | Lei nº 6.718, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06717` | Lei nº 6.717, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06716` | Lei nº 6.716, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06715` | Lei nº 6.715, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06714` | Lei nº 6.714, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06713` | Lei nº 6.713, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06712` | Lei nº 6.712, de 10 de agosto de 2023 | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-06710` | Lei nº 6.710, de 8 de agosto de 2023 | 1 | 2023-08-09 to 2023-08-09 |
+| `lei-2023-06709` | Lei nº 6.709, de 8 de agosto de 2023 | 1 | 2023-08-09 to 2023-08-09 |
+| `lei-2023-06708` | Lei nº 6.708, de 8 de agosto de 2023 | 1 | 2023-08-09 to 2023-08-09 |
+| `lei-2023-06697` | Lei nº 6.697, de 5 de julho de 2023 | 1 | 2023-07-06 to 2023-07-06 |
+| `lei-2023-06696` | Lei nº 6.696, de 5 de julho de 2023 | 1 | 2023-07-06 to 2023-07-06 |
+| `lei-2023-06695` | Lei nº 6.695, de 5 de julho de 2023 | 1 | 2023-07-06 to 2023-07-06 |
+| `lei-2023-06694` | Lei nº 6.694, de 5 de julho de 2023 | 1 | 2023-07-06 to 2023-07-06 |
+| `lei-2023-06689` | Lei nº 6.689, de 14 de junho de 2023 | 1 | 2023-06-15 to 2023-06-15 |
+| `lei-2023-06686` | Lei nº 6.686, de 14 de junho de 2023 | 1 | 2023-06-15 to 2023-06-15 |
+| `lei-2023-06685` | Lei nº 6.685, de 14 de junho de 2023 | 1 | 2023-06-15 to 2023-06-15 |
+| `lei-2023-06688` | Lei nº 6.688, de 13 de junho de 2023 | 1 | 2023-06-14 to 2023-06-14 |
+| `lei-2023-06684` | Lei nº 6.684, de 13 de junho de 2023 | 1 | 2023-06-14 to 2023-06-14 |
+| `lei-2023-06682` | Lei nº 6.682, de 7 de junho de 2023 | 1 | 2023-06-08 to 2023-06-08 |
+| `lei-2023-06677` | Lei nº 6.677, de 26 de maio de 2023 | 1 | 2023-05-29 to 2023-05-29 |
+| `lei-2023-06679` | Lei nº 6.679, de 23 de maio de 2023 | 1 | 2023-05-24 to 2023-05-24 |
+| `lei-2023-06678` | Lei nº 6.678, de 23 de maio de 2023 | 1 | 2023-05-23 to 2023-05-23 |
+| `lei-2023-06676` | Lei nº 6.676, de 23 de maio de 2023 | 1 | 2023-05-24 to 2023-05-24 |
 
-The build made 799 commits:
+The build made 878 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 799 | first version of an act |
+| 878 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 799 laws in the record.
-- 1598 tags.
+- 878 laws in the record.
+- 1756 tags.
 
 ## Dates
 
@@ -857,7 +938,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5dc075105c5074a62cf2766f217d81caee04e68442c4d5831322d4109943336c` (3047602 bytes).
+- Corpus: sha256 `eacf0ef3bde0e83e5354d4baf7de317579b520670dbe49b7bb703e0e93f2afb8` (3266528 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -929,6 +1010,12 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -939,6 +1026,8 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
