@@ -8008,6 +8008,636 @@
      "sha256": "97015fa6c47d7b471750dadd70fb11a9dc3b9c312aa7a8c746a682a4673523cb"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-07078",
+   "short": "Lei 7078/2024",
+   "title": "Lei nº 7.078, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7849",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7849/lei_no_7.078_de_2024_-joel_peixoto_manoel.__-_honra_ao_merito.pdf",
+     "sha256": "18126da7af322d1175dd6d8c8740d196249919a56c332c6d78ccc1ba427ccbeb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07077",
+   "short": "Lei 7077/2024",
+   "title": "Lei nº 7.077, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7848",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7848/lei_no_7.077_de_2024_-fernanda_areal_carrizo_-_honra_ao_merito.pdf",
+     "sha256": "f43bbdf3197575d9de804292e33df588e6c1715191b01c96ca2e333541205b39"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07076",
+   "short": "Lei 7076/2024",
+   "title": "Lei nº 7.076, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7847",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7847/lei_no_7.076_de_2024_-ewerton_de_souza_abreu_-_honra_ao_merito.pdf",
+     "sha256": "e145c143536d5595d50a5518549dfd018956f4e2c14a9e53bed7ed48e93f19e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07075",
+   "short": "Lei 7075/2024",
+   "title": "Lei nº 7.075, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7846",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7846/lei_no_7.075_de_2024_-bruno_risson_da_silva_-_honra_ao_merito.pdf",
+     "sha256": "f45d24bf1912c0fc2cc301ca1018db19b00078f048b69ba51465834a74c913be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07074",
+   "short": "Lei 7074/2024",
+   "title": "Lei nº 7.074, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7845",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7845/lei_no_7.074_de_2024_-paulo_silva_do_nascimento_-_honra_ao_merito.pdf",
+     "sha256": "97f97eda32fc4cb7bf0e40396b793f909732ccfbf2a63b3999615e6911b591e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07073",
+   "short": "Lei 7073/2024",
+   "title": "Lei nº 7.073, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7844",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7844/lei_no_7.073_de_2024_-marcio_ferreira_da_silva_-_honra_ao_merito.pdf",
+     "sha256": "8827263b7cdf5f8e77b95cfe3034e9cbe42db534545077eda48838882257a0c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07072",
+   "short": "Lei 7072/2024",
+   "title": "Lei nº 7.072, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7843",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7843/lei_no_7.072_de_2024_-mario_jose_cavalhier_vieira._-_honra_ao_merito.pdf",
+     "sha256": "beb1398f4c116c3ce2feb91c1c1f48e912fc1e68417367d12d2a10f8ac731bc3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07071",
+   "short": "Lei 7071/2024",
+   "title": "Lei nº 7.071, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7842",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7842/lei_no_7.071_de_2024_-jose_servulo_de_oliveira_-_honra_ao_merito.pdf",
+     "sha256": "076f4cfa02c3fc3484f172ec074d574e5eaf249f23aae07adb1421ff6b5ec6e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07070",
+   "short": "Lei 7070/2024",
+   "title": "Lei nº 7.070, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7841",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7841/lei_no_7.070_de_2024_-rubens_oliveira_simbra_de_souza_-_honra_ao_merito.pdf",
+     "sha256": "e419a68761961e6b4c75bfd8068c20ab9e9e74656d2b872b1ae3c17c65b1037d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07069",
+   "short": "Lei 7069/2024",
+   "title": "Lei nº 7.069, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7840",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7840/lei_no_7.069_de_2024_-joao_cleber_da_silva_-_honra_ao_merito.pdf",
+     "sha256": "ecfe82d7d1ebfc102bc8bec1baa4e0d13b818c110f6f3e1eb22aff6e45ea93f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07068",
+   "short": "Lei 7068/2024",
+   "title": "Lei nº 7.068, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7839",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7839/lei_no_7.068_de_2024_-victor_de_decco_correa_-_honra_ao_merito.pdf",
+     "sha256": "0a109e55f64ccdca369c9c829a5123d5dfda160859fd951a0f8149e509933cad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07067",
+   "short": "Lei 7067/2024",
+   "title": "Lei nº 7.067, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7838",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7838/lei_no_7.067_de_2024_-paulo_roberto_barros_silva_filho._-_honra_ao_merito.pdf",
+     "sha256": "1c6ab16eebdb49d62c158d1ce4837aaafeb3f1ac79916ea358b0c08997f92daf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07066",
+   "short": "Lei 7066/2024",
+   "title": "Lei nº 7.066, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7837",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7837/lei_no_7.066_de_2024_-maria_da_penha_marques_ferreira_-_honra_ao_merito.pdf",
+     "sha256": "b56fd3cc4334605a072de78dc581840b0533caec76d057dddb71f0cd112a1f97"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07065",
+   "short": "Lei 7065/2024",
+   "title": "Lei nº 7.065, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7836",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7836/lei_no_7.065_de_2024_-elson_carneiro_garcia.-_honra_ao_merito.pdf",
+     "sha256": "54817a04afdb4929b2ccbf450ddfacc16b62ab51e6ae844f18c51028ba67c910"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07064",
+   "short": "Lei 7064/2024",
+   "title": "Lei nº 7.064, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7835",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7835/lei_no_7.064_de_2024_-daniel_martins_de_paiva-_honra_ao_merito.pdf",
+     "sha256": "815706858db54c68c6af9f357b933155ba3808cc49aab4be694d9d78aee81e0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07063",
+   "short": "Lei 7063/2024",
+   "title": "Lei nº 7.063, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7834",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7834/lei_no_7.063_de_2024_-celi_cecilia_amarante_almeida_rocha_-_honra_ao_merito.pdf",
+     "sha256": "f707a9efbc930f31cbc76ea4f4b2c0044a63ab2f0497550786348bf7bd4f3828"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07062",
+   "short": "Lei 7062/2024",
+   "title": "Lei nº 7.062, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7833",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7833/lei_no_7.062_de_2024_-sandra_maria_braga_da_costa.-_honra_ao_merito.pdf",
+     "sha256": "ad25edf091c4edc3e01d61369c4f353dfd3415331f0d59fa6de254d4f2153810"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07061",
+   "short": "Lei 7061/2024",
+   "title": "Lei nº 7.061, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7832",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7832/lei_no_7.061_de_2024_-marta_lazarone_soares.-_honra_ao_merito.pdf",
+     "sha256": "aeac07ccf37fc4c268afd4ac08ff615fee40cf54c4a0610e7bd87bd1decbb458"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07060",
+   "short": "Lei 7060/2024",
+   "title": "Lei nº 7.060, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7831",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7831/lei_no_7.060_de_2024_-_fernando_trota_levati_-_honra_ao_merito.pdf",
+     "sha256": "a06c062935092b805fda4b075189fa78e3db2b68b0daf42b89ddb592cb1cd5c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07059",
+   "short": "Lei 7059/2024",
+   "title": "Lei nº 7.059, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7830",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7830/lei_no_7.059_de_2024_-_carlos_eduardo_pereira_oracio_-_honra_ao_merito.pdf",
+     "sha256": "4c3f052ba1dba349424e300c74b1caca9632b4fb42eea8b2895ba350a34e7ae5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07058",
+   "short": "Lei 7058/2024",
+   "title": "Lei nº 7.058, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7829",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7829/lei_no_7.058_de_2024_-rondineli_francisco_da_silva_fazolin_-_honra_ao_merito.pdf",
+     "sha256": "1b7c11b4c64653e64189961f76481618fe5fbe9b9d293f06595649d322e2fadc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07057",
+   "short": "Lei 7057/2024",
+   "title": "Lei nº 7.057, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7828",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7828/lei_no_7.057_de_2024_-_fernando_jose_medeiros_-_honra_ao_merito.pdf",
+     "sha256": "3c234b6ac40169966e7943c08801a29f0199d0fe91f8eef51ad06140bb9b09dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07056",
+   "short": "Lei 7056/2024",
+   "title": "Lei nº 7.056, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7875",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7875/lei_no_7.056_de_2024_-da_denominacao_a_logradouro_publico_de_rua_jose_franklin.pdf",
+     "sha256": "eb8d32162727ad53b8b9e2c66148fb798a9d49bd35290fac5bb017aafcba6df0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07051",
+   "short": "Lei 7051/2024",
+   "title": "Lei nº 7.051, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7874",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7874/lei_no_7.051_de_2024_-institui_o_dia_municipal_da_adocao_de_animais.pdf",
+     "sha256": "b756322145367513fd39dbb362b5c5c2a8c909484015b0dba6111b7c8b15fbc7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07044",
+   "short": "Lei 7044/2024",
+   "title": "Lei nº 7.044, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7873",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7873/lei_no_7.044_de_2024_-da_denominacao_de_rua_theobaldo_augusto_machado_a_logradouro_publico_situado_no_bairro_alto_do_castelo.pdf",
+     "sha256": "248e641b9029d6b8b4de52c2d73355cc27abe0b47f9947129ba7ea10cbc42cf2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07043",
+   "short": "Lei 7043/2024",
+   "title": "Lei nº 7.043, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7872",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7872/lei_no_7.043_de_2024_-da_denominacao_de_estrada_geraldo_pereira_pontes.pdf",
+     "sha256": "ad1d0ce6f2afa6ac2a8b0495e66fd17f35139eb75f8dab856f26e982bf9b4488"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07042",
+   "short": "Lei 7042/2024",
+   "title": "Lei nº 7.042, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7871",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7871/lei_no_7.042_de_2024_-da_denominacao_ao_coreto_da_praca_joao_pinheiro_de_coreto_affonso_augusto_canedo_neto.pdf",
+     "sha256": "e645b225d81317d571d5605b9384b2d2e62f580a4fcd45d1d735d2549f3ae11b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07041",
+   "short": "Lei 7041/2024",
+   "title": "Lei nº 7.041, de 21 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7870",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7870/lei_no_7.041_de_2024_-da_denominacao_a_rua_benedito_pererira_werneck_a_logradouro_publico.pdf",
+     "sha256": "b7a493e61b688dbe4589a923108f2e5037803f2f4ec690109b1f6b353764e9df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07055",
+   "short": "Lei 7055/2024",
+   "title": "Lei nº 7.055, de 20 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7827",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7827/lei_no_7.055_de_2024_-_suplementar_superavit_-_r_859.37500.pdf",
+     "sha256": "8aced63f8a83005c051877c375f092c2cd9a00ff0923b52d806a7be9c37a96b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07054",
+   "short": "Lei 7054/2024",
+   "title": "Lei nº 7.054, de 20 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7826",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7826/lei_no_7.054_de_2024_-_especial_superavit_-_r_205.00000.pdf",
+     "sha256": "f5851c63b2d6ad667d98147c5ef49eb69a582353b721747e8ecab08b018543f3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07050",
+   "short": "Lei 7050/2024",
+   "title": "Lei nº 7.050, de 20 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7825",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7825/lei_no_7.050_de_2024-_convenio_-_muriae_x_sebrae_-_psicultura_ornamental.pdf",
+     "sha256": "cc495cc851aa73ffdfca93f04f897d393295bed98b63b6ad55fe7fb078ccb639"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07049",
+   "short": "Lei 7049/2024",
+   "title": "Lei nº 7.049, de 20 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7824",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7824/lei_no_7.049_de_2024_-_ppa__-_r_252.12365.pdf",
+     "sha256": "a1f4254deeba7d8c13ee1578ab1f9781d9f3f574300074d405b3f69b42f66763"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07047",
+   "short": "Lei 7047/2024",
+   "title": "Lei nº 7.047, de 20 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7822",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7822/lei_no_7.047_de_2024-_abertura_de_credito_especial_-_superavit_-_r_252.12365_....pdf",
+     "sha256": "a398e70504d3b00c532fac63817d999e9181741ee7e8d6d5eb534bfa89b35081"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07046",
+   "short": "Lei 7046/2024",
+   "title": "Lei nº 7.046, de 20 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7821",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7821/lei_no_7.046_de_2024_-_ldo_-__r_252.12365.pdf",
+     "sha256": "bac10ba57b4c6a7c06eaeba4f7b2e4882500259bfda75873d15d410e997d5a30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07045",
+   "short": "Lei 7045/2024",
+   "title": "Lei nº 7.045, de 20 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7820",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7820/lei_no_7.045_de_2024-_abertura_de_credito_especial_-_superavit_-_r_177.32342.pdf",
+     "sha256": "85d89ca31cb805c3557f93d8bf8f0377d9ea5aee2ca499f7753ebefa1f42eeb5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07039",
+   "short": "Lei 7039/2024",
+   "title": "Lei nº 7.039, de 13 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7813",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7813/lei_no_7.039_de_2024-_abertura_de_credito_suplementar_-_r_2.000.00000_-_educacao.pdf",
+     "sha256": "1b969e98f9dcb54643cdb1c01a302e38d57127c604ac81f08fbfb4f5b008fe19"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07037",
+   "short": "Lei 7037/2024",
+   "title": "Lei nº 7.037, de 13 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7812",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7812/lei_no_7.037_de_2024_-_muriaeprev_suplementar_superav_-_r_11.500.00000.pdf",
+     "sha256": "f9e7f01f3234b0b76937de0781d63a8c3152d6cbb556362709c9e3498c25ce11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07036",
+   "short": "Lei 7036/2024",
+   "title": "Lei nº 7.036, de 13 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7811",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7811/lei_no_7.036_de_2024_-_suplementar_excesso_e_anulacao__-_r11.276.38000.pdf",
+     "sha256": "8ecc6fe9f6c47ad8ffa1c9f24380cfda2ce1695dc3e65049b0a758ae0b13ef4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07035",
+   "short": "Lei 7035/2024",
+   "title": "Lei nº 7.035, de 13 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7810",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7810/lei_no_7.035_de_2024_-_especial_excesso_-_r1.000.00000_-_saude.pdf",
+     "sha256": "24c26c4d1843ee0568ddd9c0ae6db50e63ffa2b236943b47113b26a3bec5a133"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07034",
+   "short": "Lei 7034/2024",
+   "title": "Lei nº 7.034, de 6 de agosto de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7808",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 5,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7808/lei_no_7.034_de_2024_-__abertura_de_credito_suplementar_-_r10.00000_-_camara_municipal.pdf",
+     "sha256": "4c6bb0466ff4b72eedb3f4be8e58b3484336d16eab6925e8e1f2dbbc4eb4d056"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07024",
+   "short": "Lei 7024/2024",
+   "title": "Lei nº 7.024, de 1 de julho de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7803",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7803/lei_no_7.024_de_2024_-_da_denominacao_a_praca_de_esportes_ronan_bastos_santos_-_joao_vi.pdf",
+     "sha256": "a8ffabdd15dba2693ec28e7a22f8874b3477af40c7f02ba35e8445d0dc529a4a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07023",
+   "short": "Lei 7023/2024",
+   "title": "Lei nº 7.023, de 1 de julho de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7802",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7802/lei_no_7.023_de_2024_-_da_denominacao_de_maria_da_penha_areal_carrizo_a_quadra_poliesportiva_existente_na_praca_agripino_torres.pdf",
+     "sha256": "653d91b4522121cc14a83981ef7a905d02f5846ddbe0d872791878178567bd9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07022",
+   "short": "Lei 7022/2024",
+   "title": "Lei nº 7.022, de 1 de julho de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7801",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7801/lei_no_7.022_de_2024_-_da_denominacao_a_logradouro_publico_praca_joao_paulo_nunes_neves.pdf",
+     "sha256": "6d4d1a75c5341c3e1f148709c05be22e9c39ae8037960ed65bcab62658e893d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07021",
+   "short": "Lei 7021/2024",
+   "title": "Lei nº 7.021, de 1 de julho de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7800",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 3,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7800/lei_no_7.021_de_2024_-_declara_de_utilidade_publica_a_associacao_dos_moradores_e_proprietarios_do_vales_e_montanhas_de_muriae__pro_vale.pdf",
+     "sha256": "34c0850248ef157c1d6bb9f9492723972afa8e6fd0a3c7799eba183ada4684ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-07020",
+   "short": "Lei 7020/2024",
+   "title": "Lei nº 7.020, de 1 de julho de 2024",
+   "url": "https://sapl.muriae.mg.leg.br/norma/7799",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 4,
+     "source_url": "https://sapl.muriae.mg.leg.br/media/sapl/public/normajuridica/2024/7799/lei_no_7.020_de_2024_-_da_denominacao_de_estrada_gumercindo_de_oliveira_campos.pdf",
+     "sha256": "139de9235e4684ee618ca4833be2ce79557dfc52d64fb9b4929c6291c5f6b07b"
+    }
+   ]
   }
  ]
 }
